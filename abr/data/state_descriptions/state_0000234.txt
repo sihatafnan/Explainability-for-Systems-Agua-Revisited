@@ -1,0 +1,19 @@
+Explanation:
+- **Network conditions**: Initially starts off with **stable** pattern, as observed from the features **Network Throughput (3 Mbps)**. In the middle, it exhibits a **slightly reduced to stable** pattern, as evident from features **Network Throughput (2.821 - 3 Mbps)**. In the end, it exhibits a **stable to optimal** pattern, based on features **Network Throughput (3 Mbps)**. Overall, the trend is **stable**, indicating the presence of **consistent conditions**.
+
+- **Viewer's video buffer**: Initially starts off with **stable** pattern, as observed from the features **Client Buffer (15 seconds)**. In the middle, it exhibits a **stable to nearly full** pattern, as evident from features **Client Buffer (15 seconds)**. In the end, it exhibits a **nearly full to full** pattern, based on features **Client Buffer (14.858 - 15 seconds)**. Overall, the trend is **stable**, indicating the presence of **adequate buffering conditions**.
+
+- **Viewer's Quality of Experience (environment reward or stalling behavior)**: Initially starts off with **stable high** pattern, as observed from the features **Quality of Experience (3.326)**. In the middle, it exhibits a **slightly decreased to stable** pattern, as evident from features **Quality of Experience (2.891 - 3.137)**. In the end, it exhibits a **stable to high** pattern, based on features **Quality of Experience (3.045 - 3.322)**. Overall, the trend is **stable**, indicating the presence of **consistent viewing conditions**.
+
+- **Upcoming video sizes**: Initially starts off with **very low** pattern, as observed from the features **Mean Upcoming Video Sizes (0.072 Mb)**. In the middle, it exhibits a **low to moderate** pattern, as evident from features **Mean Upcoming Video Sizes (0.246 - 0.447 Mb)**. In the end, it exhibits a **moderate to low** pattern, based on features **Mean Upcoming Video Sizes (0.447 - 0.107 Mb)**. Overall, the trend is **oscillating**, indicating the presence of **variable video size conditions**.
+
+- **Upcoming video qualities**: Initially starts off with **moderate** pattern, as observed from the features **Mean Upcoming Video Qualities (18.495 SSIM dB)**. In the middle, it exhibits a *low to moderate** pattern, as evident from features **Mean Upcoming Video Qualities (14.647 - 16.144 SSIM dB)**. In the end, it exhibits a **moderate to high** pattern, based on features **Mean Upcoming Video Qualities (16.144 - 19.472 SSIM dB)**. Overall, the trend is **increasing**, indicating the presence of **improving video quality conditions**.
+
+Altogether, the patterns in the features indicate **stable network**, **adequate client video player**, and **variable video stream patterns**.
+
+This correlates with the key concept of:
+1. **Stable, High Network Throughput**
+2. **Buffer Stability with Moderate Occupancy**
+3. **Quality of Experience** 
+4. **Moderate Network Throughput**
+5. **Smooth Switching Strategy**

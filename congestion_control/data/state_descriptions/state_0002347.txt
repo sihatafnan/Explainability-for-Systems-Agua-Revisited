@@ -1,0 +1,12 @@
+Explanation:
+
+Loss ratio (bytes lost / bytes sent): Initially starts off with a constant pattern, with a high mean and zero variance, as observed from the values at index 0 through index 9. Overall, the trend of this feature is stable, indicating the presence of high network utilization and potential congestion.
+
+Latency ratio (average latency / minimum latency): Initially starts off with a constant pattern, with a high mean and zero variance, as observed from the values at index 0 through index 9. Overall, the trend of this feature is stable, indicating the presence of congestion and queue buildup.
+
+Send ratio (sending rate / receiving rate): Initially starts off with a constant pattern, with a high mean and zero variance, as observed from the values at index 0 through index 9. Overall, the trend of this feature is stable, indicating the presence of high network utilization and data loss.
+
+Sent Latency Increase ((latency of later half - latency of first half) / sending duration): Initially starts off with a varying pattern, with a low mean and low variance, as observed from the values at index 0 through index 9. Overall, the trend of this feature is slightly variable, indicating the presence of volatile network conditions but with no clear increasing or decreasing trend.
+
+Combined Analysis: Altogether, the patterns in the features indicate congested network conditions. 
+This correlates with the key concepts of high network utilization and increasing packet loss, as evidenced by the constant loss ratio and latency ratio along with a high send ratio.

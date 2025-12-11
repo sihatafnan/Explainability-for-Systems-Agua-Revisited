@@ -1,0 +1,86 @@
+```yaml
+loss_ratio_observations:
+  - initial:
+      pattern: stable
+      mean: moderate
+      variance: low
+      indices: [0, 2]
+  - middle:
+      pattern: stable
+      mean: moderate
+      variance: low
+      indices: [3, 5]
+  - final:
+      pattern: stable
+      mean: moderate
+      variance: low
+      indices: [6, 9]
+  - summary:
+      overall_trend: stable
+      indicates: stable network conditions
+
+latency_ratio_observations:
+  - initial:
+      pattern: stable
+      mean: low
+      variance: zero
+      indices: [0, 2]
+  - middle:
+      pattern: stable
+      mean: low
+      variance: zero
+      indices: [3, 5]
+  - final:
+      pattern: stable
+      mean: low
+      variance: zero
+      indices: [6, 9]
+  - summary:
+      overall_trend: stable
+      indicates: low network utilization
+
+send_ratio_observations:
+  - initial:
+      pattern: stable
+      mean: slightly above one
+      variance: zero
+      indices: [0, 2]
+  - middle:
+      pattern: stable
+      mean: slightly above one
+      variance: zero
+      indices: [3, 5]
+  - final:
+      pattern: stable
+      mean: slightly above one
+      variance: zero
+      indices: [6, 9]
+  - summary:
+      overall_trend: stable
+      indicates: high network utilization
+
+sent_latency_increase_observations:
+  - initial:
+      pattern: volatile
+      mean: low
+      variance: low
+      indices: [0, 2]
+  - middle:
+      pattern: volatile
+      mean: low
+      variance: low
+      indices: [3, 5]
+  - final:
+      pattern: volatile
+      mean: low
+      variance: low
+      indices: [6, 9]
+  - summary:
+      overall_trend: volatile
+      indicates: volatile network conditions
+
+combined_analysis:
+  summary: stable network conditions with a hint of volatility
+  correlates_with: stability and high utilization
+  evidenced_by: consistent loss ratio and send ratio with slight variability in sent latency increase
+```

@@ -1,0 +1,58 @@
+```yaml
+Loss ratio (bytes lost / bytes sent):
+  Initially starts off with (a/an): increasing pattern
+  With (a/an): high mean and high variance
+  As observed from the values at index: 0 through index 1
+  Then, in the middle, it exhibits (a/an): stable to stable pattern
+  With (a/an): high mean and low variance 
+  As observed from the values at index: 1 through index 8
+  Finally, in the end, it exhibits (a/an): stable to stable pattern
+  With (a/an): high mean and low variance
+  As observed from the values at index: 8 through index 9
+  Overall, the trend of this feature is: stable
+  Indicating the presence of: stable network conditions
+
+Latency ratio (average latency / minimum latency):
+  Initially starts off with (a/an): increasing pattern
+  With (a/an): moderately high mean and moderate variance
+  As observed from the values at index: 0 through index 1
+  Then, in the middle, it exhibits (a/an): stable to stable pattern
+  With (a/an): high mean and low variance 
+  As observed from the values at index: 1 through index 8
+  Finally, in the end, it exhibits (a/an): stable to stable pattern
+  With (a/an): high mean and low variance
+  As observed from the values at index: 8 through index 9
+  Overall, the trend of this feature is: stable
+  Indicating the presence of: stable network conditions
+
+Send ratio (sending rate / receiving rate):
+  Initially starts off with (a/an): decreasing pattern
+  With (a/an): high mean and moderate variance
+  As observed from the values at index: 0 through index 1
+  Then, in the middle, it exhibits (a/an): stable to stable pattern
+  With (a/an): high mean and low variance 
+  As observed from the values at index: 1 through index 8
+  Finally, in the end, it exhibits (a/an): stable to stable pattern
+  With (a/an): high mean and low variance
+  As observed from the values at index: 8 through index 9
+  Overall, the trend of this feature is: stable
+  Indicating the presence of: stable network conditions
+
+Sent Latency Increase ((latency of later half - latency of first half) / sending duration):
+  Initially starts off with (a/an): decreasing pattern
+  With (a/an): moderate mean and moderate variance
+  As observed from the values at index: 0 through index 1
+  Then, in the middle, it exhibits (a/an): decreasing to stable pattern
+  With (a/an): low mean and low variance
+  As observed from the values at index: 1 through index 8
+  Finally, in the end, it exhibits (a/an): stable to decreasing pattern
+  With (a/an): low mean and low variance
+  As observed from the values at index: 8 through index 9
+  Overall, the trend of this feature is: stable
+  Indicating the presence of: stable network conditions
+
+Combined Analysis:
+  Altogether, the patterns in the features indicate: stable network conditions
+  This correlates with the key concepts of: stable network conditions
+  As evidenced by: consistent values in loss ratio, latency ratio, send ratio, and sent latency increase 
+```

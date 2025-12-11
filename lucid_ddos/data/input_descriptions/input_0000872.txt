@@ -1,0 +1,12 @@
+Explanation:
+Traffic Volume: Initially starts off with a consistent pattern, as observed from the features Timestamp and Packet Length. In the middle, it exhibits a spike to consistent pattern, as evident from features Packet Length increasing then dropping to 0. In the end, it exhibits a consistent to minimal pattern, based on features Packet Length remaining at 0. Overall, the trend is irregular, indicating the presence of potential DDoS conditions.
+
+Types of requests: Initially starts off with a uniform pattern, as observed from the features Higher Layer of Network and IP Flags of the request. In the middle, it exhibits a constant to altered pattern, as evident from features IP Flags changing. In the end, it exhibits a minimal to non-existent pattern, based on features Length of TCP Connection, Bytes Acknowledged by TCP, TCP Flags used, and TCP Window size all remaining at 0. Overall, the trend is consistent then drops, indicating the presence of potential probing or attack preparation conditions.
+
+Resource and rate of connection: Initially starts off with an active pattern, as observed from the features UDP connection length. In the middle, it exhibits a heightened to reduced pattern, as evident from features UDP connection length increasing then dropping to 0. In the end, it exhibits a minimal to non-existent pattern, based on features UDP connection length remaining at 0. Overall, the trend is diminishing, indicating the presence of resource probing followed by potential exhaustion conditions.
+
+IP or request patterns: Initially starts off with an identified pattern, as observed from the features Which protocol the connection is using. In the middle, it exhibits a stable to unchanged pattern, as evident from features showing consistency in the protocol used throughout. In the end, it exhibits a minimal to non-existent pattern, based on features showing no variation or activity in protocols towards the end. Overall, the trend is stable then inactive, indicating the presence of a potential focused attack or reconnaissance phase.
+
+Overall, this state exhibits irregular patterns and has signs of a potential DDoS attack.
+
+This correlates with the key concept of Anomalous Traffic Volume, Behavioral Anomalies, Rate of New Connections, Protocol Anomalies, and Multi-vector Analysis.

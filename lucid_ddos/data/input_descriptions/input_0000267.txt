@@ -1,0 +1,12 @@
+Explanation:
+Traffic Volume: Initially starts off with a uniform pattern, as observed from the features [Timestamp, Packet Length, Higher Layer of Network]. In the middle, it exhibits a decrease to a zero pattern, as evident from features [Packet Length and Higher Layer of Network turning to zero]. In the end, it exhibits a constant to a non-existent pattern, based on features [continuously zero values]. Overall, the trend is decreasing, indicating the presence of abnormal conditions.
+
+Types of requests: Initially starts off with a uniform pattern, as observed from the features [Packet Length, Higher Layer of Network, Which protocol the connection is using, TCP Flags used by the connection, TCP Window size]. In the middle, it exhibits a consistent to non-existent pattern, as evident from features [all becoming zero]. In the end, it exhibits zero to non-existent patterns, based on features [remaining at zero]. Overall, the trend is sharply decreasing, indicating the presence of disruptive conditions.
+
+Resource and rate of connection: Initially starts off with a consistent pattern, as observed from the features [TCP Flags, TCP Window size]. In the middle, it exhibits a decrease to non-existent pattern, as evident from features [Length of TCP Connection and Bytes Acknowledged by TCP remaining at zero]. In the end, it exhibits a constant to a non-existent pattern, based on features [continually zero values for TCP related measurements]. Overall, the trend is decreasing, indicating the presence of abnormal or potentially malicious conditions.
+
+IP or request patterns: Initially starts off with a consistent pattern, as observed from the features [Which protocol the connection is using, TCP Flags]. In the middle, it exhibits a consistent to non-existent pattern, as evident from features [IP Flags of the request remaining at zero]. In the end, it exhibits a constant to non-existent pattern, based on features [TCP and UDP connection lengths, Type of ICMP staying at zero]. Overall, the trend is decreasing, indicating the presence of abnormal or attack conditions.
+
+Overall, this state exhibits decreasing patterns and has signs of abnormal or potentially malicious activities.
+
+This correlates with the key concept of Baseline of Normal Traffic, Behavioral Analysis, Anomalous Traffic Volume, Resource Exhaustion Symptoms, and Protocol Compliance.

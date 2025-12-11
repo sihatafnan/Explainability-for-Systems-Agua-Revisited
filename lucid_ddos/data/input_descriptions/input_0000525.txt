@@ -1,0 +1,12 @@
+Explanation:
+Traffic Volume: Initially starts off with a stable pattern, as observed from the features Timestamp and Packet Length. In the middle, it exhibits an increase to variability pattern, as evident from features Timestamp (increased slightly) and Packet Length (increases in size). In the end, it exhibits a decrease to stable pattern, based on features both returning to initial values or showing no traffic. Overall, the trend is variable, indicating the presence of potential attack conditions.
+
+Types of requests: Initially starts off with a consistent pattern, as observed from the features Higher Layer of Network and which protocol the connection is using. In the middle, it maintains consistency to steady pattern, as evident from features remaining unchanged. In the end, it exhibits an unchanged to consistent pattern, based on features showing constant values or no data. Overall, the trend is consistent, indicating the presence of standardized request conditions.
+
+Resource and rate of connection: Initially starts off with a non-existent pattern, as observed from the features Length of TCP Connection, Bytes Acknowledged by TCP, TCP Flags used by the connection, and TCP Window size. In the middle, it maintains a steady to non-existent pattern, as evident from features showing no change. In the end, it exhibits a consistent to non-existent pattern, based on features having no data across the board. Overall, the trend is non-existent, indicating the presence of UDP-based or non-TCP traffic conditions.
+
+IP or request patterns: Initially starts off with a consistent pattern, as observed from the features UDP connection length and IP Flags of the request. In the middle, it exhibits an increase to variability pattern, as evident from features showing a change in IP Flags and UDP connection length. In the end, it exhibits a decrease to stable pattern, based on features showing no data, indicating lack of subsequent requests or traffic. Overall, the trend is variable, indicating the presence of potential irregular activity.
+
+Overall, this state exhibits variable and consistent patterns and has signs of DDoS activities.
+
+This correlates with the key concept of Baseline of Normal Traffic, Behavioral Analysis, Anomalous Traffic Volume, Unusual Traffic Patterns, and Multi-vector Analysis.

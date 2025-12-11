@@ -1,0 +1,12 @@
+Explanation:
+Traffic Volume: Initially starts off with a **constant** pattern, as observed from the features **Packet Length and Higher Layer of Network**. In the middle, it exhibits **a drop** to **zero** pattern, as evident from features **Packet Length, Higher Layer of Network**. In the end, it exhibits **a constant** to **zero** pattern, based on features **Packet Length, Higher Layer of Network**. Overall, the trend is **decreasing**, indicating the presence of **non-standard** conditions.
+
+Types of requests: Initially starts off with a **uniform** pattern, as observed from the features **Which protocol the connection is using, UDP connection length**. In the middle, it exhibits **a transition** to **inactive** pattern, as evident from features **TCP Flags used, Type of ICMP**. In the end, it exhibits **an inactive** to **inactive** pattern, based on features **TCP Flags used, Type of ICMP**. Overall, the trend is **declining**, indicating the presence of **anomalous** conditions.
+
+Resource and rate of connection: Initially starts off with **high utilization** pattern, as observed from the features **Packet Length, UDP connection length**. In the middle, it exhibits **a drop** to **no utilization** pattern, as evident from features **Length of TCP Connection, Bytes Acknowledged by TCP**. In the end, it exhibits **no utilization** to **no utilization** pattern, based on features **Length of TCP Connection, TCP Window size**. Overall, the trend is **sharp decline**, indicating the presence of **disruption or blocking** conditions.
+
+IP or request patterns: Initially starts off with **consistent** pattern, as observed from the features **IP Flags of the request**. In the middle, it exhibits **a consistent** to **non-existent** pattern, as evident from features **IP Flags of the request**. In the end, it exhibits **non-existent** to **non-existent** pattern, based on features **IP Flags of the request**. Overall, the trend is **from consistent to non-existent**, indicating the presence of **interruption** conditions.
+
+Overall, this state exhibits **anomalous and disruptive** patterns and has signs of **potential DDoS activities**.
+
+This correlates with the key concept of **Anomalous Traffic Volume, Unusual Traffic Patterns, Behavioral Anomalies, Protocol Compliance**, and **Application Behavior**.

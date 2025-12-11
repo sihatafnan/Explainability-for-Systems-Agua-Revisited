@@ -1,0 +1,12 @@
+Explanation:
+Traffic Volume: Initially starts off with a consistent pattern, as observed from the features timestamps and packet lengths. In the middle, it exhibits a transition to an inactive pattern, as evident from features showing a drop to zero value in traffic attributes. In the end, it exhibits an inactive to inactive pattern, based on features showing consistent zero values. Overall, the trend is from active to inactive, indicating the presence of abnormal conditions.
+
+Types of requests: Initially starts off with a consistent pattern, as observed from the features indicating UDP connection length. In the middle, it exhibits a transition to no requests pattern, as evident from features indicating zero UDP connection length. In the end, it exhibits no requests to no requests pattern, based on features showing consistent zero values in UDP connection length. Overall, the trend is from consistent to absent, indicating the presence of abnormal conditions.
+
+Resource and rate of connection: Initially starts off with active usage patterns, as observed from the features packet lengths and UDP connection lengths. In the middle, it exhibits a reduction to no usage pattern, as evident from features showing zero values in TCP and UDP related features. In the end, it exhibits a continued no usage pattern, based on features maintaining zero values. Overall, the trend is a decrease from active to none, indicating the presence of abnormal conditions.
+
+IP or request patterns: Initially starts off with a consistent pattern, as observed from the features higher layer of network and IP flags of the request. In the middle, it exhibits a consistency to inactivity pattern, as evident from maintaining the same IP flags then transitioning to zero traffic. In the end, it exhibits inactivity to inactivity pattern, based on features showing zero traffic. Overall, the trend is consistent to inactive, indicating the presence of abnormal conditions.
+
+Overall, this state exhibits inconsistent patterns and has signs of a potential attack.
+
+This correlates with the key concept of Anomalous Traffic Volume, Behavioral Anomalies, Machine Learning and AI Detection, Rate of New Connections, and Unusual Traffic Patterns.

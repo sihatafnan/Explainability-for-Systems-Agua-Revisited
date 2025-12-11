@@ -1,0 +1,13 @@
+Explanation:
+
+Traffic Volume: Initially starts off with a consistent pattern, as observed from the features "Packet Length" and "Higher Layer of Network." In the middle, it exhibits a decrease to a zero pattern, as evident from features "Packet Length" and "Higher Layer of Network" dropping to 0. In the end, it exhibits a no-change to a zero pattern, based on features staying at 0. Overall, the trend is a drop to zero after consistent initial values, indicating the presence of anomalous conditions.
+
+Types of requests: Initially starts off with a standard protocol pattern, as observed from the features "Which protocol the connection is using" and "TCP Flags used by the connection." In the middle, it exhibits a change to a non-standard or paused pattern, as evident from features "TCP Flags used by the connection" showing a change and "Which protocol the connection is using" staying the same but other activities halting. In the end, it exhibits a no-activity to a paused pattern, based on features not changing and remaining at 0. Overall, the trend is a shift from standard to halted, indicating the presence of unusual conditions.
+
+Resource and rate of connection: Initially starts off with a regular connection attempt pattern, as observed from the features "TCP Flags used by the connection" and "TCP Window size". In the middle, it exhibits a terminated to a non-existent connection pattern, as evident from features "TCP Window size" dropping to 0 and "TCP Flags used by the connection" changing. In the end, it exhibits a no-connection to a non-existent pattern, based on features remaining at 0. Overall, the trend is from active to completely inactive, indicating the presence of resource exhaustion or blocking conditions.
+
+IP or request patterns: Initially starts off with a legitimate request pattern, as observed from the features "Bytes Acknowledged by TCP" and "IP Flags of the request." In the middle, it exhibits a changing to a suspicious pattern, as evident from features "IP Flags of the request" showing an anomaly and "Bytes Acknowledged by TCP" showing a minimal acknowledgment. In the end, it exhibits a no-action to a suspicious pattern, based on features remaining unchanged at minimal or zero values. Overall, the trend is from legitimate to suspicious and finally to no activity, indicating the presence of blocking or filtering conditions.
+
+Overall, this state exhibits irregular and disruptive patterns and has signs of a DDoS attack.
+
+This correlates with the key concept of Baseline of Normal Traffic, Behavioral Analysis, Anomalous Traffic Volume, Protocol Compliance, and Machine Learning and AI Detection.

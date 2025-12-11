@@ -1,0 +1,59 @@
+### Explanation:
+
+#### Network conditions
+- **Initially starts off with:** a stable pattern
+- **Features:** consistent transmission times, moderate network throughput values ([2nd: ~0.629 Mbps](0.496, 0.478, 0.602))
+- **In the middle, it exhibits:** a moderate to stable pattern
+- **Evident from features:** slightly rising transmission times with stable network throughput (~0.7 Mbps, such as 0.702 and 0.671)
+- **In the end, it exhibits:** a slightly decreasingly stable pattern
+- **Based on features:** transmission times and throughput show less variance, while throughput slightly drops (0.576, 0.577)
+- **Overall trend:** consistent, indicating stable network conditions
+
+#### Viewer's video buffer
+- **Initially starts off with:** a stable pattern
+- **Features:** consistently full buffer (near 15 seconds)
+- **In the middle, it exhibits:** a slight fluctuation to stable pattern
+- **Evident from features:** minor deviation with buffer values like 14.953, 14.944
+- **In the end, it exhibits:** a slightly fluctuating but relatively stable pattern
+- **Based on features:** buffer slightly drops to around 14.855 
+- **Overall trend:** consistent, indicating robust buffer conditions
+
+#### Viewer's Quality of Experience (environment reward or stalling behavior)
+- **Initially starts off with:** a stable pattern
+- **Features:** consistent QoE values around mid-3 range (3.252, 3.286)
+- **In the middle, it exhibits:** a gradual improvement pattern
+- **Evident from features:** rising QoE values (3.345 to 3.508)
+- **In the end, it exhibits:** a minor fluctuation but relatively high pattern
+- **Based on features:** QoE stabilizes around 3.420, 3.422
+- **Overall trend:** improvement, indicating good viewing conditions without stalling (0.000 stalling)
+
+#### Upcoming video sizes
+- **Initially starts off with:** decreasing pattern
+- **Features:** steadily low video sizes (0.261, 0.162)
+- **In the middle, it exhibits:** a further decline
+- **Evident from features:** lower mid-values like 0.162 to 0.130 
+- **In the end, it exhibits:** a consistently low pattern
+- **Based on features:** lowest values around 0.109
+- **Overall trend:** consistent decrease, indicating increasingly efficient video sizes
+
+#### Upcoming video qualities
+- **Initially starts off with:** a low pattern
+- **Features:** below mid SSIM values (11.603, 11.931)
+- **In the middle, it exhibits:** moderate fluctuation pattern
+- **Evident from features:** slight fluctuations (11.890 to 11.303)
+- **In the end, it exhibits:** a slight report towards higher pattern
+- **Based on features:** moderate increase visible (11.303 to 12.546)
+- **Overall trend:** gradual increase, indicating improving video quality
+
+### Summary:
+Altogether, the patterns in the features indicate:
+1. **Stable network** conditions,
+2. **Robust client video player**,
+3. **Adapting video stream** patterns.
+
+This correlates with key concepts of:
+1. **Moderate Network Throughput**,
+2. **Buffer Stability**,
+3. **Smooth Switching Strategy**,
+4. **Adaptive Strategy for Network Fluctuations**, and
+5. **High Content Complexity**.

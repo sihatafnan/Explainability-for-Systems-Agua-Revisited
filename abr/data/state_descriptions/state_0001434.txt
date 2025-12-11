@@ -1,0 +1,13 @@
+Network conditions: Initially starts off with a low throughput and stable pattern, as observed from the features [0.325 Mbps and 0.309 Mbps]. In the middle, it exhibits a gradual improvement to moderate pattern, as evident from features [0.427 Mbps, 0.492 Mbps, 0.566 Mbps, and 0.572 Mbps]. In the end, it exhibits a declining to low throughput pattern, based on features [0.471 Mbps, 0.357 Mbps, and 0.326 Mbps]. Overall, the trend is fluctuating, indicating the presence of unstable network conditions.
+
+Viewer's video buffer: Initially starts off with a low but stable pattern, as observed from the features [4.736 seconds, 4.790 seconds]. In the middle, it exhibits a gradual increase to moderate buffer health, as evident from features [5.012 seconds, 5.597 seconds, 5.942 seconds, and 6.190 seconds]. In the end, it exhibits a slight variability but still moderate pattern, based on features [6.320 seconds, 5.910 seconds, and 6.323 seconds]. Overall, the trend is increasing, indicating the presence of moderate buffer stability.
+
+Viewer's Quality of Experience (environment reward or stalling behavior): Initially starts off with a low pattern, as observed from the features [1.620, 2.189]. In the middle, it exhibits a moderate improvement pattern, as evident from features [2.541, 2.693]. In the end, it exhibits a relatively stable and moderate pattern, based on features [2.674, 2.681, 2.671]. Overall, the trend is improving, indicating the presence of acceptable user experience conditions.
+
+Upcoming video sizes: Initially starts off with a low to moderate pattern, as observed from the features [0.450 Mb, 0.552 Mb]. In the middle, it exhibits a fluctuating but generally stable pattern, as evident from features [0.460 Mb, 0.519 Mb]. In the end, it exhibits a consistent moderate pattern, based on features [0.504 Mb]. Overall, the trend is stable, indicating the presence of consistent video size conditions.
+
+Upcoming video qualities: Initially starts off with a low but gradually improving pattern, as observed from the features [9.441 SSIM dB, 9.486 SSIM dB]. In the middle, it exhibits a slight increase pattern, as evident from features [9.563 SSIM dB, 10.735 SSIM dB]. In the end, it exhibits a consistent pattern, based on features [10.735 SSIM dB]. Overall, the trend is improving, indicating the presence of better video quality conditions over time.
+
+Overall, the patterns in the features indicate fluctuating network, moderately stable client video player, and improving video stream patterns.
+
+This correlates with the key concepts of network throughput volatility, rapidly depleting buffer health, moderate network throughput, adaptive strategy for network fluctuations, and smooth switching strategy.

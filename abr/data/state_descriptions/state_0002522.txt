@@ -1,0 +1,14 @@
+Explanation:
+  Network conditions: Initially starts off with a poor pattern, as observed from the features [Network Throughput: 0.000 Mbps, Transmission Time: 0.000 seconds]. In the middle, it exhibits a poor to moderate pattern, as evident from features [Network Throughput: 0.067-0.073 Mbps, Transmission Time: 0.203-3.438 seconds]. In the end, it exhibits a moderate to stable pattern, based on features [Network Throughput: 0.073-0.072 Mbps, Transmission Time: 1.138 seconds]. Overall, the trend is stabilizing, indicating the presence of initially poor but improving network conditions.
+
+  Viewer's video buffer: Initially starts off with a poor pattern, as observed from the features [Client Buffer: 0.000 seconds]. In the middle, it exhibits a healthy to fluctuating pattern, as evident from features [Client Buffer: 2.002-5.948 seconds]. In the end, it exhibits a fluctuating to moderate pattern, based on features [Client Buffer: 2.895-3.760 seconds]. Overall, the trend is recovery, indicating the presence of initially poor but stabilizing buffer conditions.
+
+  Viewer's Quality of Experience (environment reward or stalling behavior): Initially starts off with a poor pattern, as observed from the features [Quality of Experience: -5.000]. In the middle, it exhibits an improved to stable pattern, as evident from features [Quality of Experience: 3.356-2.742]. In the end, it exhibits a stable to slightly degraded pattern, based on features [Quality of Experience: 2.201]. Overall, the trend is recovering, indicating the presence of initially poor but stabilizing quality of experience conditions.
+
+  Upcoming video sizes: Initially starts off with a moderate pattern, as observed from the features [Mean Upcoming Video Sizes: 0.299 Mb]. In the middle, it exhibits a low to high pattern, as evident from features [Mean Upcoming Video Sizes: 0.110-0.603 Mb]. In the end, it exhibits a high to moderate pattern, based on features [Mean Upcoming Video Sizes: 0.444 Mb]. Overall, the trend is fluctuating, indicating the presence of variable content complexity conditions.
+
+  Upcoming video qualities: Initially starts off with a moderate pattern, as observed from the features [Mean Upcoming Video Qualities: 12.479 SSIM dB]. In the middle, it exhibits a moderate to high pattern, as evident from features [Mean Upcoming Video Qualities: 12.355-13.449 SSIM dB]. In the end, it exhibits a moderate pattern, based on features [Mean Upcoming Video Qualities: 12.876 SSIM dB]. Overall, the trend is moderate, indicating the presence of stable content quality conditions.
+
+  Altogether, the patterns in the features indicate fluctuating network, recovering client video player, and stabilizing video stream patterns.
+  
+  This correlates with the key concept of Network Throughput Volatility, Rapidly Depleting Buffer Health, Low Content Complexity, Moderate Network Throughput, and Smooth Switching Strategy.

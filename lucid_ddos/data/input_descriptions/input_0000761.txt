@@ -1,0 +1,12 @@
+Explanation:
+Traffic Volume: Initially starts off with a uniform pattern, as observed from the features "Packet Length" and "Timestamps". In the middle, it exhibits a spike to irregular pattern, as evident from features "Packet Length (557kb)" and "Timestamps". In the end, it exhibits a return to uniform pattern, based on features "Packet Length" returning to "40kb" and "Timestamps". Overall, the trend is fluctuating, indicating the presence of potential DDoS conditions.
+
+Types of requests: Initially starts off with a consistent pattern, as observed from the features "Higher Layer of Network" and "Which protocol the connection is using". In the middle, it exhibits a deviation to consistent pattern, as evident from features "Higher Layer of Network changes". In the end, it exhibits a return to consistent pattern, based on features "Higher Layer of Network". Overall, the trend is predictable with a momentary deviation, indicating the presence of anomalous conditions.
+
+Resource and rate of connection: Initially starts off with a low engagement pattern, as observed from the features "Length of TCP Connection" and "Bytes Acknowledged by TCP". In the middle, it exhibits an engaged to high engagement pattern, as evident from features "Length of TCP Connection (517)" and "Bytes Acknowledged by TCP shows activity". In the end, it exhibits a return to low engagement pattern, based on features "Length of TCP Connection" returns to "0". Overall, the trend is transiently heightened, indicating the presence of abnormal conditions.
+
+IP or request patterns: Initially starts off with a stable pattern, as observed from the features "IP Flags of the request" and "TCP Flags used by the connection". In the middle, it exhibits a stable to variable pattern, as evident from features "TCP Flags change to 24". In the end, it exhibits a return to stable pattern, based on features "TCP Flags return to 16". Overall, the trend is variable amidst stability, indicating the presence of unusual conditions.
+
+Overall, this state exhibits fluctuating patterns and has signs of a DDoS attack.
+
+This correlates with the key concept of Anomalous Traffic Volume, Unusual Traffic Patterns, Behavioral Anomalies, Protocol Anomalies, and Multi-vector Analysis.

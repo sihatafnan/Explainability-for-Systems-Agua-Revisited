@@ -1,0 +1,26 @@
+State:
+- Selected Video Quality (SSIM dB), with a max of 25: [14.492, 15.356, 16.401, 15.105, 15.110, 15.058, 16.269, 16.482, 17.448, 17.866, ]
+- Selected Chunk Size (Mb), with a max of 3: [2.135, 1.878, 1.768, 2.350, 2.061, 2.078, 0.168, 0.166, 0.453, 0.384, ]
+- Transmission Time of Chunk (seconds), with a max of 20: [3.048, 2.626, 3.214, 4.969, 3.344, 2.669, 0.200, 0.204, 0.556, 0.520, ]
+- Network Throughput (Mbps), with a max of 3: [0.701, 0.715, 0.550, 0.473, 0.616, 0.779, 0.839, 0.817, 0.815, 0.738, ]
+- Client Buffer (seconds), with a max of 15: [13.809, 13.185, 11.973, 9.006, 7.664, 6.998, 8.799, 10.598, 12.043, 13.526, ]
+- Quality of Experience, with a max of 5: [2.635, 2.951, 3.060, 2.862, 3.028, 3.016, 3.022, 3.172, 3.198, 3.313, ]
+- Stalling (seconds), with a max of 3: [0.000, 0.000, 0.000, 0.000, 0.000, 0.000, 0.000, 0.000, 0.000, 0.000, ]
+- Mean Upcoming Video Qualities (SSIM dB), with a max of 25: [13.524, 13.602, 15.875, 15.936, 16.093, ]
+- Mean Upcoming Video Sizes (Mb), with a max of 3: [0.081, 0.111, 0.033, 0.030, 0.056, ]
+
+Explanation:
+- Network conditions: Initially starts off with a stable pattern, as observed from the features Network Throughput and Transmission Time of Chunk. In the middle, it exhibits a fluctuating to improving pattern, as evident from features Chunk Size and Network Throughput. In the end, it exhibits a consistent to slightly improving pattern, based on features Network Throughput and Chunk Size. Overall, the trend is improving, indicating the presence of bettering network conditions.
+- Viewer's video buffer: Initially starts off with a stable pattern, as observed from the features Client Buffer and Transmission Time of Chunk. In the middle, it exhibits a depleting to recovering pattern, as evident from features Client Buffer and Transmission Time of Chunk. In the end, it exhibits a replenishing to stable pattern, based on features Client Buffer and Transmission Time of Chunk. Overall, the trend is improving, indicating the presence of recovering buffer conditions.
+- Viewer's Quality of Experience (environment reward or stalling behavior): Initially starts off with a low to moderate pattern, as observed from the features Quality of Experience and Stalling. In the middle, it exhibits a moderate to low pattern, as evident from features Quality of Experience and Selected Video Quality. In the end, it exhibits an improving to high pattern, based on features Quality of Experience and Selected Video Quality. Overall, the trend is improving, indicating the presence of bettering viewing conditions.
+- Upcoming video sizes: Initially starts off with a stable pattern, as observed from the features Mean Upcoming Video Sizes. In the middle, it exhibits a reducing to very low pattern, as evident from features Mean Upcoming Video Sizes. In the end, it exhibits an increasing to stable pattern, based on features Mean Upcoming Video Sizes. Overall, the trend is stable, indicating the presence of consistent video size conditions.
+- Upcoming video qualities: Initially starts off with a stable pattern, as observed from the features Mean Upcoming Video Qualities. In the middle, it exhibits an increasing to high pattern, as evident from features Mean Upcoming Video Qualities. In the end, it exhibits a stable to high pattern, based on features Mean Upcoming Video Qualities. Overall, the trend is improving, indicating the presence of enhancing video quality conditions.
+
+Altogether, the patterns in the features indicate recovering network, improving client video player, and enhancing video stream patterns. 
+
+This correlates with the key concept of:
+- Moderate Network Throughput
+- Buffer Stability with Moderate Occupancy
+- Adaptive Strategy for Network Fluctuations
+- Smooth Switching Strategy
+- High Content Complexity

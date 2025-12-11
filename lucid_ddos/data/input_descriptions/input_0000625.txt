@@ -1,0 +1,12 @@
+Explanation:
+Traffic Volume: Initially starts off with a uniform pattern, as observed from the features [Timestamp, Packet Length, Higher Layer of Network, IP Flags of the request]. In the middle, it exhibits a decrease to a null pattern, as evident from features [Timestamp progression without changes, Packet Length dropping to 0]. In the end, it exhibits a null to null pattern, based on features [consistent zero across Packet Length, Higher Layer of Network, IP Flags]. Overall, the trend is decreasing to null, indicating the presence of anomaly conditions.
+
+Types of requests: Initially starts off with a standardized pattern, as observed from the features [Which protocol the connection is using, TCP Flags used by the connection]. In the middle, it exhibits a fall to a non-existent pattern, as evident from features [protocol numbers dropping to 0, no TCP Flags]. In the end, it exhibits a non-existent to non-existent pattern, based on features [consistent zeros in protocol and TCP Flags]. Overall, the trend is declining to non-existent, indicating the presence of irregular conditions.
+
+Resource and rate of connection: Initially starts off with a consistent pattern, as observed from the features [Length of TCP Connection, TCP Window size]. In the middle, it exhibits a drop to a non-active pattern, as evident from features [Length of TCP Connection and TCP Window size maintaining initial values then dropping to 0]. In the end, it exhibits a non-active to non-active pattern, based on features [continued zeros in TCP Connection Length and TCP Window size]. Overall, the trend is stable to inactive, indicating the presence of unusual conditions.
+
+IP or request patterns: Initially starts off with a normal pattern, as observed from the features [Higher Layer of Network, IP Flags of the request]. In the middle, it exhibits a deviation to absence pattern, as evident from features [sudden drop in Higher Layer of Network activity and IP Flags to 0]. In the end, it exhibits an absence to absence pattern, based on features [continued absence of IP Flags and Higher Layer of Network activity]. Overall, the trend is normal to absent, indicating the presence of abnormal conditions.
+
+Overall, this state exhibits anomalous patterns and has signs of potential DDoS attacks.
+
+This correlates with the key concept of Behavioral Analysis, Anomalous Traffic Volume, Protocol Compliance, Machine Learning and AI Detection, and Rate of New Connections.

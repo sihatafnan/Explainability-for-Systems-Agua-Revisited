@@ -1,0 +1,19 @@
+Loss ratio (bytes lost / bytes sent):
+
+Initially starts off with a stable pattern, with a high mean and low variance, as observed from the values at index 0 through index 5. Then, in the middle, it exhibits a stable to slightly decreasing pattern, with a high mean and low variance, as observed from the values at index 6 through index 8. Finally, in the end, it exhibits a stable to slightly decreasing pattern, with a high mean and low variance, as observed from the value at index 9. Overall, the trend of this feature is stable, indicating the presence of volatile network conditions.
+
+Latency ratio (average latency / minimum latency):
+
+Initially starts off with a stable pattern, with a low mean and zero variance, as observed from the values at index 0 through index 9. Then, in the middle, it exhibits a stable pattern, with a low mean and zero variance, as observed from the values at index 0 through index 9. Finally, in the end, it exhibits a stable pattern, with a low mean and zero variance, as observed from the values at index 0 through index 9. Overall, the trend of this feature is stable, indicating the presence of stable network conditions.
+
+Send ratio (sending rate / receiving rate):
+
+Initially starts off with a stable pattern, with a high mean and low variance, as observed from the values at index 0 through index 8. Then, in the middle, it exhibits a stable to slightly decreasing pattern, with a high mean and low variance, as observed from the value at index 8. Finally, in the end, it exhibits a stable pattern, with a high mean and low variance, as observed from the value at index 9. Overall, the trend of this feature is stable, indicating the presence of high network utilization.
+
+Sent Latency Increase ((latency of later half - latency of first half) / sending duration):
+
+Initially starts off with a stable pattern, with a low mean and moderate variance, as observed from the values at index 0 through index 4. Then, in the middle, it exhibits a volatile pattern, with a moderate mean and high variance, as observed from the values at index 5 through index 8. Finally, in the end, it exhibits a volatile pattern, with a moderate mean and high variance, as observed from the value at index 9. Overall, the trend of this feature is volatile, indicating the presence of volatile network conditions.
+
+Combined Analysis:
+
+Altogether, the patterns in the features indicate volatile network conditions. This correlates with the key concepts of volatile network conditions, as evidenced by the stable to decreasing patterns in loss and send ratios, stable latency ratio, and volatile sent latency increase.

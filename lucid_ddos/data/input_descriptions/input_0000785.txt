@@ -1,0 +1,10 @@
+Explanation:
+Traffic Volume: Initially starts off with a uniform pattern, as observed from the features [Packet Length, Higher Layer of Network, UDP connection length]. In the middle, it exhibits a decrease to null pattern, as evident from features [all features dropping to 0]. In the end, it exhibits a null to null pattern, based on features [all remaining 0]. Overall, the trend is from uniform to null, indicating the presence of abnormal conditions.
+Types of requests: Initially starts off with a specific protocol pattern, as observed from the features [Which protocol the connection is using]. In the middle, it exhibits a decrease to non-existent pattern, as evident from features [protocol usage drops to 0]. In the end, it exhibits a non-existent to non-existent pattern, based on features [protocol remains at 0]. Overall, the trend is specific to non-existent, indicating the presence of abnormal conditions.
+Resource and rate of connection: Initially starts off with an active pattern, as observed from the features [Length of TCP Connection, Bytes Acknowledged by TCP, TCP Flags used by the connection, TCP Window size]. In the middle, it exhibits an inactive to inactive pattern, as evident from features [all these features remain at 0]. In the end, it exhibits an inactive to inactive pattern, based on features [continuously 0]. Overall, the trend is active to inactive, indicating the presence of abnormal conditions.
+IP or request patterns: Initially starts off with a consistent pattern, as observed from the features [IP Flags of the request]. In the middle, it exhibits a consistent to null pattern, as evident from features [IP Flags remain constant then drop to 0]. In the end, it exhibits a null to null pattern, based on features [IP Flags staying at 0]. Overall, the trend is consistent to null, indicating the presence of abnormal conditions.
+
+Overall, this state exhibits abnormal patterns and has signs of a potential DDoS attack.
+
+This correlates with the key concept of Baseline of Normal Traffic, Behavioral Analysis, Anomalous Traffic Volume, Unusual Traffic Patterns, and Machine Learning and AI Detection.
+

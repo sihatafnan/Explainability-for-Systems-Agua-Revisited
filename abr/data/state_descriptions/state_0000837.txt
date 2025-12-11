@@ -1,0 +1,18 @@
+Network conditions: Initially starts off with a volatile pattern, as observed from the features [Network Throughput, Transmission Time of Chunk, Selected Chunk Size]. In the middle, it exhibits a moderate to stable pattern, as evident from features [Network Throughput, Transmission Time of Chunk]. In the end, it exhibits a stable to improving pattern, based on features [Network Throughput, Transmission Time of Chunk]. Overall, the trend is improving, indicating the presence of fluctuating but gradually improving network conditions.
+
+Viewer's video buffer: Initially starts off with a rapidly depleting pattern, as observed from the features [Client Buffer]. In the middle, it exhibits a stable to increasing pattern, as evident from features [Client Buffer]. In the end, it exhibits a high and robust pattern, based on features [Client Buffer]. Overall, the trend is increasing, indicating the presence of improving buffer conditions.
+
+Viewer's Quality of Experience (environment reward or stalling behavior): Initially starts off with a low pattern, as observed from the features [Quality of Experience]. In the middle, it exhibits a moderate to high pattern, as evident from features [Quality of Experience]. In the end, it exhibits a moderate pattern with occasional dips, based on features [Quality of Experience]. Overall, the trend is moderate to high, indicating the presence of fluctuating but generally improving quality of experience conditions.
+
+Upcoming video sizes: Initially starts off with a low pattern, as observed from the features [Mean Upcoming Video Sizes]. In the middle, it exhibits a moderate to high pattern, as evident from features [Mean Upcoming Video Sizes]. In the end, it exhibits a high pattern, based on features [Mean Upcoming Video Sizes]. Overall, the trend is increasing, indicating the presence of larger upcoming video sizes.
+
+Upcoming video qualities: Initially starts off with a high pattern, as observed from the features [Mean Upcoming Video Qualities]. In the middle, it exhibits a moderate to stable pattern, as evident from features [Mean Upcoming Video Qualities]. In the end, it exhibits a low to moderate pattern, based on features [Mean Upcoming Video Qualities]. Overall, the trend is decreasing, indicating the presence of varying upcoming video qualities.
+
+Altogether, the patterns in the features indicate a fluctuating network, improving client video player, and increasing video stream patterns.
+
+This correlates with the key concepts of:
+1. Network Throughput Volatility
+2. Rapidly Depleting Buffer Health
+3. Moderate Network Throughput
+4. Buffer Stability with Moderate Occupancy
+5. Smooth Switching Strategy

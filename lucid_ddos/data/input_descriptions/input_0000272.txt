@@ -1,0 +1,12 @@
+Explanation:
+Traffic Volume: Initially starts off with a consistent pattern, as observed from the features Packet Length and Higher Layer of Network. In the middle, it exhibits a drop to zero pattern, as evident from features Packet Length dropping to 0.000. In the end, it exhibits a zero to zero pattern, based on features maintaining at 0.000. Overall, the trend is decreasing, indicating the presence of abnormal conditions. 
+
+Types of requests: Initially starts off with a consistent pattern, as observed from the features TCP Flags used by the connection and Which protocol the connection is using. In the middle, it exhibits a change to different behavior pattern, as evident from features IP Flags of the request changing. In the end, it exhibits a constant to constant pattern, based on features stabilizing. Overall, the trend is variable, indicating the presence of unusual conditions.
+
+Resource and rate of connection: Initially starts off with a normal pattern, as observed from the features TCP Window size and Bytes Acknowledged by TCP. In the middle, it exhibits a depletion to zero pattern, as evident from features TCP Window size dropping to 0.000. In the end, it exhibits a zero to zero pattern, based on features remaining at zero. Overall, the trend is decrease, indicating the presence of resource exhaustion conditions.
+
+IP or request patterns: Initially starts off with a normal pattern, as observed from the features Protocol and Higher Layer of Network being consistent. In the middle, it exhibits a shift to abnormal pattern, as evident from features IP Flags of the request changing. In the end, it exhibits a consistent to consistent pattern, based on higher layer network values remaining constant. Overall, the trend is shifting, indicating the presence of irregular conditions.
+
+Overall, this state exhibits variable patterns and has signs of a potential DDoS attack. 
+
+This correlates with the key concept of Behavioral Analysis, Anomalous Traffic Volume, Rate of New Connections, Protocol Anomalies, and Resource Exhaustion Symptoms.

@@ -1,0 +1,12 @@
+Explanation:
+Traffic Volume: Initially starts off with a **consistent** pattern, as observed from the features **Timestamp and Packet Length**. In the middle, it exhibits a **drop** to **zero** pattern, as evident from features **Timestamp, Packet Length**. In the end, it exhibits a **zero** to **zero** pattern, based on features **Timestamp, Packet Length**. Overall, the trend is **dropping**, indicating the presence of **abnormal** conditions.
+
+Types of requests: Initially starts off with a **uniform** pattern, as observed from the features **Higher Layer of Network and Protocol**. In the middle, it exhibits a **uniform** to **no activity** pattern, as evident from features **Higher Layer of Network and Protocol**. In the end, it exhibits a **no activity** to **no activity** pattern, based on features **Higher Layer of Network and Protocol**. Overall, the trend is **decreasing**, indicating the presence of **abnormal** conditions.
+
+Resource and rate of connection: Initially starts off with a **normal** pattern, as observed from the features **UDP connection length**. In the middle, it exhibits a **normal** to **zero activity** pattern, as evident from features **UDP connection length**. In the end, it exhibits a **zero activity** to **zero activity** pattern, based on features **UDP connection length**. Overall, the trend is **decreasing to zero**, indicating the presence of **abnormal** conditions.
+
+IP or request patterns: Initially starts off with a **consistent** pattern, as observed from the features **IP Flags of the request**. In the middle, it exhibits a **consistent** to **no activity** pattern, as evident from features **IP Flags of the request**. In the end, it exhibits a **no activity** to **no activity** pattern, based on features **IP Flags of the request**. Overall, the trend is **stable then drops**, indicating the presence of **abnormal** conditions.
+
+Overall, this state exhibits **abnormal activity** patterns and has signs of **DDoS attack indicators**.
+
+This correlates with the key concept of **Anomalous Traffic Volume**, **Behavioral Analysis**, **Unusual Traffic Patterns**, **Rate of New Connections**, and **Machine Learning and AI Detection**.

@@ -1,0 +1,12 @@
+Explanation:
+Traffic Volume: Initially starts off with a *consistent* pattern, as observed from the features *timestamps and packet lengths*. In the middle, it exhibits a *drop* to a *null* pattern, as evident from features *decrease in packet length to 0*. In the end, it exhibits a *null* to *null* pattern, based on features *continued 0 values across metrics*. Overall, the trend is *declining*, indicating the presence of *potential DDoS mitigation or exhaustion* conditions. 
+
+Types of requests: Initially starts off with a *uniform* pattern, as observed from the features *higher layer of network and protocol used*. In the middle, it exhibits a *uniform* to *inexistent* pattern, as evident from features *protocol and connection usage dropping to 0*. In the end, it exhibits an *inexistent* to *inexistent* pattern, based on features *continued lack of protocol usage*. Overall, the trend is *toward non-usage*, indicating the presence of *network silence or blocking* conditions.
+
+Resource and rate of connection: Initially starts off with a *low usage* pattern, as observed from the features *TCP connection length, bytes acknowledged by TCP*. In the middle, it exhibits a *low usage* to *null* pattern, as evident from features *dropping to 0 in resources usage*. In the end, it exhibits a *null* to *null* pattern, based on features *continued 0 values in resources*. Overall, the trend is *from minimal to no usage*, indicating the presence of *disconnection or shutdown* conditions.
+
+IP or request patterns: Initially starts off with a *consistent* pattern, as observed from the features *IP flags, UDP connection length*. In the middle, it exhibits a *consistent* to *null* pattern, as evident from features *all IP related metrics dropping to 0*. In the end, it exhibits a *null* to *null* pattern, based on features *continuous 0 values in IP related metrics*. Overall, the trend is *declining towards inactivity*, indicating the presence of *potential attack suppression* conditions.
+
+Overall, this state exhibits *declining* patterns and has signs of *potential DDoS attack followed by mitigation or disconnection*. 
+
+This correlates with the key concept of *Anomalous Traffic Volume*, *Unusual Traffic Patterns*, *Behavioral Anomalies*, *Protocol Compliance*, and *Rate Limiting and Thresholds*.

@@ -1,0 +1,12 @@
+Explanation:
+Traffic Volume: Initially starts off with a normal pattern, as observed from the features timestamp and packet length. In the middle, it exhibits high to abrupt changes pattern, as evident from features higher layer of network changes and packet length. In the end, it exhibits a drop-off to zero pattern, based on features packet length and higher layer of network. Overall, the trend is fluctuating, indicating the presence of abnormal conditions.
+
+Types of requests: Initially starts off with a uniform pattern, as observed from the features protocol and TCP flags. In the middle, it exhibits a shift in protocol to a change in pattern, as evident from features which protocol the connection is using and TCP window size. In the end, it exhibits a consistent to absent pattern, based on features protocol and TCP flags. Overall, the trend is varied, indicating the presence of inconsistent conditions.
+
+Resource and rate of connection: Initially starts off with a consistent pattern, as observed from the features length of TCP connection and bytes acknowledged by TCP. In the middle, it exhibits a decrease in resource use to minimalistic pattern, as evident from features TCP window size. In the end, it exhibits a non-existent pattern, based on features length of TCP connection and TCP window size. Overall, the trend is declining, indicating the presence of depletion conditions.
+
+IP or request patterns: Initially starts off with a consistent pattern, as observed from the features IP flags of the request. In the middle, it exhibits a nullification to abrupt drop pattern, as evident from features IP flags of the request and TCP flags used by the connection. In the end, it exhibits a consistent to absent pattern, based on features IP flags of the request and scenario of zero values across most features. Overall, the trend is diminishing, indicating the presence of irregular conditions.
+
+Overall, this state exhibits fluctuating, varied, declining, and diminishing patterns and has signs of potential DDoS attack.
+
+This correlates with the key concept of Anomalous Traffic Volume, Behavioral Anomalies, Protocol Anomalies, Resource Exhaustion Symptoms, and Unusual Traffic Patterns.

@@ -1,0 +1,12 @@
+Explanation:
+Traffic Volume: Initially starts off with a uniform pattern, as observed from the features Timestamp, Packet Length, Higher Layer of Network. In the middle, it exhibits a decline to minimal pattern, as evident from features Packet Length decreasing to 0, Higher Layer of Network remaining constant at high values, and TCP Window size consistent. In the end, it exhibits a minimal to non-existent pattern, based on features all zeros in the latter half of the state. Overall, the trend is declining, indicating the presence of abnormal conditions.
+
+Types of requests: Initially starts off with a consistent pattern, as observed from the features Packet Length and TCP Flags used by the connection. In the middle, it exhibits a consistent to absent pattern, as evident from features TCP Flags remaining constant and Packet Length dropping to 0. In the end, it exhibits an absent to non-existent pattern, based on features such as zero Packet Length and zero TCP Flags. Overall, the trend is becoming absent, indicating the presence of abnormal conditions.
+
+Resource and rate of connection: Initially starts off with an engaged pattern, as observed from the features TCP Window size. In the middle, it exhibits an engaged to static pattern, as evident from features TCP Window size remaining constant while other indicators decline. In the end, it exhibits a static to non-existent pattern, based on features all turning to zero. Overall, the trend is declining, indicating the presence of potentially malicious conditions.
+
+IP or request patterns: Initially starts off with a homogeneous pattern, as observed from the features IP Flags of the request and Which protocol the connection is using. In the middle, it exhibits a homogeneous to static pattern, as evident from features remaining constant at 0 or specified values. In the end, it exhibits a static to non-existent pattern, based on features maintaining zero values. Overall, the trend is static, indicating the presence of unusual conditions.
+
+Overall, this state exhibits declining and abnormal patterns and has signs of potential DDoS attack conditions.
+
+This correlates with the key concept of Anomalous Traffic Volume, Behavioral Anomalies, Rate of New Connections, Machine Learning and AI Detection, and Protocol Anomalies.

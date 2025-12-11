@@ -1,0 +1,12 @@
+Explanation:
+- Traffic Volume: Initially starts off with a stable pattern, as observed from the features [Packet Length, Timestamp]. In the middle, it exhibits a stable to low pattern, as evident from features [Packet Length]. In the end, it exhibits a stable to low pattern, based on features [Packet Length, TCP Connection Length]. Overall, the trend is decreasing, indicating the presence of potential DDoS attack conditions.
+  
+- Types of requests: Initially starts off with a consistent pattern, as observed from the features [Protocol, TCP Flags]. In the middle, it exhibits a consistent to inactive pattern, as evident from features [Protocol]. In the end, it exhibits a consistent to inactive pattern, based on features [Protocol, TCP Flags]. Overall, the trend is inactive, indicating the presence of DDoS attack conditions.
+
+- Resource and rate of connection: Initially starts off with a normal pattern, as observed from the features [TCP Window Size]. In the middle, it exhibits a normal to low pattern, as evident from features [TCP Window Size]. In the end, it exhibits a normal to low pattern, based on features [TCP Window Size, Length of TCP Connection]. Overall, the trend is declining, indicating the presence of DDoS attack conditions.
+
+- IP or request patterns: Initially starts off with a consistent pattern, as observed from the features [Higher Layer of Network, IP Flags]. In the middle, it exhibits a consistent to zero pattern, as evident from features [Higher Layer of Network]. In the end, it exhibits a consistent to zero pattern, based on features [Higher Layer of Network, IP Flags]. Overall, the trend is diminishing, indicating the presence of coordinated attack conditions.
+
+Overall, this state exhibits irregular patterns and has signs of a potential DDoS attack. 
+
+This correlates with the key concept of High Request Rates, Geographic Irregularities, Protocol Anomalies, Repeated Access Requests, and Low-and-Slow Attack Indicators.

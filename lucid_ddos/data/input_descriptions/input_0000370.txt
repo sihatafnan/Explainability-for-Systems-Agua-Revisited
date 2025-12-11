@@ -1,0 +1,12 @@
+Explanation:
+Traffic Volume: Initially starts off with an uniform pattern, as observed from the features "Packet Length" and "Higher Layer of Network". In the middle, it exhibits a decline to minimal pattern, as evident from features "Packet Length" and "Higher Layer of Network" dropping to zero. In the end, it exhibits a minimal to non-existent pattern, based on features "Packet Length" and "Higher Layer of Network" remaining at zero. Overall, the trend is declining, indicating the presence of abnormal conditions.
+
+Types of requests: Initially starts off with a consistent pattern, as observed from the features "Which protocol the connection is using" and "TCP Flags used by the connection". In the middle, it exhibits a shift to irregular pattern, as evident from features "TCP Flags used by the connection" changing and "Bytes Acknowledged by TCP" starting. In the end, it exhibits a stagnant to irregular pattern, based on features "TCP Flags used by the connection" and "TCP Window size". Overall, the trend is inconsistent, indicating the presence of suspicious conditions.
+
+Resource and rate of connection: Initially starts off with an active pattern, as observed from the features "TCP Window size" and "TCP Flags used by the connection". In the middle, it exhibits a reduction to inactive pattern, as evident from features "TCP Window size" dropping to zero and "Bytes Acknowledged by TCP" being minimal. In the end, it exhibits an inactive to null pattern, based on features "TCP Window size" and "Bytes Acknowledged by TCP" staying minimal or zero. Overall, the trend is decreasing, indicating the presence of potentially malicious conditions.
+
+IP or request patterns: Initially starts off with a normalized pattern, as observed from the features "IP Flags of the request". In the middle, it exhibits a change to unusual pattern, as evident from features "IP Flags of the request" changing values significantly. In the end, it exhibits a consistent to unusual pattern, based on features "IP Flags of the request" becoming stable but at an unusual setting. Overall, the trend is variable, indicating the presence of abnormal conditions.
+
+Overall, this state exhibits declining and inconsistent patterns and has signs of a potential DDoS attack.
+
+This correlates with the key concept of Anomalous Traffic Volume, Unusual Traffic Patterns, Resource Exhaustion Symptoms, Protocol Anomalies, and Machine Learning and AI Detection.

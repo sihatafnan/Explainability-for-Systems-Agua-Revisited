@@ -1,0 +1,12 @@
+Explanation:
+Traffic Volume: Initially starts off with a high volume pattern, as observed from the features Packet Length and Higher Layer of Network. In the middle, it exhibits a decrease to minimal patterns, as evident from features dropping to 0. In the end, it exhibits minimal to non-existent patterns, based on features remaining at 0. Overall, the trend is decreasing, indicating the presence of abrupt cessation conditions.
+
+Types of requests: Initially starts off with UDP-based pattern, as observed from the features UDP connection length. In the middle, it exhibits a shift to non-existent pattern, as evident from UDP connection length dropping to 0. In the end, it exhibits non-existent to non-existent patterns, based on UDP connection length remaining at 0. Overall, the trend is a shift from active to inactive, indicating the presence of a sudden stop in specific request types.
+
+Resource and rate of connection: Initially starts off with engaged pattern, as observed from the features higher layer of network and packet length indicating active connections. In the middle, it exhibits a decline to minimal pattern, as evident from all connection metrics dropping to 0. In the end, it exhibits minimal to non-existent patterns, based on no activity in connection lengths or TCP parameters. Overall, the trend is declining, indicating the presence of resource release or disengagement conditions.
+
+IP or request patterns: Initially starts off with consistent protocol pattern, as observed from the features which protocol the connection is using. In the middle, it exhibits a shift to non-existent TCP/UDP protocols, as evident from protocol metrics dropping to 0. In the end, it exhibits non-existent to non-existent patterns, based on protocol usage remaining at 0. Overall, the trend is a decline from specific to no protocol usage, indicating the presence of termination conditions.
+
+Overall, this state exhibits inconsistent patterns and has signs of potential DDoS attack termination.
+
+This correlates with the key concept of Anomalous Traffic Volume, Behavioral Anomalies, Rate of New Connections, Source Verification, and Geographical and Temporal Consistency.

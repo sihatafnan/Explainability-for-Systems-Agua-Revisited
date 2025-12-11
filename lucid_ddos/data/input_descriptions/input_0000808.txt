@@ -1,0 +1,12 @@
+Explanation:
+Traffic Volume: Initially starts off with a uniform pattern, as observed from the features of all zeros in several metrics after the first two timestamps. In the middle, it exhibits a null to null pattern, as evident from features indicating no data for traffic volume, TCP connection length, and other parameters. In the end, it exhibits a null to null pattern, based on features still showing zero values. Overall, the trend is static, indicating the presence of inactivity conditions.
+
+Types of requests: Initially starts off with a UDP-centric pattern, as observed from the features indicating a consistent UDP connection length. In the middle, it exhibits a null to null pattern, as evident from features showing no further UDP or other protocol-specific activity. In the end, it exhibits a null to null pattern, based on features continuing to show no activity. Overall, the trend is initially present then absent, indicating the presence of an initial burst of UDP requests followed by inactivity.
+
+Resource and rate of connection: Initially starts off with a utilized pattern, as observed from the features showing packet length and higher layer of network usage. In the middle, it exhibits a null to null pattern, as evident from features such as Length of TCP Connection and Bytes Acknowledged by TCP all remaining at zero. In the end, it exhibits a null to null pattern, based on features continuing to indicate no resource usage or connection attempts. Overall, the trend is indicative of an initial use followed by complete inactivity, indicating the presence of initial utilization then silence.
+
+IP or request patterns: Initially starts off with a consistent pattern, as observed from the features like IP Flags of the request and which protocol the connection is using showing consistent yet non-standard values. In the middle, it exhibits a null to null pattern, as evident from features indicating no subsequent IP-related activity. In the end, it exhibits a null to null pattern, based on features continuing to show a lack of IP or protocol activity. Overall, the trend is momentarily consistent then entirely absent, indicating the presence of an anomalous consistency conditions.
+
+Overall, this state exhibits static and initial burst patterns and has signs of a potential probing or pre-attack phase.
+
+This correlates with the key concept of Baseline of Normal Traffic, Behavioral Analysis, Anomalous Traffic Volume, Unusual Traffic Patterns, and Multi-vector Analysis.

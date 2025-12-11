@@ -1,0 +1,35 @@
+Explanation:
+
+**Network conditions:**  
+Initially starts off with a *moderate* pattern, as observed from the features [Network Throughput (0.928), Chunk Size (0.580), Transmission Time (0.625)].  
+In the middle, it exhibits a *fluctuating* to *unstable* pattern, as evident from features [Network Throughput (0.896 to 0.623), Chunk Size (1.432 to 1.514), Transmission Time (1.598 to 2.432)].  
+In the end, it exhibits a *declining* to *moderate* pattern, based on features [Network Throughput (0.834 to 0.737), Chunk Size (1.274 to 1.160), Transmission Time (1.527 to 2.076)].  
+Overall, the trend is *variable*, indicating the presence of *inconsistent network conditions*.
+
+**Viewer's video buffer:**  
+Initially starts off with a *healthy* pattern, as observed from the features [Client Buffer (14.935 to 15.000)].  
+In the middle, it exhibits a *stable* to *steady* pattern, as evident from features [Client Buffer (14.618 to 15.000)].  
+In the end, it exhibits a *steady* to *full* pattern, based on features [Client Buffer (14.858 to 15.000)].  
+Overall, the trend is *consistent*, indicating the presence of *adequate buffer conditions*.
+
+**Viewer's Quality of Experience (environment reward or stalling behavior):**  
+Initially starts off with a *moderate* pattern, as observed from the features [QoE (3.419)].  
+In the middle, it exhibits a *slight decline* to *moderate* pattern, as evident from features [QoE (3.099 to 2.957)].  
+In the end, it exhibits a *recovery* to *consistent* pattern, based on features [QoE (2.256 to 3.259)].  
+Overall, the trend is *variable*, indicating the presence of *fluctuating QoE conditions*.
+
+**Upcoming video sizes:**  
+Initially starts off with a *small* pattern, as observed from the features [Mean Upcoming Video Sizes (0.196)].  
+In the middle, it exhibits a *small* to *moderate* pattern, as evident from features [Mean Upcoming Video Sizes (0.149 to 0.238)].  
+In the end, it exhibits a *moderate* to *increasing* pattern, based on features [Mean Upcoming Video Sizes (0.238 to 0.317)].  
+Overall, the trend is *growing*, indicating the presence of *increasing video size conditions*.
+
+**Upcoming video qualities:**  
+Initially starts off with a *moderate* pattern, as observed from the features [Mean Upcoming Video Qualities (13.608 to 13.867)].  
+In the middle, it exhibits a *moderate* to *low* pattern, as evident from features [Mean Upcoming Video Qualities (13.750 to 12.401)].  
+In the end, it exhibits a *decreasing* to *low* pattern, based on features [Mean Upcoming Video Qualities (12.401 to 10.984)].  
+Overall, the trend is *declining*, indicating the presence of *decreasing video quality conditions*.
+
+Altogether, the patterns in the features indicate *inconsistent network*, *adequate client video player*, and *variable video stream patterns*.
+
+This correlates with the key concepts of *Network Throughput Volatility*, *Adaptive Strategy for Network Fluctuations*, *Rapidly Depleting Buffer Health*, *Smooth Switching Strategy*, and *Emergency Fallback*.

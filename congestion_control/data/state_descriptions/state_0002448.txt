@@ -1,0 +1,28 @@
+Certainly, here is a breakdown of the patterns observed:
+
+### Loss ratio (bytes lost / bytes sent)
+- Initially starts off with a **stable** pattern, with a **very low** mean and **zero** variance, as observed from the values at index **0** through index **5**.
+- Then, in the middle, it exhibits a **spike** to **stable** pattern, with a **low** mean and **low** variance, as observed from the values at index **6** through index **8**.
+- Finally, at the end, it exhibits a **spike** to **drop** pattern, with a **very low** mean and **low** variance, as observed from the values at index **8** through index **9**.
+- Overall, the trend of this feature is **generally stable with mild fluctuations**, indicating the presence of **mostly stable** network conditions with brief periods of congestion.
+
+### Latency ratio (average latency / minimum latency)
+- Initially starts off with an **increasing** pattern, with a **moderate** mean and **low** variance, as observed from the values at index **0** through index **6**.
+- Then, in the middle, it exhibits a **continued increasing** to **sudden drop** pattern, with a **moderate** mean and **increasing** variance, as observed from the values at index **6** through index **9**.
+- Finally, in the end, it exhibits a **sharp drop**, with a **drop** mean and **high** variance, as observed from the values at index **9** through index **9**.
+- Overall, the trend of this feature is **increasing latency followed by a sudden reduction**, indicating the presence of **volatile** network conditions at the end.
+
+### Send ratio (sending rate / receiving rate)
+- Initially starts off with a **stable** pattern, with a **slightly above one** mean and **zero** variance, as observed from the values at index **0** through index **5**.
+- Then, in the middle, it exhibits a **stable** to **slightly decreasing** pattern, with a **moderate** mean and **very low** variance, as observed from the values at index **6** through index **8**.
+- Finally, in the end, it exhibits a **sharp drop** pattern, with a **significantly lower** mean and **high** variance, as observed from the values at index **9** through index **9**.
+- Overall, the trend of this feature is **initial stability towards an unexpected decrease**, indicating the presence of **sudden underutilization** or recovery from congestion.
+
+### Sent Latency Increase
+- Initially starts off with a **stable** pattern, with a **moderate** mean and **zero** variance, as observed from the values at index **0** through index **5**.
+- Then, in the middle, it exhibits a **small drop**, with a **slightly lower** mean and **low** variance, as observed from the values at index **6** through index **8**.
+- Finally, in the end, it exhibits a **sharp drop**, with a **negative** mean and **high** variance, as observed from the values at index **9** through index **9**.
+- Overall, the trend of this feature is a **decreasing latency trend**, indicating the presence of **decreasing congestion** or **queue clearance**.
+
+### Combined Analysis
+Altogether, the patterns in the features indicate **rapidly changing** network conditions with an eventual clearance or stabilization. This correlates with the key concepts of **volatile network conditions leading to congestion clearance**, as evidenced by **experimental data showing fluctuations in packet loss and latency followed by reduced latency and send ratio**.

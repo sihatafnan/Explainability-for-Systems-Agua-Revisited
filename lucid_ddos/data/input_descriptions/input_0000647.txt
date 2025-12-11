@@ -1,0 +1,12 @@
+Explanation:
+Traffic Volume: Initially starts off with a consistent pattern, as observed from the features Packet Length, Higher Layer of Network. In the middle, it exhibits a decline to a minimal pattern, as evident from features Packet Length dropping to 0, Higher Layer of Network remaining consistent only for the initial requests then dropping. In the end, it exhibits a minimal to nonexistent pattern, based on features Packet Length, Higher Layer of Network all dropping to 0. Overall, the trend is a sharp decline, indicating the presence of abnormal conditions.
+
+Types of requests: Initially starts off with a uniform pattern, as observed from the features TCP Flags used by the connection, TCP Window size. In the middle, it exhibits a consistent to diminished pattern, as evident from features TCP Flags and Window size remaining constant initially then dropping to 0. In the end, it exhibits a nonexistent pattern, based on features TCP Flags, Window size all dropping to 0. Overall, the trend is a sharp diminishing, indicating the presence of unusual conditions.
+
+Resource and rate of connection: Initially starts off with an indicative pattern, as observed from the features TCP Flags, TCP Window size. In the middle, it exhibits a normal to abnormal pattern, as evident from features like the Length of TCP Connection, Bytes Acknowledged by TCP all transitioning to minimal levels. In the end, it exhibits a minimal to non-existent pattern, based on features Length of TCP Connection, Bytes Acknowledged by TCP remaining at 0. Overall, the trend is indicative of resource exhaustion before dropping off, indicating the presence of anomalous conditions.
+
+IP or request patterns: Initially starts off with a normal pattern, as observed from the features higher layer of network, protocol used. In the middle, it exhibits a stable to anomalous pattern, as evident from features like IP Flags of the request, Type of ICMP staying constant then dropping. In the end, it exhibits a minimal to nonexistent pattern, based on features IP Flags of the request, Type of ICMP dropping to 0. Overall, the trend is sharply anomalous, indicating the presence of irregular conditions.
+
+Overall, this state exhibits abrupt discontinuation patterns and has signs of a potential DDoS attack.
+
+This correlates with the key concept of Anomalous Traffic Volume, Behavioral Analysis, Resource Exhaustion Symptoms, Protocol Anomalies, and Machine Learning and AI Detection.

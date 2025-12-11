@@ -1,0 +1,12 @@
+Explanation:
+Traffic Volume: Initially starts off with a consistent pattern, as observed from the features packet length and timestamp. In the middle, it exhibits a reduction to minimal pattern, as evident from features packet length decreasing and TCP connection length dropping to 0. In the end, it exhibits a non-existent to minimal pattern, based on features showing zeros in packet length and TCP connection length. Overall, the trend is decreasing, indicating the presence of diminishing conditions.
+
+Types of requests: Initially starts off with a uniform pattern, as observed from the features higher layer of network and TCP flags used. In the middle, it exhibits a shift to reduced activity pattern, as evident from features showing consistent higher layers of network but reduced TCP connection lengths. In the end, it exhibits a minimal to non-existent pattern, based on features showing no higher layer network activity or TCP flags. Overall, the trend is towards minimal activity, indicating the presence of tapering off conditions.
+
+Resource and rate of connection: Initially starts off with a stable pattern, as observed from the features bytes acknowledged by TCP and TCP window size. In the middle, it exhibits a reduction to lower activity pattern, as evident from features showing a decrease in bytes acknowledged and TCP window size reduction. In the end, it exhibits a minimal to non-existent pattern, based on features showing no bytes acknowledged and no TCP window size. Overall, the trend is decreasing, indicating the presence of resource release conditions.
+
+IP or request patterns: Initially starts off with a structured pattern, as observed from the features protocol used and IP flags. In the middle, it exhibits a consistent to reduced pattern, as evident from features showing protocol consistency but IP flags varying. In the end, it exhibits a non-existent to minimal pattern, based on features showing no protocol activity and no IP flags. Overall, the trend is decreasing, indicating the presence of dwindling conditions.
+
+Overall, this state exhibits decreasing patterns and has signs of a tapering off or concluding attack. 
+
+This correlates with the key concept of Baseline of Normal Traffic, Behavioral Analysis, Rate Limiting and Thresholds, Protocol Compliance, and Machine Learning and AI Detection.

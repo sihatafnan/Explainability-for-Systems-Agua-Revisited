@@ -1,0 +1,40 @@
+## Analysis of Adaptive Bitrate Streaming Patterns
+
+### Network Conditions
+- **Initial:** Starts off with a **volatile** pattern, as observed from network throughput (0.000 Mbps) and transmission time (0.000 seconds).
+- **Middle:** Exhibits a **stable** to **moderately fluctuating** pattern, as evident from network throughput (0.252-0.326 Mbps) and transmission times (0.620-1.939 seconds).
+- **End:** Exhibits a **stable** to **slightly decreasing** pattern, based on network throughput (0.248-0.274 Mbps) and transmission times (1.567-1.688 seconds).
+- **Overall:** The trend is **moderate to slightly stable**, indicating the presence of **moderate** network conditions.
+
+### Viewer's Video Buffer
+- **Initial:** Starts off with a **depleting** pattern, as observed from buffer (0.000 seconds).
+- **Middle:** Exhibits a **growing** to **moderately stable** pattern, as evident from buffer (2.002-5.163 seconds).
+- **End:** Exhibits a **moderately stable** to **increasing** pattern, based on buffer (5.598-6.241 seconds).
+- **Overall:** The trend is **increasing and stabilizing**, indicating the presence of **improving** buffer conditions.
+
+### Viewer's Quality of Experience (QoE)
+- **Initial:** Starts off with a **poor** pattern, as observed from QoE (-5.000).
+- **Middle:** Exhibits an **improving** to **high** pattern, as evident from QoE (2.181-3.085).
+- **End:** Exhibits a **stable** to **slightly decreasing** pattern, based on QoE (2.978-2.974).
+- **Overall:** The trend is **improving to stable**, indicating the presence of **generally good** QoE conditions.
+
+### Upcoming Video Sizes
+- **Initial:** Starts off with a **moderate** pattern, as observed from sizes (0.622 Mb).
+- **Middle:** Exhibits a **decreasing** to **stable** pattern, as evident from sizes (0.395-0.425 Mb).
+- **End:** Exhibits a **stable** to **slightly increasing** pattern, based on sizes (0.418-0.600 Mb).
+- **Overall:** The trend is **moderately stable**, indicating the presence of **manageable** video sizes.
+
+### Upcoming Video Qualities
+- **Initial:** Starts off with a **moderate** pattern, as observed from qualities (10.620 SSIM dB).
+- **Middle:** Exhibits a **decreasing** to **stable** pattern, as evident from qualities (10.292-10.129 SSIM dB).
+- **End:** Exhibits a **slightly increasing** to **moderate** pattern, based on qualities (10.129-11.307 SSIM dB).
+- **Overall:** The trend is **moderately stable**, indicating the presence of **steady** video qualities.
+
+### Summary
+- Patterns in the features indicate a **moderate** network, **stable** client video player, and **steady** video stream patterns.
+- This correlates with the key concepts of:
+  - **Network Throughput Volatility:** Early stages show volatility influencing initial drop in throughput.
+  - **Rapidly Depleting Buffer Health:** Initial empty buffer quickly refilling.
+  - **Moderate Network Throughput:** Stabilization in middle network conditions.
+  - **Smooth Switching Strategy:** Switches from low to moderate quality smoothly.
+  - **Buffer Stability with Moderate Occupancy:** Improved buffer stability later on.

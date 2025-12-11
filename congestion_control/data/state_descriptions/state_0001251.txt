@@ -1,0 +1,106 @@
+```json
+{
+    "Explanation": {
+        "Loss ratio (bytes lost / bytes sent)": {
+            "pattern_1": {
+                "description": "constant",
+                "mean": "high",
+                "variance": "zero",
+                "indexes": [0, 9]
+            },
+            "pattern_2": {
+                "description": "N/A",
+                "mean": "N/A",
+                "variance": "N/A",
+                "indexes": ["N/A", "N/A"]
+            },
+            "pattern_3": {
+                "description": "N/A",
+                "mean": "N/A",
+                "variance": "N/A",
+                "indexes": ["N/A", "N/A"]
+            },
+            "overall_trend": "stable",
+            "indication": "high congestion"
+        },
+        "Latency ratio (average latency / minimum latency)": {
+            "pattern_1": {
+                "description": "constant",
+                "mean": "moderate",
+                "variance": "zero",
+                "indexes": [0, 9]
+            },
+            "pattern_2": {
+                "description": "N/A",
+                "mean": "N/A",
+                "variance": "N/A",
+                "indexes": ["N/A", "N/A"]
+            },
+            "pattern_3": {
+                "description": "N/A",
+                "mean": "N/A",
+                "variance": "N/A",
+                "indexes": ["N/A", "N/A"]
+            },
+            "overall_trend": "stable",
+            "indication": "consistent latency issues"
+        },
+        "Send ratio (sending rate / receiving rate)": {
+            "pattern_1": {
+                "description": "slightly fluctuating",
+                "mean": "very high",
+                "variance": "low",
+                "indexes": [0, 9]
+            },
+            "pattern_2": {
+                "description": "N/A",
+                "mean": "N/A",
+                "variance": "N/A",
+                "indexes": ["N/A", "N/A"]
+            },
+            "pattern_3": {
+                "description": "N/A",
+                "mean": "N/A",
+                "variance": "N/A",
+                "indexes": ["N/A", "N/A"]
+            },
+            "overall_trend": "stable with minor fluctuations",
+            "indication": "high network utilization"
+        },
+        "Sent Latency Increase ((latency of later half - latency of first half) / sending duration)": {
+            "pattern_1": {
+                "description": "variable",
+                "mean": "near zero",
+                "variance": "low",
+                "indexes": [0, 9]
+            },
+            "pattern_2": {
+                "description": "N/A",
+                "mean": "N/A",
+                "variance": "N/A",
+                "indexes": ["N/A", "N/A"]
+            },
+            "pattern_3": {
+                "description": "N/A",
+                "mean": "N/A",
+                "variance": "N/A",
+                "indexes": ["N/A", "N/A"]
+            },
+            "overall_trend": "volatile",
+            "indication": "changing congestion levels"
+        },
+        "Combined Analysis": {
+            "overall_conditions": "volatile and congested",
+            "key_concepts_correlation": [
+                "High network utilization", 
+                "Stable network conditions"
+            ],
+            "evidence": [
+                "consistent high loss ratio",
+                "moderate latency ratio",
+                "variable sent latency increase"
+            ]
+        }
+    }
+}
+```

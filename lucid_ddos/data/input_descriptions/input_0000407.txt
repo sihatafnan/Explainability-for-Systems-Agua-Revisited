@@ -1,0 +1,12 @@
+Explanation:
+Traffic Volume: Initially starts off with an **incremental** pattern, as observed from the features **Timestamp and Packet Length**. In the middle, it exhibits a **steady** to **no activity** pattern, as evident from features **Timestamp** showing no change and **Packet Length** going to zero. In the end, it exhibits a **no activity** to **no activity** pattern, based on features **Timestamp and Packet Length remaining at zero**. Overall, the trend is **decreasing**, indicating the presence of **possible attack** conditions.
+
+Types of requests: Initially starts off with a **consistent** pattern, as observed from the features **Higher Layer of Network and Protocol**. In the middle, it exhibits a **consistent** to **inactive** pattern, as evident from features **Higher Layer of Network staying constant** then all requests ceasing. In the end, it exhibits an **inactive** to **inactive** pattern, based on features **no changes in the protocol usage**. Overall, the trend is **from active to no requests**, indicating the presence of **disruption** conditions.
+
+Resource and rate of connection: Initially starts off with an **active** pattern, as observed from the features **UDP connection length**. In the middle, it exhibits an **active** to **inactive** pattern, as evident from features **UDP connection length** first present then drops to zero. In the end, it exhibits an **inactive** to **inactive** pattern, based on features **UDP connection length staying at zero**. Overall, the trend is **decreasing activity**, indicating the presence of **potential resource exhaustion** conditions.
+
+IP or request patterns: Initially starts off with a **normal** pattern, as observed from the features **IP Flags of the request**. In the middle, it exhibits a **change** to **no activity** pattern, as evident from features **IP Flags change**, indicating a shift in the type of requests or protocols used. In the end, it exhibits a **no activity** to **no activity** pattern, based on features **no further IP flag changes**. Overall, the trend is **from variation to no activity**, indicating the presence of **anomalous behavior** conditions.
+
+Overall, this state exhibits **abnormal** patterns and has signs of **potential DDoS attack**.
+
+This correlates with the key concept of **Anomalous Traffic Volume**, **Unusual Traffic Patterns**, **Rate of New Connections**, **Behavioral Anomalies**, and **Protocol Anomalies**.

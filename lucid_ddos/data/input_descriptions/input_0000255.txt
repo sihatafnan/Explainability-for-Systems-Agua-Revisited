@@ -1,0 +1,12 @@
+Explanation:
+Traffic Volume: Initially starts off with a uniform pattern, as observed from the features packet length and higher layer of network. In the middle, it exhibits a decline to zero pattern, as evident from features packet length, higher layer of network, and TCP window size. In the end, it exhibits a zero to zero pattern, based on features packet length and higher layer of network. Overall, the trend is declining, indicating the presence of abnormal conditions.
+
+Types of requests: Initially starts off with a consistent pattern, as observed from the features TCP flags and protocol used. In the middle, it exhibits a consistent to absent pattern, as evident from features TCP flags and protocol used. In the end, it exhibits an absent to absent pattern, based on features TCP flags and protocol used. Overall, the trend is declining, indicating the presence of abnormal conditions.
+
+Resource and rate of connection: Initially starts off with an active pattern, as observed from the features TCP window size and TCP flags. In the middle, it exhibits a decline to inactive pattern, as evident from features TCP window size and bytes acknowledged by TCP. In the end, it exhibits an inactive to inactive pattern, based on features TCP window size and bytes acknowledged by TCP. Overall, the trend is towards inactivity, indicating the presence of abnormal conditions.
+
+IP or request patterns: Initially starts off with a uniform pattern, as observed from the features IP flags and type of ICMP. In the middle, it exhibits a consistent to absent pattern, as evident from features IP flags and type of ICMP. In the end, it exhibits an absent to absent pattern, based on features IP flags and type of ICMP. Overall, the trend is declining, indicating the presence of abnormal conditions.
+
+Overall, this state exhibits non-typical patterns and has signs of a DDoS attack.
+
+This correlates with the key concept of Behavioral Analysis, Anomalous Traffic Volume, Resource Exhaustion Symptoms, Protocol Anomalies, and Machine Learning and AI Detection.

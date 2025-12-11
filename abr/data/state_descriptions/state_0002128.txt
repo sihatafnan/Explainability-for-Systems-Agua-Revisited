@@ -1,0 +1,14 @@
+Explanation:
+Network conditions: Initially starts off with a moderate throughput pattern, as observed from the features Network Throughput and Transmission Time of Chunk. In the middle, it exhibits a drop to stable pattern, as evident from features decreasing throughput and steady Transmission Time. In the end, it exhibits a significant improvement to peak throughput pattern, based on features sharp rise in throughput and very low Transmission Time. Overall, the trend is improving, indicating the presence of recovering network conditions.
+
+Viewer's video buffer: Initially starts off with a robust pattern, as observed from the features high and stable Client Buffer. In the middle, it exhibits a slight fluctuation to robust pattern, as evident from features slight changes in the buffer but maintaining close to maximum. In the end, it exhibits a stable to slightly fluctuating pattern, based on features slight change towards the end but overall stable. Overall, the trend is robust, indicating the presence of stable buffering conditions.
+
+Viewer's Quality of Experience (environment reward or stalling behavior): Initially starts off with an improving pattern, as observed from the features increasing Quality of Experience. In the middle, it exhibits a steady to rapid improvement pattern, as evident from features consistent increase in Quality of Experience. In the end, it exhibits a peak improvement pattern, based on features highest values of Quality of Experience recorded. Overall, the trend is improving, indicating the presence of positive streaming experience conditions.
+
+Upcoming video sizes: Initially starts off with a very low pattern, as observed from the features small Mean Upcoming Video Sizes. In the middle, it exhibits a slight increase to low pattern, as evident from features gradual increase in video sizes. In the end, it exhibits a consistent low pattern, based on features small values of video sizes towards the end. Overall, the trend is low, indicating the presence of low upcoming data size conditions. 
+
+Upcoming video qualities: Initially starts off with a high pattern, as observed from the features high Mean Upcoming Video Qualities. In the middle, it exhibits a drop to low pattern, as evident from features decrease in video quality. In the end, it exhibits a slight recovery to moderate pattern, based on features slight increase in video qualities. Overall, the trend is fluctuating, indicating the presence of varying content quality conditions.
+
+Altogether, the patterns in the features indicate fluctuating but improving network, stable client video player, and varying video stream patterns.
+
+This correlates with the key concepts of Moderate Network Throughput, Smooth Switching Strategy, Robust Buffer Capacity, Quality of Experience optimisation, and Content Suitability.

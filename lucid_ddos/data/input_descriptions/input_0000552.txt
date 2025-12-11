@@ -1,0 +1,12 @@
+Explanation:
+Traffic Volume: Initially starts off with a high pattern, as observed from the features Packet Length and Higher Layer of Network. In the middle, it exhibits a high to low pattern, as evident from features Packet Length decreasing to 0. In the end, it exhibits a low to low pattern, based on features maintaining 0. Overall, the trend is decreasing, indicating the presence of anomalous conditions.
+
+Types of requests: Initially starts off with an intensive pattern, as observed from the features Packet Length and UDP connection length. In the middle, it exhibits an intensive to nonexistent pattern, as evident from features Packet Length and UDP connection length dropping to 0. In the end, it exhibits a nonexistent to nonexistent pattern, based on features remaining at 0. Overall, the trend is decreasing, indicating the presence of potential DDoS conditions.
+
+Resource and rate of connection: Initially starts off with an exploited pattern, as observed from the features Higher Layer of Network and UDP connection length. In the middle, it exhibits an exploited to idle pattern, as evident from features dropping to 0. In the end, it exhibits an idle to idle pattern, based on features staying at 0. Overall, the trend is a drop to inactivity, indicating the presence of a flood attack followed by cessation.
+
+IP or request patterns: Initially starts off with a uniform pattern, as observed from the features IP Flags of the request and protocol. In the middle, it exhibits a uniform to variable pattern, as evident from features dropping to 0. In the end, it exhibits a variable to variable pattern, based on features remaining at 0. Overall, the trend is a shift from uniform to variable, indicating the presence of initial targeted behavior.
+
+Overall, this state exhibits erratic patterns and has signs of a potential DDoS attack.
+
+This correlates with the key concept of Anomalous Traffic Volume, Unusual Traffic Patterns, Multi-vector Analysis, Machine Learning and AI Detection, and Behavioral Anomalies.

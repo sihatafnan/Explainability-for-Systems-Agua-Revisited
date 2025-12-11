@@ -1,0 +1,12 @@
+Explanation:
+Traffic Volume: Initially starts off with a uniform pattern, as observed from the features Timestamp, Packet Length, and Higher Layer of Network. In the middle, it exhibits a decline to a null pattern, as evident from features showing zeros across most variables. In the end, it exhibits a null to null pattern, based on features maintaining zeros. Overall, the trend is declining, indicating the presence of anomalous conditions.
+
+Types of requests: Initially starts off with a consistent pattern, as observed from the features such as TCP Flags used by the connection and TCP Window size. In the middle, it exhibits a decline to non-existent pattern, as evident from the lack of activity (zero values). In the end, it exhibits a non-existent to non-existent pattern, based on continuing zeroes in the latter features. Overall, the trend is sharply declining, indicating the presence of abnormal conditions.
+
+Resource and rate of connection: Initially starts off with an active pattern, as observed from the features TCP Window size and TCP Flags. In the middle, it exhibits a decline to inactive pattern, as evident from all subsequent features dropping to zero. In the end, it exhibits an inactive to inactive pattern, based on the continuation of these zeroes. Overall, the trend is a rapid decline to inactivity, indicating the presence of disruptive conditions.
+
+IP or request patterns: Initially starts off with a consistent pattern, as observed from the features related to IP Flags of the request and Which protocol the connection is using. In the middle, it exhibits a consistent to non-existent pattern, as evident from the zeroes appearing in almost all features. In the end, it exhibits a non-existent to non-existent pattern, based on features staying at zero. Overall, the trend is sharply declining, indicating the presence of unusual conditions.
+
+Overall, this state exhibits declining patterns and has signs of potential DDoS attack conditions.
+
+This correlates with the key concept of Behavioral Analysis, Anomalous Traffic Volume, Rate Limiting and Thresholds, Protocol Compliance, and Machine Learning and AI Detection.

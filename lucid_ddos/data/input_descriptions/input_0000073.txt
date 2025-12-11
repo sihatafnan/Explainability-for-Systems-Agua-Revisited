@@ -1,0 +1,12 @@
+Explanation:
+Traffic Volume: Initially starts off with a **uniform** pattern, as observed from the features **Timestamp, Packet Length, Higher Layer of Network**. In the middle, it exhibits **zero** to **absent** pattern, as evident from features **Packet Length (kB), Higher Layer of Network dropping to 0**. In the end, it exhibits **zero** to **absent** pattern, based on features **remaining at 0**. Overall, the trend is **declining**, indicating the presence of **anomaly** conditions.
+
+Types of requests: Initially starts off with a **consistent** pattern, as observed from the features **Packet Length, Higher Layer of Network, UDP connection length**. In the middle, it exhibits **none** to **absent** pattern, as evident from features **all metrics dropping to 0 except for UDP connection length**. In the end, it exhibits **none** to **absent** pattern, based on features **remaining at 0**. Overall, the trend is **inconsistent**, indicating the presence of **anomalous** conditions.
+
+Resource and rate of connection: Initially starts off with a **normal** pattern, as observed from the features **Packet Length, UDP connection length**. In the middle, it exhibits **depleted** to **absent** pattern, as evident from features **all traffic metrics dropping to 0**. In the end, it exhibits **depleted** to **absent** pattern, based on features **remaining at 0**. Overall, the trend is **abnormal reduction**, indicating the presence of **resource exhaustion** conditions.
+
+IP or request patterns: Initially starts off with a **uniform** pattern, as observed from the features **IP Flags of the request, Protocol the connection is using**. In the middle, it exhibits **absent** to **uniform** pattern, as evident from features **these metrics remaining constant then dropping to 0**. In the end, it exhibits **absent** to **uniform** pattern, based on features **remaining at 0**. Overall, the trend is **consistent then absent**, indicating the presence of **anomalous traffic** conditions.
+
+Overall, this state exhibits **anomalous** patterns and has signs of **DDoS attack**.
+
+This correlates with the key concept of **Anomalous Traffic Volume**, **Unusual Traffic Patterns**, **Behavioral Analysis**, **Rate of New Connections**, and **Machine Learning and AI Detection**.

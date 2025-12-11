@@ -1,0 +1,12 @@
+Explanation:
+Traffic Volume: Initially starts off with a uniform pattern, as observed from the features Timestamp and Packet Length. In the middle, it exhibits a spike to unusual pattern, as evident from features Packet Length (with a sudden increase to 633 kB). In the end, it exhibits a drop to uniform pattern, based on features Timestamp and Packet Length returning to initial values. Overall, the trend is variable, indicating the presence of anomalous conditions.
+
+Types of requests: Initially starts off with a consistent pattern, as observed from the features Higher Layer of Network and Which protocol the connection is using. In the middle, it exhibits a deviation to consistent pattern, as evident from features Higher Layer of Network changing unexpectedly. In the end, it exhibits a return to consistent pattern, based on features Higher Layer of Network returning to initial values. Overall, the trend is consistent with sudden deviation, indicating the presence of anomalous conditions.
+
+Resource and rate of connection: Initially starts off with a normal pattern, as observed from the features Length of TCP Connection and Bytes Acknowledged by TCP. In the middle, it exhibits a spike to high-utilization pattern, as evident from features Length of TCP Connection and Bytes Acknowledged by TCP showing increased activity. In the end, it exhibits a return to normal pattern, based on features returning to initial values. Overall, the trend is variable, indicating the presence of attack conditions.
+
+IP or request patterns: Initially starts off with a uniform pattern, as observed from the features TCP Flags used by the connection and TCP Window size. In the middle, it exhibits a deviation to uniform pattern, as evident from features TCP Window size increasing significantly. In the end, it exhibits a drop to abnormal pattern, based on features TCP Window size (packets) dropping to much lower values. Overall, the trend is variable, indicating the presence of anomalous conditions.
+
+Overall, this state exhibits variable patterns and has signs of a DDoS attack. 
+
+This correlates with the key concept of Anomalous Traffic Volume, Behavioral Anomalies, Rate of New Connections, Machine Learning and AI Detection, and Protocol Compliance.

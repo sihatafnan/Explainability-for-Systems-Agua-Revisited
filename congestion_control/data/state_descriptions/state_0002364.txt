@@ -1,0 +1,12 @@
+```markdown
+Explanation:
+Loss ratio (bytes lost / bytes sent): Initially starts off with a stable pattern, with a high mean and low variance, as observed from the values at index 0 through index 8. Then, in the end, it exhibits a sharp drop pattern, with a low mean and high variance, as observed from the values at index 9 through index 9. Overall, the trend of this feature is downward, indicating the presence of reducing network congestion.
+
+Latency ratio (average latency / minimum latency): Initially starts off with a stable pattern, with a low mean and low variance, as observed from the values at index 0 through index 8. Finally, in the end, it exhibits a sudden increase pattern, with a high mean and low variance, as observed from the values at index 9 through index 9. Overall, the trend of this feature is upward, indicating the presence of building network congestion.
+
+Send ratio (sending rate / receiving rate): Initially starts off with a stable pattern, with a high mean and low variance, as observed from the values at index 0 through index 8. Finally, in the end, it exhibits a sharp increase pattern, with a very high mean and low variance, as observed from the values at index 9 through index 9. Overall, the trend of this feature is upward, indicating the presence of network congestion and high packet loss.
+
+Sent Latency Increase ((latency of later half - latency of first half) / sending duration): Initially starts off with a fluctuating pattern, with a low mean and low variance, as observed from the values at index 0 through index 8. Finally, in the end, it exhibits a sharp increase pattern, with a high mean and high variance, as observed from the values at index 9 through index 9. Overall, the trend of this feature is upward, indicating the presence of increasing latency.
+
+Combined Analysis: Altogether, the patterns in the features indicate volatile network conditions. This correlates with the key concepts of fluctuating latency and packet loss, as evidenced by the sudden changes in the Latency and Send ratios along with the high packet loss followed by a reduction.
+```

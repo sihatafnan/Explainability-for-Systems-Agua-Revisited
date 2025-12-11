@@ -1,0 +1,12 @@
+Explanation:
+Traffic Volume: Initially starts off with a uniform pattern, as observed from the features Packet Length and Higher Layer of Network. In the middle, it exhibits an abnormal to zero pattern, as evident from features Packet Length and Higher Layer of Network dropping to 0. In the end, it exhibits a zero to zero pattern, based on features Packet Length and Higher Layer of Network remaining at 0. Overall, the trend is declining, indicating the presence of potential DDoS conditions.
+
+Types of requests: Initially starts off with a consistent pattern, as observed from the features TCP Flags used by the connection and Which protocol the connection is using. In the middle, it exhibits a shift to a different pattern, as evident from features TCP Flags used by the connection changing values. In the end, it exhibits a zero to zero pattern, based on features like TCP Window size dropping to 0. Overall, the trend is towards a degradation, indicating the presence of potential DDoS conditions.
+
+Resource and rate of connection: Initially starts off with a regular pattern, as observed from the features TCP Window size. In the middle, it exhibits a deteriorating to zero pattern, as evident from features TCP Window size and Bytes Acknowledged by TCP. In the end, it exhibits a zero to zero pattern, based on features TCP Window size and Bytes Acknowledged by TCP dropping to 0. Overall, the trend is decreasing, indicating the presence of DDoS conditions.
+
+IP or request patterns: Initially starts off with a regular pattern, as observed from the features TCP Flags used by the connection and IP Flags of the request. In the middle, it exhibits an irregular to irregular pattern, as evident from features IP Flags of the request changing. In the end, it exhibits a zero to zero pattern, based on features TCP Flags used by the connection and IP Flags of the request remaining non-variable. Overall, the trend is towards anomaly, indicating the presence of potential DDoS conditions.
+
+Overall, this state exhibits irregular and deteriorating patterns and has signs of a DDoS attack.
+
+This correlates with the key concept of Baseline of Normal Traffic, Behavioral Analysis, Anomalous Traffic Volume, High Request Rates, and Machine Learning and AI Detection.

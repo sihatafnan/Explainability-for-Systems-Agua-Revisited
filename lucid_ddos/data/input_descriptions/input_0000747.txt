@@ -1,0 +1,12 @@
+Explanation:
+Traffic Volume: Initially starts off with a uniform pattern, as observed from the features timestamps and packet length. In the middle, it exhibits a decrease to increase pattern, as evident from features packet length. In the end, it exhibits a constant to variable pattern, based on features packet length and timestamps. Overall, the trend is variable, indicating the presence of fluctuating conditions.
+
+Types of requests: Initially starts off with a diverse pattern, as observed from the features higher layer of network and IP flags of the request. In the middle, it exhibits a consistent to variable pattern, as evident from features IP flags of the request. In the end, it exhibits a variable to consistent pattern, based on features higher layer of network. Overall, the trend is mixed, indicating the presence of varying conditions.
+
+Resource and rate of connection: Initially starts off with a consistent pattern, as observed from the features length of TCP connection and bytes acknowledged by TCP. In the middle, it exhibits a low to high pattern, as evident from features TCP window size. In the end, it exhibits a high to low pattern, based on features TCP flags used by the connection and TCP window size. Overall, the trend is oscillating, indicating the presence of varying load conditions.
+
+IP or request patterns: Initially starts off with a consistent pattern, as observed from the features which protocol the connection is using and type of ICMP. In the middle, it exhibits a constant to constant pattern, as evident from features UDP connection length. In the end, it exhibits a constant to constant pattern, based on features type of ICMP. Overall, the trend is consistent, indicating the presence of uniform request types.
+
+Overall, this state exhibits mixed patterns and has signs of anomaly.
+
+This correlates with the key concept of Behavioral Analysis, Anomalous Traffic Volume, Rate Limiting and Thresholds, Multi-vector Analysis, and Machine Learning and AI Detection.

@@ -1,0 +1,12 @@
+Explanation:
+Traffic Volume: Initially starts off with a consistent pattern, as observed from the features `Timestamp` and `Packet Length`. In the middle, it exhibits a transition to a null pattern, as evident from features `Length of TCP Connection`, `Bytes Acknowledged by TCP`, and `TCP Window size`. In the end, it exhibits a null to null pattern, based on features `TCP Flags used by the connection` and `UDP connection length`. Overall, the trend is decreasing, indicating the presence of anomalous conditions.
+
+Types of requests: Initially starts off with a consistent pattern, as observed from the features `Higher Layer of Network` and `IP Flags of the request`. In the middle, it exhibits a consistent to null pattern, as evident from features `Which protocol the connection is using` and `Type of ICMP`. In the end, it exhibits a null to null pattern, based on features `TCP Flags used by the connection` and `UDP connection length`. Overall, the trend is transitioning, indicating the presence of unusual conditions.
+
+Resource and rate of connection: Initially starts off with a uniform pattern, as observed from the features `TCP Window size` and `UDP connection length`. In the middle, it exhibits a uniform to null pattern, as evident from features `Length of TCP Connection` and `Bytes Acknowledged by TCP`. In the end, it exhibits a null to null pattern, based on features `TCP Flags used by the connection`. Overall, the trend is stable then decreases, indicating the presence of resource exhaustion symptoms.
+
+IP or request patterns: Initially starts off with an orderly pattern, as observed from the features `Higher Layer of Network` and `IP Flags of the request`. In the middle, it exhibits a shift to an undefined pattern, as evident from features `Which protocol the connection is using` and `Length of TCP Connection`. In the end, it exhibits an undefined to undefined pattern, based on features `Type of ICMP`. Overall, the trend is shifting, indicating the presence of protocol anomalies.
+
+Overall, this state exhibits decreasing patterns and has signs of a potential DDoS attack.
+
+This correlates with the key concept of Anomalous Traffic Volume, High Request Rates, Resource Exhaustion Symptoms, Protocol Anomalies, and Machine Learning and AI Detection.

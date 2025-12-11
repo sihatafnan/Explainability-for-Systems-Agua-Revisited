@@ -1,0 +1,13 @@
+Explanation:
+
+Traffic Volume: Initially starts off with a normal pattern, as observed from the features Packet Length and TCP Window size. In the middle, it exhibits a decrease to minimal pattern, as evident from Packet Length and TCP Window size dropping to 0. In the end, it exhibits a minimal to non-existent pattern, based on features Packet Length and TCP Window size dropping to 0. Overall, the trend is decreasing, indicating the presence of anomalous conditions.
+
+Types of requests: Initially starts off with a consistent pattern, as observed from the features Higher Layer of Network and Which protocol the connection is using. In the middle, it exhibits a consistent to absent pattern, as evident from Higher Layer of Network and Which protocol the connection is using dropping to 0. In the end, it exhibits an absent to non-existent pattern, based on Higher Layer of Network and Which protocol the connection is using dropping to 0. Overall, the trend is diminishing, indicating the presence of irregular conditions.
+
+Resource and rate of connection: Initially starts off with a normal pattern, as observed from the features TCP Flags used by the connection and TCP Window size. In the middle, it exhibits a normal to absent pattern, as evident from TCP Flags and TCP Window size remaining constant then dropping to 0. In the end, it exhibits an absent to non-existent pattern, based on TCP Flags and TCP Window size dropping to 0. Overall, the trend is sharply decreasing, indicating the presence of potential attack conditions.
+
+IP or request patterns: Initially starts off with a normal pattern, as observed from the features IP Flags of the request and Type of ICMP. In the middle, it exhibits a stable to absent pattern, as evident from IP Flags of the request and Type of ICMP maintaining zero values. In the end, it exhibits an absent to non-existent pattern, based on IP Flags of the request and Type of ICMP maintaining zero values. Overall, the trend is consistently low, indicating the presence of abnormal conditions.
+
+Overall, this state exhibits declining patterns and has signs of malicious or DDoS activities.
+
+This correlates with the key concept of Behavioral Analysis, Rate Limiting and Thresholds, Protocol Compliance, Anomalous Traffic Volume, and Machine Learning and AI Detection.

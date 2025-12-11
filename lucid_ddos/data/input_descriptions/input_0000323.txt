@@ -1,0 +1,12 @@
+Explanation:
+Traffic Volume: Initially starts off with a **uniform** pattern, as observed from the features **Packet Length, Higher Layer of Network**. In the middle, it exhibits **zero** to **zero** pattern, as evident from features **TCP Connection Length, Bytes Acknowledged by TCP**. In the end, it exhibits **zero** to **zero** pattern, based on features **TCP Window size, UDP connection length**. Overall, the trend is **drastically decreasing**, indicating the presence of **anomalous** conditions.  
+
+Types of requests: Initially starts off with **UDP-based** pattern, as observed from the features **which protocol the connection is using, UDP connection length**. In the middle, it exhibits **inactive** to **inactive** pattern, as evident from features **Length of TCP Connection, TCP Flags used**. In the end, it exhibits **inactive** to **inactive** pattern, based on features **Type of ICMP, IP Flags of the request**. Overall, the trend is **transitioning from active to inactive**, indicating the presence of **suspicious** conditions.  
+
+Resource and rate of connection: Initially starts off with **active usage** pattern, as observed from the features **Packet Length, UDP connection length**. In the middle, it exhibits **no** to **no** pattern, as evident from features **TCP Connection Length, TCP Window size**. In the end, it exhibits **no** to **no** pattern, based on features **Bytes Acknowledged by TCP, TCP Flags used**. Overall, the trend is **from utilized to not utilized**, indicating the presence of **attack preparation or completion** conditions.  
+
+IP or request patterns: Initially starts off with a **consistent** pattern, as observed from the features **Higher Layer of Network, IP Flags of the request**. In the middle, it exhibits **none** to **none** pattern, as evident from features **TCP Connection Length, TCP Flags used**. In the end, it exhibits **none** to **none** pattern, based on features **TCP Window size, Type of ICMP**. Overall, the trend is **consistent then drops**, indicating the presence of **suspicious** conditions.  
+
+Overall, this state exhibits **anomalous and inactive** patterns and has signs of **a potential DDoS attack**.  
+
+This correlates with the key concept of **Anomalous Traffic Volume, Unusual Traffic Patterns, Resource Exhaustion Symptoms, Behavioral Anomalies,** and **Machine Learning and AI Detection**.

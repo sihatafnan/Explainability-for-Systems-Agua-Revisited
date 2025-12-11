@@ -1,0 +1,12 @@
+Explanation:
+Traffic Volume: Initially starts off with a **high** pattern, as observed from the features **Packet Length** and **Higher Layer of Network**. In the middle, it exhibits a **low** to **non-existent** pattern, as evident from features **Packet Length** dropping to **0**. In the end, it exhibits a **low** to **non-existent** pattern, based on features **Packet Length** remaining at **0**. Overall, the trend is **declining**, indicating the presence of **anomaly** conditions. 
+
+Types of requests: Initially starts off with a **UDP-focused** pattern, as observed from the features **UDP connection length**. In the middle, it exhibits a **lower** to **inactive** pattern, as evident from features **UDP connection length** dropping to **0**. In the end, it exhibits a **lower** to **inactive** pattern, based on features **UDP connection length** remaining at **0**. Overall, the trend is **towards inactivity**, indicating the presence of **anomalous** conditions. 
+
+Resource and rate of connection: Initially starts off with a **normal** pattern, as observed from the features **Length of TCP Connection** and **TCP Window size** both being at **0**, implying no abnormal TCP activity. In the middle, it exhibits a **consistent** to **unchanged** pattern, as evident from features **Length of TCP Connection** and **TCP Window size** remaining at **0**. In the end, it exhibits a **consistent** to **unchanged** pattern, based on features **Length of TCP Connection** and **TCP Window size** still being **0**. Overall, the trend is **stable**, indicating the presence of **normal TCP conditions**.
+
+IP or request patterns: Initially starts off with a **consistent** pattern, as observed from the features **IP Flags of the request** and **Which protocol the connection is using**. In the middle, it exhibits a **non-changing** to **static** pattern, as evident from features **IP Flags of the request** and **Which protocol the connection is using** remaining constant. In the end, it exhibits a **non-changing** to **static** pattern, based on features **IP Flags of the request** and **Which protocol the connection is using** remaining unchanged. Overall, the trend is **static**, indicating the presence of **consistent request behavior**.
+
+Overall, this state exhibits **anomalous** patterns and has signs of **a potential UDP-focused DDoS attack**.
+
+This correlates with the key concept of **Baseline of Normal Traffic**, **Anomalous Traffic Volume**, **UDP connection length**, **Behavioral Analysis**, and **Multi-vector Analysis**.

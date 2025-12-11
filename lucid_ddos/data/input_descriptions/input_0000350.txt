@@ -1,0 +1,12 @@
+Explanation:
+Traffic Volume: Initially starts off with a regular pattern, as observed from the features [Timestamp, Packet Length]. In the middle, it exhibits a transition to null pattern, as evident from features [decreasing Timestamp values and Packet Lengths to 0]. In the end, it exhibits a null to null pattern, based on features [consistent zeros in Timestamp and Packet Length]. Overall, the trend is decreasing, indicating the presence of possible attack conditions.
+
+Types of requests: Initially starts off with consistent pattern, as observed from the features [Higher Layer of Network, Protocol numbers]. In the middle, it exhibits a transition to null pattern, as evident from features [decreasing Higher Layer of Network values to 0, consistent protocol usage]. In the end, it exhibits a null to null pattern, based on features [zero values in both features]. Overall, the trend is initially uniform then null, indicating the presence of abnormal conditions.
+
+Resource and rate of connection: Initially starts off with a regular pattern, as observed from the features [Length of TCP Connection, Bytes Acknowledged by TCP, TCP Flags used]. In the middle, it exhibits a transition to null pattern, as evident from features [decreasing Length of TCP Connection and Bytes Acknowledged to 0]. In the end, it exhibits a null to null pattern, based on features [all zeros in TCP related features]. Overall, the trend is decreasing, indicating the presence of possible DDoS conditions.
+
+IP or request patterns: Initially starts off with a standardized pattern, as observed from the features [IP Flags of the request]. In the middle, it exhibits a transition to null pattern, as evident from features [decreasing IP Flags values to 0]. In the end, it exhibits a null to null pattern, based on features [consistent zeros in IP Flags]. Overall, the trend is decreasing, indicating the presence of irregular conditions.
+
+Overall, this state exhibits irregular patterns and has signs of a DDoS attack.
+
+This correlates with the key concept of Anomalous Traffic Volume, Unusual Traffic Patterns, Rate of New Connections, Protocol Compliance, and Behavioral Anomalies.

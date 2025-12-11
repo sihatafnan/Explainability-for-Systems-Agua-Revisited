@@ -1,0 +1,91 @@
+**Explanation:**
+        
+**Network conditions:**
+- **Initially:**
+  - Starts off with: poor pattern
+  - Features: low network throughput (0.200 Mbps), smaller chunk size (0.322 Mb), high transmission time (1.609 s)
+  
+- **In the middle:**
+  - Exhibits: poor to improving pattern
+  - Features: network throughput increases moderately (up to 0.471 Mbps), chunk size increases (up to 0.607 Mb), transmission time fluctuates (1.467 - 2.583 s)
+  
+- **In the end:**
+  - Exhibits: improving to stable pattern
+  - Features: network throughput further increases (up to 0.884 Mbps), larger chunk sizes (0.594 - 0.570 Mb), stable transmission times (around 0.645 s)
+  
+- **Overall Trend:**
+  - Trend: improving, indicating initially poor but progressively better network conditions
+
+**Viewer's video buffer:**
+- **Initially:**
+  - Starts off with: stable pattern
+  - Features: buffer health steady around 7.425 - 7.101 s
+  
+- **In the middle:**
+  - Exhibits: depleting to recovering pattern
+  - Features: buffer health fluctuates but stabilizes (6.876 - 7.842 s)
+  
+- **In the end:**
+  - Exhibits: stable to increasing pattern
+  - Features: buffer health steadily increases (up to 11.919 s)
+  
+- **Overall Trend:**
+  - Trend: recovering, indicating buffer health stabilizes and improves over time
+
+**Viewer's Quality of Experience (environment reward or stalling behavior):**
+- **Initially:**
+  - Starts off with: stable pattern
+  - Features: consistent QoE around (3.316)
+
+- **In the middle:**
+  - Exhibits: stable to slight improvement pattern
+  - Features: slight improvement in QoE (up to 3.457)
+
+- **In the end:**
+  - Exhibits: slight fluctuation to stable pattern
+  - Features: QoE fluctuates but stabilizes (around 3.528)
+
+- **Overall Trend:**
+  - Trend: slight improvement, indicating stable and satisfactory user experience
+
+**Upcoming video sizes:**
+- **Initially:**
+  - Starts off with: low pattern
+  - Features: low video sizes (0.118 Mb)
+  
+- **In the middle:**
+  - Exhibits: increasing to fluctuating pattern
+  - Features: video sizes increase and fluctuate (0.177 - 0.159 Mb)
+  
+- **In the end:**
+  - Exhibits: increasing pattern
+  - Features: video sizes consistently higher (0.252 Mb)
+  
+- **Overall Trend:**
+  - Trend: increasing, indicating anticipation of better network conditions
+
+**Upcoming video qualities:**
+- **Initially:**
+  - Starts off with: decreasing pattern
+  - Features: high start but quick fall in quality (16.469 dB to 14.661 dB)
+
+- **In the middle:**
+  - Exhibits: stable low pattern
+  - Features: qualities stabilize at a lower level (14.661 dB - 14.679 dB)
+
+- **In the end:**
+  - Exhibits: slight improvement pattern
+  - Features: qualities slightly improve (14.802 dB)
+
+- **Overall Trend:**
+  - Trend: fluctuating to improving, indicating initial caution but eventual adaptation to better conditions
+
+**Altogether:**
+- Patterns: improving network, stable client video player, and stable to improving video stream patterns
+
+**Key Concepts Correlates:**
+- **Network Throughput Volatility:** as throughput starts low and increases.
+- **Rapidly Depleting Buffer Health:** manages buffer health by improving network conditions.
+- **Adaptive Strategy for Network Fluctuations:** adapts video quality considering network improvements.
+- **Buffer Stability with Moderate Occupancy:** maintains buffer health without drastic drops.
+- **Smooth Switching Strategy:** smooth transitions in video quality to avoid drastic changes.

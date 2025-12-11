@@ -1,0 +1,11 @@
+Explanation:
+
+Loss ratio (bytes lost / bytes sent): Initially starts off with a stable pattern, with a high mean and zero variance, as observed from the values at index 0 through index 9. Overall, the trend of this feature is constant, indicating the presence of consistent network congestion.
+
+Latency ratio (average latency / minimum latency): Initially starts off with a stable pattern, with a low mean and zero variance, as observed from the values at index 0 through index 9. Overall, the trend of this feature is constant, indicating the presence of stable network conditions.
+
+Send ratio (sending rate / receiving rate): Initially starts off with a stable pattern, with a high mean and very low variance, as observed from the values at index 0 through index 5. Then, in the middle, it exhibits a slight drop, with a medium mean and very low variance, as observed from the value at index 6. Finally, in the end, it exhibits a return to the previous level, with a high mean and very low variance, as observed from the values at index 7 through index 9. Overall, the trend of this feature is largely stable, indicating the presence of high network utilization that briefly decreased.
+
+Sent Latency Increase ((latency of later half - latency of first half) / sending duration): Initially starts off with a small fluctuation pattern, with a low mean and moderate variance, as observed from the values at index 0 through index 2. Then, in the middle, it exhibits a stable pattern, with a low mean and low variance, as observed from the values at index 3 through index 6. Finally, in the end, it exhibits a return to small fluctuation pattern, with a low mean and moderate variance, as observed from the values at index 7 through index 9. Overall, the trend of this feature is fairly stable, indicating the presence of mostly stable network conditions with minor latency variations.
+
+Combined Analysis: Altogether, the patterns in the features indicate stable network conditions with underutilization. This correlates with the key concepts of stable network conditions and high network utilization, as evidenced by the consistently high loss and send ratios with stable latency ratios.

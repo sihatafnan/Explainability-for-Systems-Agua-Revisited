@@ -1,0 +1,40 @@
+Explanation:
+    
+Network conditions:
+- Initially starts off with a **decreasing** pattern, as observed from the features **Network Throughput (0.289 to 0.203 Mbps)** and **Transmission Time (1.960 to 2.936 seconds)**.
+- In the middle, it exhibits a **poor** to **recovering** pattern, as evident from features **Network Throughput (0.125 to 0.186 Mbps)** and **Transmission Time (2.345 to 1.444 seconds)**.
+- In the end, it exhibits a **recovering** to **slightly deteriorating** pattern, based on features **Network Throughput (0.266 to 0.224 Mbps)** and **Transmission Time (1.088 to 2.356 seconds)**.
+- Overall, the trend is **fluctuating**, indicating the presence of **volatile** network conditions.
+
+Viewer's video buffer:
+- Initially starts off with a **stable** pattern, as observed from the features **Client Buffer (5.851 to 5.777 seconds)**.
+- In the middle, it exhibits a **depleting** to **stabilizing** pattern, as evident from features **Client Buffer (4.843 to 6.086 seconds)**.
+- In the end, it exhibits a **stable** to **increasing** pattern, based on features **Client Buffer (7.000 to 6.272 seconds)**.
+- Overall, the trend is **maintained**, indicating the presence of generally **adequate** buffering conditions.
+
+Viewer's Quality of Experience (environment reward or stalling behavior):
+- Initially starts off with an **improving** pattern, as observed from the features **Quality of Experience (3.189 to 3.441)**.
+- In the middle, it exhibits a **stable** to **improving** pattern, as evident from features **Quality of Experience (3.265 to 3.557)**.
+- In the end, it exhibits an **improving** to **stable** pattern, based on features **Quality of Experience (3.590 to 3.622)**.
+- Overall, the trend is **upward**, indicating the presence of generally **good viewing** conditions.
+
+Upcoming video sizes:
+- Initially starts off with a **low** pattern, as observed from the features **Mean Upcoming Video Sizes (0.117 to 0.090 Mb)**.
+- In the middle, it exhibits a **low** to **slightly increasing** pattern, as evident from features **Mean Upcoming Video Sizes (0.090 to 0.186 Mb)**.
+- In the end, it exhibits a **steady** pattern, based on features **Mean Upcoming Video Sizes (0.186 Mb stable)**.
+- Overall, the trend is **stable**, indicating the presence of **consistent** video size conditions.
+
+Upcoming video qualities:
+- Initially starts off with a **low** pattern, as observed from the features **Mean Upcoming Video Qualities (15.725 to 18.198 SSIM dB)**.
+- In the middle, it exhibits a **slightly increasing** to **improving** pattern, as evident from features **Mean Upcoming Video Qualities (18.198 to 19.154 SSIM dB)**.
+- In the end, it exhibits an **improving** to **steady** pattern, based on features **Mean Upcoming Video Qualities (19.154 SSIM dB stable)**.
+- Overall, the trend is **upward**, indicating the presence of **gradually improving** video quality conditions.
+
+Altogether, the patterns in the features indicate **fluctuating** network, **adequate client video player**, and **improving video stream** patterns.
+    
+This correlates with the key concepts of:
+- **Adaptive Strategy for Network Fluctuations**: due to fluctuating network throughput.
+- **Buffer Stability with Moderate Occupancy**: maintaining an adequate buffer.
+- **Improving Quality of Experience**: due to rising QoE scores and zero stalling.
+- **Smooth Switching Strategy**: managing consistent video sizes.
+- **Short-term Network Improvement**: anticipating better conditions leading to improved upcoming video qualities.

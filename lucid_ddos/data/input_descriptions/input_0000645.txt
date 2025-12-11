@@ -1,0 +1,12 @@
+Explanation:
+Traffic Volume: Initially starts off with a uniform pattern, as observed from the features [Packet Length (kB), Higher Layer of Network, IP Flags of the request, Which protocol the connection is using, UDP connection length]. In the middle, it exhibits a decline to nonexistent pattern, as evident from features [Packet Length (kB) drops to 0, Higher Layer of Network drops to 0, IP Flags of the request drops to 0, Which protocol the connection is using drops to 0, UDP connection length drops to 0]. In the end, it exhibits a consistent to nonexistent pattern, based on features [Remaining all zeros]. Overall, the trend is declining, indicating the presence of anomaly conditions.
+
+Types of requests: Initially starts off with a uniform pattern, as observed from the features [Which protocol the connection is using consistent, UDP connection length consistent]. In the middle, it exhibits a decline to nonexistent pattern, as evident from features [Which protocol the connection is using drops to 0, UDP connection length drops to 0]. In the end, it exhibits a consistent to nonexistent pattern, based on features [Remaining all zeros]. Overall, the trend is declining, indicating the presence of anomaly conditions.
+
+Resource and rate of connection: Initially starts off with a consistent pattern, as observed from the features [TCP Flags used by the connection consistent, TCP Window size consistent, both at 0 indicating no TCP traffic]. In the middle, it exhibits a consistent to nonexistent pattern, as evident from features [Remaining at 0, indicating no change or activity]. In the end, it exhibits a consistent to nonexistent pattern, based on features [Remaining at 0]. Overall, the trend is static, indicating the presence of unchanging conditions in TCP traffic.
+
+IP or request patterns: Initially starts off with a consistent pattern, as observed from the features [IP Flags of the request consistent]. In the middle, it exhibits a decline to nonexistent pattern, as evident from features [IP Flags of the request drops to 0]. In the end, it exhibits a consistent to nonexistent pattern, based on features [Remaining all zeros]. Overall, the trend is declining, indicating the presence of anomaly conditions.
+
+Overall, this state exhibits declining patterns and has signs of DDoS attacks.
+
+This correlates with the key concept of Anomalous Traffic Volume, Unusual Traffic Patterns, Behavioral Anomalies, Geographical and Temporal Consistency, and Machine Learning and AI Detection.

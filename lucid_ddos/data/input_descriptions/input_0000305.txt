@@ -1,0 +1,12 @@
+Explanation:
+Traffic Volume: Initially starts off with a **high** pattern, as observed from the features **Packet Length and Higher Layer of Network**. In the middle, it exhibits a **drop** to **zero** pattern, as evident from features **Packet Length, Higher Layer of Network**. In the end, it exhibits a **zero** to **zero** pattern, based on features **Packet Length, Higher Layer of Network**. Overall, the trend is **declining**, indicating the presence of **potential attack** conditions.
+
+Types of requests: Initially starts off with a **consistent** pattern, as observed from the features **Higher Layer of Network, IP Flags of the request, Which protocol the connection is using, UDP connection length**. In the middle, it exhibits a **drop** to **zero** pattern, as evident from features **Higher Layer of Network, UDP connection length**. In the end, it exhibits a **zero** to **zero** pattern, based on features **Higher Layer of Network, UDP connection length**. Overall, the trend is **decreasing**, indicating the presence of **anomalous or attack** conditions.
+
+Resource and rate of connection: Initially starts off with a **non-existent** pattern, as observed from the features **Length of TCP Connection, Bytes Acknowledged by TCP, TCP Flags used by the connection, TCP Window size**. In the middle, it exhibits a **zero** to **zero** pattern, as evident from features **Length of TCP Connection, Bytes Acknowledged by TCP**. In the end, it exhibits a **zero** to **zero** pattern, based on features same as the middle. Overall, the trend is **static at zero**, indicating the presence of **non-TCP based attack** conditions.
+
+IP or request patterns: Initially starts off with a **specific protocol utilization** pattern, as observed from the features **Which protocol the connection is using (UDP), IP Flags of the request**. In the middle, it exhibits a **drop** to **zero** pattern, as evident from features **Which protocol the connection is using, IP Flags of the request**. In the end, it exhibits a **zero** to **zero** pattern, based on features **Which protocol the connection is using, IP Flags of the request**. Overall, the trend is **dropping to zero**, indicating the presence of **initial burst followed by cessation** conditions.
+
+Overall, this state exhibits **anomalous** patterns and has signs of **DDoS attack**.
+
+This correlates with the key concept of **Anomalous Traffic Volume**, **Unusual Traffic Patterns**, **Behavioral Anomalies**, **High Request Rates**, and **Machine Learning and AI Detection**.

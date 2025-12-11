@@ -1,0 +1,23 @@
+State:
+  - Selected Video Quality (SSIM dB), with a max of 25: [16.958, 16.961, 16.985, 16.620, 18.383, 17.932, 17.863, 17.614, 17.897, 16.755, ]
+  - Selected Chunk Size (Mb), with a max of 3: [0.481, 0.350, 0.330, 0.653, 0.803, 0.729, 1.100, 1.443, 1.380, 0.594, ]
+  - Transmission Time of Chunk (seconds), with a max of 20: [1.817, 1.315, 1.184, 1.518, 1.685, 1.377, 2.645, 2.686, 3.430, 1.885, ]
+  - Network Throughput (Mbps), with a max of 3: [0.265, 0.266, 0.279, 0.430, 0.476, 0.529, 0.416, 0.537, 0.402, 0.315, ]
+  - Client Buffer (seconds), with a max of 15: [6.292, 6.979, 7.797, 8.281, 8.598, 9.222, 8.579, 7.895, 6.467, 6.584, ]
+  - Quality of Experience, with a max of 5: [3.145, 3.255, 3.255, 3.170, 3.214, 3.317, 3.353, 3.303, 3.332, 3.092, ]
+  - Stalling (seconds), with a max of 3: [0.000, 0.000, 0.000, 0.000, 0.000, 0.000, 0.000, 0.000, 0.000, 0.000, ]
+  - Mean Upcoming Video Qualities (SSIM dB), with a max of 25: [13.592, 13.627, 14.812, 13.775, 14.851, ]
+  - Mean Upcoming Video Sizes (Mb), with a max of 3: [0.198, 0.264, 0.302, 0.236, 0.154, ]
+
+Explanation:
+1. Network conditions: Initially starts off with a low pattern, as observed from the features [0.265, 0.266, 0.279]. In the middle, it exhibits an increasing to moderate pattern, as evident from features [0.430, 0.476, 0.529]. In the end, it exhibits a fluctuating to decreasing pattern, based on features [0.416, 0.537, 0.402, 0.315]. Overall, the trend is unstable, indicating the presence of varying network conditions.
+
+2. Viewer's video buffer: Initially starts off with a low pattern, as observed from the features [6.292, 6.979, 7.797]. In the middle, it exhibits an increasing to high pattern, as evident from features [8.281, 8.598, 9.222]. In the end, it exhibits a decreasing to fluctuating pattern, based on features [8.579, 7.895, 6.467, 6.584]. Overall, the trend is variable, indicating the presence of inconsistent buffer health conditions.
+
+3. Viewer's Quality of Experience (environment reward or stalling behavior): Initially starts off with a moderate pattern, as observed from the features [3.145, 3.255, 3.255]. In the middle, it exhibits an increasing to high pattern, as evident from features [3.170, 3.214, 3.317]. In the end, it exhibits a high to moderate pattern, based on features [3.353, 3.303, 3.332, 3.092]. Overall, the trend is relatively consistent with slight fluctuations, indicating the presence of fairly stable QoE conditions.
+
+4. Upcoming video sizes: Initially starts off with a low pattern, as observed from the features [0.198]. In the middle, it exhibits a slightly increasing to moderate pattern, as evident from features [0.264, 0.302]. In the end, it exhibits a fluctuating to low pattern, based on features [0.236, 0.154]. Overall, the trend is variable, indicating the presence of inconsistent video size conditions.
+
+5. Upcoming video qualities: Initially starts off with a low pattern, as observed from the features [13.592, 13.627]. In the middle, it exhibits an increasing to moderate pattern, as evident from features [14.812]. In the end, it exhibits a fluctuating to moderate pattern, based on features [13.775, 14.851]. Overall, the trend is fluctuating, indicating the presence of inconsistent video quality conditions.
+
+Altogether, the patterns in the features indicate unstable network, inconsistent client video player, and varying video stream patterns. This correlates with the key concepts of network throughput volatility, adaptive strategy for network fluctuations, buffer health, quality of experience, and content suitability.

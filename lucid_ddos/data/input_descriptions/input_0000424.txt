@@ -1,0 +1,12 @@
+Explanation:
+Traffic Volume: Initially starts off with a stable pattern, as observed from the features [Timestamp, Packet Length]. In the middle, it exhibits a decrease to null pattern, as evident from features [Packet Length goes to 0]. In the end, it exhibits a null to null pattern, based on features [Timestamp remains at 0.000]. Overall, the trend is decreasing, indicating the presence of potential abnormal conditions.
+
+Types of requests: Initially starts off with a consistent pattern, as observed from the features [Higher Layer of Network, UDP connection length]. In the middle, it exhibits a normal to halted pattern, as evident from features [higher layer and UDP connection length drop to 0]. In the end, it exhibits a null to null pattern, based on features [higher network layer and UDP length remain at 0]. Overall, the trend is halting, indicating the presence of disruption conditions.
+
+Resource and rate of connection: Initially starts off with a predictable pattern, as observed from the features [Length of TCP Connection, Bytes Acknowledged by TCP]. In the middle, it exhibits a stable to depleted pattern, as evident from features [all TCP related metrics are zero]. In the end, it exhibits a null to null pattern, based on features [TCP related metrics stay at zero]. Overall, the trend is depleted, indicating the presence of potential attack conditions.
+
+IP or request patterns: Initially starts off with a normal pattern, as observed from the features [IP Flags of the request, Protocol the connection is using]. In the middle, it exhibits a compliant to non-compliant pattern, as evident from features [IP Flags change, protocol remains but TCP features drop to 0]. In the end, it exhibits a null to null pattern, based on features [continuation of zero values]. Overall, the trend is disruption, indicating the presence of unusual conditions.
+
+Overall, this state exhibits declining and disruptive patterns and has signs of attack or malfunction.
+
+This correlates with the key concept of Behavioral Analysis, Anomalous Traffic Volume, Protocol Compliance, Resource Exhaustion Symptoms, and Machine Learning and AI Detection.

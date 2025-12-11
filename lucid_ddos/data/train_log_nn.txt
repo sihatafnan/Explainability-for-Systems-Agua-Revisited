@@ -1,0 +1,5010 @@
+Validation Loss: 0.6527096629142761
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 0.5375167727470398
+              precision    recall  f1-score   support
+
+           0     0.8421    1.0000    0.9143        48
+           1     1.0000    0.8269    0.9053        52
+
+    accuracy                         0.9100       100
+   macro avg     0.9211    0.9135    0.9098       100
+weighted avg     0.9242    0.9100    0.9096       100
+
+Validation Loss: 0.4139712154865265
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 0.2914898991584778
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 0.1730630099773407
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 0.08709964156150818
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 0.03887319937348366
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 0.016937999054789543
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 0.008223193697631359
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 0.004704141523689032
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 0.0032416898757219315
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 0.0027334680780768394
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 0.0021477104164659977
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 0.001998801250010729
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 0.002074679359793663
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 0.00229768012650311
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 0.0019964284729212523
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 0.0018266950501129031
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 0.0020408774726092815
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 0.0018730305600911379
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 0.001544392085634172
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 0.0015205428935587406
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 0.001785235945135355
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 0.0011503277346491814
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 0.0010106313275173306
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 0.0013948327396064997
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 0.0010063673835247755
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 0.0007329396321438253
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 0.0007892478024587035
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 0.0008473445195704699
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 0.0007121102535165846
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 0.0007314446847885847
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 0.0004963453393429518
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 0.0004952662857249379
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 0.0006005455506965518
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 0.00042493786895647645
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 0.00035334270796738565
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 0.00044385300134308636
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 0.00048471425543539226
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 0.00030956612317822874
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 0.00026059712399728596
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 0.0002572964585851878
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 0.00027176205185241997
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 0.00031563977245241404
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 0.00037283546407707036
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 0.0003452271921560168
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 0.00021108832152094692
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 0.00019261684792581946
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 0.00019767569028772414
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 0.00019209606398362666
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 0.00018447912589181215
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 0.00023636090918444097
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 0.0001624844444449991
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 0.00013861904153600335
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 0.0001300202711718157
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 0.0001539666554890573
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 0.00017259786545764655
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 0.00012177637836430222
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 0.00011861811071867123
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 0.00011165181786054745
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 0.00012116978177800775
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 0.00014217518037185073
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 0.00012547954975161701
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 9.884501923806965e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 8.69082723511383e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 7.956515764817595e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 7.376191933872178e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 6.995485455263406e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 6.921686144778505e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 6.757066148566082e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 6.513314292533323e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 6.396769458660856e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 5.997385233058594e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 5.635849811369553e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 5.318971670931205e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 5.0685823225649074e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 4.8337980842916295e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 4.6111465053400025e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 4.670542330131866e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 4.583632107824087e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 4.286649709683843e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.921744428225793e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.711989847943187e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.5810007830150425e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.458828359725885e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.405419920454733e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.524700514390133e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.490370363579132e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.288962034275755e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.1207968277158216e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.0392708140425384e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.029607978533022e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.9069613447063603e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.686819789232686e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.5901510525727645e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.531622158130631e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.466659680067096e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.4095657863654196e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.364746978855692e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.3095599317457527e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.24817413254641e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.192506508436054e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.1888019546167925e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.1193065549596213e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.019659586949274e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.9175124180037528e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.8473085219739005e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.7951004338101484e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.750162300595548e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.7033167750923894e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.6587355275987647e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.6155850971699692e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.5626601452822797e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.5133102351683192e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.4701585314469412e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.4311791346699465e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.401377721776953e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.3736030268773902e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.347139823337784e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.3174588275433052e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.2844402590417303e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.2484413673519157e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.2112505828554276e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.1751325473596808e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.145332043961389e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.118273394240532e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.0872809070860967e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.0622486115607899e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.0394808668934274e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.0128984285984188e-05
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 9.83454901870573e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 9.535346180200577e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 9.26355551200686e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 9.051366760104429e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 8.83799384610029e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 8.547138349968009e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 8.255089596787002e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 8.020256245799828e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 7.787807589920703e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 7.592312613269314e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 7.4683384809759445e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 7.264492978720227e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 6.949792350496864e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 6.526616743940394e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 6.130856945674168e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 5.87694830755936e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 5.731514647777658e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 5.600385975412792e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 5.497866823134245e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 5.558657449000748e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 4.997204996470828e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 7.571962214569794e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 6.7840537667507306e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 6.248887984838802e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 9.258832506020553e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 9.904914804792497e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 6.264378498599399e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 4.59786406281637e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 4.3177233237656765e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 4.1341436372022144e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 4.19971183873713e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 4.720645847555716e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 4.914952569379238e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 4.323686425777851e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.6883111533825286e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.5047303299506893e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.4367817534075584e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.34141509483743e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.300884827694972e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.2424734399683075e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.2055195333668962e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.1840618248679675e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.1864460652286652e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.19121409120271e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.1423387554241344e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.076774191868026e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.9897523745603394e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.8955782909179106e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.833589860529173e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.74895251095586e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.696500814636238e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.6154393708566204e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.5486829144938383e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.5021915917022852e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.39848031924339e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.331723862880608e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.2447013634518953e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.2029785213817377e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.16125567931158e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.1231089704087935e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.0933066480210982e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.044430857495172e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.018205350395874e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.991979615922901e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.9776746285060653e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.9586011603678344e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.9538329070201144e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.935951331688557e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.9204542240913725e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.9180699837306747e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.9097255972155835e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.8167436337535037e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.7857496459328104e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.7690606455289526e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.747602937030024e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.7285295825786307e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.7094564555009129e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.673693645898311e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.65700430443394e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.6415075378972688e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.629586790841131e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.62004982939834e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.6140894558702712e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.5962083352860645e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.567598133078718e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.5461404245797894e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.4901124814059585e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.4531577789966832e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.4090504691921524e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.3935532479081303e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.3709036466025282e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.355406425318506e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.3375251910474617e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.3041466218055575e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.292225761062582e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.2719601727440022e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.261231659555051e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.265999912902771e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.2564631788336555e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.250502691618749e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.2242767297721002e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.2135479892094736e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.1932824008908938e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.1527514516274096e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.138446464210574e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.112220616050763e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.1038758884751587e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.0943391544060432e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.0693053127397434e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.0442713573866058e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.0347346233174903e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.0251980029352126e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 9.942036740540061e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 9.882431868390995e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 9.751302059157752e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 9.679777122073574e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 9.500963642494753e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 9.441359907214064e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 9.274467629438732e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 9.214862757289666e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 9.1433372517713e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 9.238704592462454e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 9.202942123920366e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 9.167179086944088e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 9.250625794265943e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 9.071811746252934e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 8.976444405561779e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 8.845314596328535e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 8.797631494417146e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 8.761869025875058e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 8.404240929849038e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 8.38039909467625e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 8.344636626134161e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 8.225428018704406e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 8.106218842840462e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 7.915484729892341e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 7.832038591004675e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 7.796276122462586e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 7.748592452117009e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 7.677066378164454e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 7.605542009514465e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 7.426727961501456e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 7.319439419006812e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 7.307518785637512e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 7.11678524112358e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 7.057178095237759e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 7.748587336209312e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 7.629379865647934e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 7.522093028455856e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 7.021416763564048e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 7.069101570778002e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 7.188310178207757e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 7.402886126328667e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 7.462489861609356e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 7.426726824633079e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 7.40288498946029e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 7.534015367127722e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 7.522094733758422e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 7.545936568931211e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 7.510173531954933e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 7.462489861609356e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 7.212150876512169e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 7.164467206166591e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 7.057179800540325e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 6.842603852419415e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 6.747236511728261e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 6.56842303214944e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 6.461134489654796e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 6.449213856285496e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 6.60418493225734e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 6.580342528650363e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 6.568421895281062e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 6.544580060108274e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 6.353845947160153e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 6.163111265777843e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 6.079665126890177e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 5.984298354633211e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 5.698196332559746e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 5.316728106663504e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 5.233282536210027e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 5.14983639732236e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 5.114073360346083e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 5.090231525173294e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 5.066389690000506e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 5.078310323369806e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 5.090230956739106e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 5.173677095626772e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 5.376331841944193e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 5.531302917916037e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 5.590906653196726e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 5.626669121738814e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 5.578985451393237e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 5.567064818023937e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 5.495539312505571e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 5.400172540248604e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 5.352489438337216e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 5.125991719978629e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 4.935258175464696e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 5.221359060669784e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 7.402879873552592e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 9.083722147806839e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 9.632082083044224e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 8.487679679092253e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 7.617456958541879e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 6.97372911417915e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 6.294238801274332e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 5.805482601317635e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 5.459776843963482e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 5.364410640140704e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 5.26904329944955e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 5.006783112548874e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 4.88757393668493e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 4.792207164427964e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 4.720681943126692e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 4.386896819141839e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 4.136558118261746e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.6835638184129493e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.612038312894583e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.5643543583319115e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.552434009179706e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.552434009179706e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.552434009179706e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.552434009179706e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.528592174006917e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.528592174006917e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.5166712564205227e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.433224549098668e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.433224549098668e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.409382713925879e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.397461796339485e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.361699043580302e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.397461796339485e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.397461796339485e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.397461796339485e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.3855408787530905e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.3855408787530905e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.361699043580302e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.361699043580302e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.3497781259939075e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.3497781259939075e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.337857208407513e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.337857208407513e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.373619961166696e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.480907935227151e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.6120377444603946e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.743168122127827e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.743168122127827e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.5047494861828454e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.492828568596451e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.445145182467968e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.409382429708785e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.445145182467968e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.4332242648815736e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.3855408787530905e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.337857208407513e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.2901735380619357e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.230568950129964e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.194806481587875e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.1709646464150865e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.1709646464150865e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.159043728828692e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.099438856679626e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.2901735380619357e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.4332242648815736e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.6120377444603946e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.623958662046789e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.623958662046789e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.4689867334236624e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.385540594535996e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.31401508901763e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.302094171431236e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.2424898677163583e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.182884995567292e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.147122242808109e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.920625092883711e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.896783257710922e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.8014162012368615e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.789495283650467e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.777574650281167e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.729890411501401e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.729890411501401e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.670286392003618e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.646444272613735e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.6345233550273406e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.4795517106213083e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.4795517106213083e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.4795517106213083e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.3007378047168459e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.3007378047168459e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.2649750519576628e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.2172913816120854e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.205370464025691e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.1934494043307495e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.1934494043307495e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.1815284867443552e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.1696075691579608e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.1338452427244192e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.1338452427244192e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.1338452427244192e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.0503986775111116e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.1576869357886608e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.1576869357886608e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.1815284867443552e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.1815284867443552e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.1815284867443552e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.1576869357886608e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.2292122991984797e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.6822064569387294e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.0040709475542826e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.159042876177409e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 3.0279127827270713e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.8014150643684843e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.7656525958263956e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.7656525958263956e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.6583646217659407e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.3722630260181177e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.1934492622222024e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 2.110002981225989e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.943110135016468e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.8954264646708907e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.8715847716066492e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.8715847716066492e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.835822018847466e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.835822018847466e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.8596638540202548e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.8596638540202548e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.8119800415661302e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.800059123979736e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.7881382063933415e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.7881382063933415e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.800059123979736e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.8835056891930435e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.9192684419522266e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.9073475243658322e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.835822018847466e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.8239011012610717e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.7762175730240415e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.7642965133291e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.7166128429835226e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.6689293147464923e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.525878161601213e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.5139573861233657e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.5139573861233657e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.5139573861233657e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.5139573861233657e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.5139573861233657e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.52587830370976e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.5139573861233657e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.657008397160098e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.657008397160098e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.657008397160098e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.657008397160098e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.657008397160098e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.6450874795737036e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.6450874795737036e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.6450874795737036e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.4662737157777883e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.3709063750866335e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.3589855996087863e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.3351436223274504e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.3113017871546617e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.323222704741056e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.323222704741056e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.323222704741056e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.3113017871546617e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.3113017871546617e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.3113017871546617e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.3113017871546617e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.3113017871546617e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Validation Loss: 1.3113017871546617e-07
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        48
+           1     1.0000    1.0000    1.0000        52
+
+    accuracy                         1.0000       100
+   macro avg     1.0000    1.0000    1.0000       100
+weighted avg     1.0000    1.0000    1.0000       100
+
+Final Test Loss: 2.8536291504603164e-06
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000       184
+           1     1.0000    1.0000    1.0000       266
+
+    accuracy                         1.0000       450
+   macro avg     1.0000    1.0000    1.0000       450
+weighted avg     1.0000    1.0000    1.0000       450
+

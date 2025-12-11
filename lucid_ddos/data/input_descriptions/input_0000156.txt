@@ -1,0 +1,12 @@
+Explanation:
+Traffic Volume: Initially starts off with a consistent pattern, as observed from the features "Timestamp" and "Packet Length (kB)". In the middle, it exhibits a minor fluctuation to a consistent pattern, as evident from features "Timestamp" showing slight increases and "Packet Length (kB)" alternating sizes. In the end, it exhibits a drop to a null pattern, based on features "Timestamp" returning to 0.000 and "Packet Length (kB)" also dropping to 0.000. Overall, the trend is irregular, indicating the presence of abnormal conditions.
+
+Types of requests: Initially starts off with a diverse pattern, as observed from the features "Higher Layer of Network" and "IP Flags of the request". In the middle, it exhibits a stable to diverse pattern, as evident from features "Higher Layer of Network" showing a mix of values and "IP Flags of the request" alternating. In the end, it exhibits a stable to null pattern, based on features "Higher Layer of Network" and "IP Flags of the request" both dropping to 0.000. Overall, the trend is inconsistent, indicating the presence of mixed conditions.
+
+Resource and rate of connection: Initially starts off with a uniform pattern, as observed from the features "Length of TCP Connection" and "Bytes Acknowledged by TCP". In the middle, it exhibits a drop to a sparse pattern, as evident from features "Length of TCP Connection" and "Bytes Acknowledged by TCP" both having zeros. In the end, it exhibits a sparse to null pattern, based on "Length of TCP Connection" and "Bytes Acknowledged by TCP" remaining at 0.000. Overall, the trend is decreasing, indicating the presence of declining resource usage.
+
+IP or request patterns: Initially starts off with a consistent pattern, as observed from the features "Which protocol the connection is using" and "TCP Window size (packets)". In the middle, it exhibits a consistent to varied pattern, as evident from features "Which protocol the connection is using" remaining constant and "TCP Window size (packets)" showing slight variations. In the end, it exhibits a varied to null pattern, based on features "TCP Window size (packets)" dropping to 0.000. Overall, the trend is predominantly static, indicating the presence of regular conditions with intermittent anomalies.
+
+Overall, this state exhibits irregular patterns and has signs of potential DDoS attack indicators. 
+
+This correlates with the key concept of Anomalous Traffic Volume, Unusual Traffic Patterns, Resource Exhaustion Symptoms, Behavioral Anomalies, and Machine Learning and AI Detection.

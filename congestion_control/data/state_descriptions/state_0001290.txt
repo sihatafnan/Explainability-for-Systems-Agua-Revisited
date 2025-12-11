@@ -1,0 +1,27 @@
+Loss ratio (bytes lost / bytes sent): 
+Initially starts off with (a/an) stable pattern, with (a/an) high mean and low variance, as observed from the values at index 0 through index 9. 
+Then, it in the middle, it exhibits (a/an) stable to stable pattern, with (a/an) high mean and low variance, as observed from the values at index 0 through index 9. 
+Finally, in the end, it exhibits (a/an) stable to stable pattern, with (a/an) high mean and low variance, as observed from the values at index 0 through index 9. 
+Overall, the trend of this feature is stable, indicating the presence of high network utilization.
+
+Latency ratio (average latency / minimum latency): 
+Initially starts off with (a/an) stable pattern, with (a/an) high mean and low variance, as observed from the values at index 0 through index 9. 
+Then, it in the middle, it exhibits (a/an) stable to stable pattern, with (a/an) high mean and low variance, as observed from the values at index 0 through index 9. 
+Finally, in the end, it exhibits (a/an) stable to stable pattern, with (a/an) high mean and low variance, as observed from the values at index 0 through index 9. 
+Overall, the trend of this feature is stable, indicating the presence of high network utilization.
+
+Send ratio (sending rate / receiving rate): 
+Initially starts off with (a/an) stable pattern, with (a/an) high mean and low variance, as observed from the values at index 0 through index 9. 
+Then, it in the middle, it exhibits (a/an) stable to stable pattern, with (a/an) high mean and low variance, as observed from the values at index 0 through index 9. 
+Finally, in the end, it exhibits (a/an) stable to stable pattern, with (a/an) high mean and low variance, as observed from the values at index 0 through index 9. 
+Overall, the trend of this feature is stable, indicating the presence of high network utilization.
+
+Sent Latency Increase ((latency of later half - latency of first half) / sending duration): 
+Initially starts off with (a/an) fluctuating pattern, with (a/an) low mean and moderate variance, as observed from the values at index 0 through index 4. 
+Then, it in the middle, it exhibits (a/an) decreasing to fluctuating pattern, with (a/an) low mean and moderate variance, as observed from the values at index 4 through index 9. 
+Finally, in the end, it exhibits (a/an) decreasing to fluctuating pattern, with (a/an) low mean and moderate variance, as observed from the values at index 4 through index 9. 
+Overall, the trend of this feature is fluctuating, indicating the presence of unstable network conditions.
+
+Combined Analysis: 
+Altogether, the patterns in the features indicate high network utilization with instability in latency changes. 
+This correlates with the key concepts of high network utilization and volatile network conditions, as evidenced by consistently high loss and latency ratios, paired with fluctuating latency increase patterns.

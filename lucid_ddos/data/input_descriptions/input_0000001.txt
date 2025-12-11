@@ -1,0 +1,12 @@
+Explanation:
+Traffic Volume: Initially starts off with a high pattern, as observed from the features Packet Length, Higher Layer of Network. In the middle, it exhibits a decrease to a low pattern, as evident from features showing null values in Packet Length, Higher Layer of Network in subsequent timestamps. In the end, it exhibits a low to non-existent pattern, based on features showing continued null values. Overall, the trend is decreasing, indicating the presence of abnormal conditions.
+
+Types of requests: Initially starts off with UDP-based pattern, as observed from the features UDP connection length. In the middle, it exhibits a transition to a non-existent pattern, as evident from features showing null values in UDP connection length. In the end, it exhibits a non-existent to non-existent pattern, based on features showing continued null values. Overall, the trend is decreasing, indicating the presence of abnormal conditions.
+
+Resource and rate of connection: Initially starts off with a normal pattern, as observed from the features showing some activity in Packet Length and UDP connection length. In the middle, it exhibits a decrease to a low or no activity pattern, as evident from features showing null values in TCP and UDP-related measurements. In the end, it exhibits a non-existent to non-existent pattern, based on features showing continued null values across all TCP and UDP-related measurements. Overall, the trend is towards inactivity, indicating the presence of abnormal conditions.
+
+IP or request patterns: Initially starts off with a consistent pattern, as observed from the features IP Flags of the request, Which protocol the connection is using with consistent values. In the middle, it exhibits a consistent to nonexistent pattern, as evident from features showing null values in subsequent timestamps. In the end, it exhibits a non-existent to non-existent pattern, based on features remaining at null values. Overall, the trend is towards inconsistency, indicating the presence of abnormal conditions.
+
+Overall, this state exhibits decreasing patterns and has signs of abnormal traffic conditions.
+
+This correlates with the key concept of Anomalous Traffic Volume, Behavioral Anomalies, Machine Learning and AI Detection, Protocol Anomalies, and Unusual Traffic Patterns.

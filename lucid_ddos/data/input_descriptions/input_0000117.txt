@@ -1,0 +1,12 @@
+Explanation:
+Traffic Volume: Initially starts off with a uniform pattern, as observed from the features packet lengths and timestamps. In the middle, it exhibits a spike to high pattern, as evident from features significant increase in packet length. In the end, it exhibits a return to uniform to moderate pattern, based on features packet lengths returning to baseline. Overall, the trend is variable, indicating the presence of potential DDoS conditions.
+
+Types of requests: Initially starts off with a consistent pattern, as observed from the features TCP flags and protocols used. In the middle, it exhibits an irregular to suspicious pattern, as evident from features unique TCP window sizes and bytes acknowledged. In the end, it exhibits a return to consistent to moderate pattern, based on features TCP flags normalization and window size reduction. Overall, the trend is irregular, indicating the presence of potential attack conditions.
+
+Resource and rate of connection: Initially starts off with a normal pattern, as observed from the features TCP connection lengths and bytes acknowledged. In the middle, it exhibits an abnormal to strained pattern, as evident from features significant change in TCP connection length and bytes acknowledged. In the end, it exhibits a normalized to reassured pattern, based on features resetting of TCP connection lengths and byte acknowledgment. Overall, the trend is variable, indicating the presence of potential exploitation conditions.
+
+IP or request patterns: Initially starts off with a consistent pattern, as observed from the features IP flags of the request. In the middle, it exhibits a deviation to suspicious pattern, as evident from features change in higher layer of network and IP flags. In the end, it exhibits a consistent to normalized pattern, based on features higher layer of network returning to a consistent state and IP flags normalization. Overall, the trend is irregular, indicating the presence of potential attack conditions.
+
+Overall, this state exhibits suspicious and irregular patterns and has signs of potential DDoS activity.
+
+This correlates with the key concept of Behavioral Analysis, Anomalous Traffic Volume, Unusual Traffic Patterns, Rate of New Connections, and Machine Learning and AI Detection.

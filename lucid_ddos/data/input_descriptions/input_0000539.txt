@@ -1,0 +1,12 @@
+Explanation:
+Traffic Volume: Initially starts off with a consistent pattern, as observed from the features "Timestamp" and "Packet Length". In the middle, it exhibits a spike to high pattern, as evident from features "Packet Length" increasing significantly. In the end, it exhibits a low to nonexistent pattern, based on features "Packet Length" dropping to 0. Overall, the trend is variable, indicating the presence of potential DDoS conditions.
+
+Types of requests: Initially starts off with a UDP-based pattern, as observed from the features "UDP connection length". In the middle, it exhibits a consistent to increased pattern, as evident from features "UDP connection length" increasing. In the end, it exhibits a non-existent pattern, based on features "UDP connection length" dropping to 0. Overall, the trend is indicative of UDP-based activity, indicating the presence of potential attack conditions.
+
+Resource and rate of connection: Initially starts off with a normal pattern, as observed from the features "Length of TCP Connection", "Bytes Acknowledged by TCP", and "TCP Window size". In the middle, it maintains a normal pattern, as evident from these features remaining at 0. In the end, it continues with a normal pattern, based on these features staying at 0. Overall, the trend is constant at no TCP activity, indicating the non-utilization of TCP resources.
+
+IP or request patterns: Initially starts off with a normal pattern, as observed from the features "IP Flags of the request" and "Protocol the connection is using". In the middle, it exhibits a shift to anomalous pattern, as evident from features "IP Flags of the request" showing significant change. In the end, it exhibits a normal to non-existent pattern, based on features returning to 0 or remaining unchanged. Overall, the trend is variable, indicating the presence of potential anomalous activities.
+
+Overall, this state exhibits variable patterns and has signs of potential DDoS attack conditions.
+
+This correlates with the key concept of Baseline of Normal Traffic, Anomalous Traffic Volume, Unusual Traffic Patterns, Protocol Anomalies, and Multi-vector Analysis.

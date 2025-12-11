@@ -1,0 +1,14 @@
+Explanation:
+Network conditions: Initially starts off with a fluctuating pattern, as observed from the features "Network Throughput (Mbps)". In the middle, it exhibits a stable to degraded pattern, as evident from features "Transmission Time of Chunk (seconds)" and "Selected Chunk Size (Mb)". In the end, it exhibits a degraded to improved pattern, based on features "Network Throughput (Mbps)" and "Transmission Time of Chunk (seconds)". Overall, the trend is unstable, indicating the presence of moderately towards poor conditions.
+
+Viewer's video buffer: Initially starts off with a filling pattern, as observed from the features "Client Buffer (seconds)". In the middle, it exhibits a stable to slightly declining pattern, as evident from features "Client Buffer (seconds)". In the end, it exhibits a declining to recovering pattern, based on features "Client Buffer (seconds)". Overall, the trend is fluctuating, indicating the presence of moderately stable conditions.
+
+Viewer's Quality of Experience (environment reward or stalling behavior): Initially starts off with a low pattern, as observed from the features "Quality of Experience". In the middle, it exhibits a moderate to high pattern, as evident from features "Quality of Experience". In the end, it exhibits a high to fluctuating pattern, based on features "Quality of Experience". Overall, the trend is inconsistent, indicating the presence of varying conditions.
+
+Upcoming video sizes: Initially starts off with a medium pattern, as observed from the features "Mean Upcoming Video Sizes (Mb)". In the middle, it exhibits a low to medium pattern, as evident from features "Mean Upcoming Video Sizes (Mb)". In the end, it exhibits a medium to slightly increasing pattern, based on features "Mean Upcoming Video Sizes (Mb)". Overall, the trend is fairly stable, indicating the presence of moderately stable conditions.
+
+Upcoming video qualities: Initially starts off with a low pattern, as observed from the features "Mean Upcoming Video Qualities (SSIM dB)". In the middle, it exhibits a low to moderate pattern, as evident from features "Mean Upcoming Video Qualities (SSIM dB)". In the end, it exhibits a moderate to high pattern, based on features "Mean Upcoming Video Qualities (SSIM dB)". Overall, the trend is improving, indicating the presence of moderately improving conditions.
+
+Altogether, the patterns in the features indicate inconsistent network, fluctuating client video player, and varying video stream patterns. 
+
+This correlates with the key concept of adaptive strategy for network fluctuations, buffer stability with moderate occupancy, data usage efficiency at slightly lower quality, initial playback start, and network congestion avoidance.

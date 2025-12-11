@@ -1,0 +1,28 @@
+The description of the state and patterns of the metrics are needed for a reflection on congestion control and network conditions. Here’s the analysis:
+
+Explanation:
+- **Loss ratio (bytes lost / bytes sent):**
+  - Initially starts off with a constant pattern, with a high mean and zero variance, as observed from the values at index 0 through index 9.
+  - Then, it in the middle, it exhibits a constant to constant pattern, with a high mean and zero variance, as observed from the values at index 0 through index 9.
+  - Finally, in the end, it exhibits a constant to constant pattern, with a high mean and zero variance, as observed from the values at index 0 through index 9.
+  - Overall, the trend of this feature is constant, indicating the presence of severe congestion and network conditions.
+
+- **Latency ratio (average latency / minimum latency):**
+  - Initially starts off with a constant pattern, with a low mean and zero variance, as observed from the values at index 0 through index 9.
+  - Then, it in the middle, it exhibits a constant to constant pattern, with a low mean and zero variance, as observed from the values at index 0 through index 9.
+  - Finally, in the end, it exhibits a constant to constant pattern, with a low mean and zero variance, as observed from the values at index 0 through index 9.
+  - Overall, the trend of this feature is constant, indicating the presence of stable latency ratios but dense network conditions.
+
+- **Send ratio (sending rate / receiving rate):**
+  - Initially starts off with a volatile pattern, with a high mean and low variance, as observed from the values at index 0 through index 3.
+  - Then, it in the middle, it exhibits a slight decrease to increase pattern, with a high mean and moderate variance, as observed from the values at index 4 through index 6.
+  - Finally, in the end, it exhibits a constant to constant pattern, with a high mean and low variance, as observed from the values at index 7 through index 9.
+  - Overall, the trend of this feature is variable, indicating the presence of high network utilization and inconsistencies.
+
+- **Sent Latency Increase ((latency of later half - latency of first half) / sending duration):**
+  - Initially starts off with a slight decreasing pattern, with a very low mean and moderate variance, as observed from the values at index 0 through index 2.
+  - Then, it in the middle, it exhibits a slight decrease to more negative pattern, with a low mean and moderate variance, as observed from the values at index 3 through index 6.
+  - Finally, in the end, it exhibits a decreasing to negative pattern, with a low mean and high variance, as observed from the values at index 7 through index 9.
+  - Overall, the trend of this feature is slightly decreasing, indicating the presence of volatile congestion changes.
+
+Combined Analysis: Altogether, the patterns in the features indicate fluctuating network conditions. This correlates with the key concepts of high network utilization and volatile conditions, as evidenced by high loss and varying send ratios against low but stable latency ratios.

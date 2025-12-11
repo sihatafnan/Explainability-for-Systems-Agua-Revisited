@@ -1,0 +1,12 @@
+Explanation:
+Traffic Volume: Initially starts off with a uniform pattern, as observed from the features Timestamp and Packet Length. In the middle, it exhibits a slight to moderate variation pattern, as evident from features Timestamp and Packet Length changing from rapid similar values to a slow increment in time with consistent packet sizes. In the end, it exhibits a stable to uniform pattern, based on features Timestamp and Packet Length remaining consistent. Overall, the trend is slightly fluctuating, indicating the presence of normal to suspicious conditions.
+
+Types of requests: Initially starts off with a varied pattern, as observed from the features Higher Layer of Network and Protocol Compliance. In the middle, it exhibits a consistent to homogenous pattern, as evident from features Higher Layer of Network becoming consistent and Protocol being unchanged. In the end, it exhibits a homogenous to consistent pattern, based on features Higher Layer of Network and Protocol remaining the same. Overall, the trend is becoming more consistent, indicating the presence of legitimate to suspicious conditions.
+
+Resource and rate of connection: Initially starts off with a moderate-use pattern, as observed from the features Length of TCP Connection and Bytes Acknowledged by TCP. In the middle, it exhibits a significant drop to low-use pattern, as evident from features Length of TCP Connection dropping to 0 and Bytes Acknowledged by TCP showing slight variations. In the end, it exhibits a low-use to slightly varied pattern, based on features Length of TCP Connection and TCP Window Size. Overall, the trend is decreasing, indicating the presence of potentially normal to DDoS conditions.
+
+IP or request patterns: Initially starts off with a uniform pattern, as observed from the features IP Flags of the request and TCP Flags used by the connection. In the middle, it exhibits a significant change to anomalous pattern, as evident from features IP Flags showing variation and TCP Flags changing. In the end, it exhibits a mixed to stable pattern, based on features IP Flags and TCP Flags showing some consistency towards the end. Overall, the trend is variable, indicating the presence of normal to suspicious conditions.
+
+Overall, this state exhibits mixed patterns and has signs of potential DDoS activity.
+
+This correlates with the key concept of Baseline of Normal Traffic, Behavioral Analysis, Rate Limiting and Thresholds, Protocol Compliance, and Machine Learning and AI Detection.

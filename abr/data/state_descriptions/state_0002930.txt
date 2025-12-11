@@ -1,0 +1,58 @@
+### Explanation:
+
+#### Network Conditions:
+1. **Initially starts off with**: a stable but low throughput pattern
+    - **Observed features**: Network Throughput (0.062 Mbps), Transmission Time (3.230 seconds), Selected Video Quality (15.106 dB).
+2. **In the middle, it exhibits**: stable pattern
+    - **Observed features**: Network Throughput (0.073 to 0.067 Mbps), Transmission Time (1.382 to 1.666 seconds), Selected Video Quality (13.924 to 10.290 dB).
+3. **In the end, it exhibits**: consistent but slightly lower throughput pattern
+    - **Observed features**: Network Throughput (0.065 to 0.073 Mbps), Transmission Time (1.899 to 2.134 seconds), Selected Video Quality (13.000 dB).
+4. **Overall trend**: consistent, indicating the presence of stable but low network throughput conditions.
+
+#### Viewer's Video Buffer:
+1. **Initially starts off with**: stable buffer pattern
+    - **Observed features**: Client Buffer (7.764 seconds).
+2. **In the middle, it exhibits**: increasing buffer pattern
+    - **Observed features**: Client Buffer (8.384 to 11.840 seconds).
+3. **In the end, it exhibits**: slightly fluctuating but stable buffer pattern
+    - **Observed features**: Client Buffer (11.059 to 10.790 seconds).
+4. **Overall trend**: stable, indicating the presence of a well-maintained buffer.
+
+#### Viewer's Quality of Experience (QoE):
+1. **Initially starts off with**: moderate QoE pattern
+    - **Observed features**: Quality of Experience (2.851).
+2. **In the middle, it exhibits**: fluctuating to decreasing QoE pattern
+    - **Observed features**: Quality of Experience (2.720 to 2.028).
+3. **In the end, it exhibits**: small improvements in QoE pattern
+    - **Observed features**: Quality of Experience (2.370 to 2.469).
+4. **Overall trend**: slightly decreasing, indicating the presence of moderate QoE with some recovery.
+
+#### Upcoming Video Sizes:
+1. **Initially starts off with**: moderate video size pattern
+    - **Observed features**: Mean Upcoming Video Sizes (0.227 Mb).
+2. **In the middle, it exhibits**: fluctuating to smaller video size pattern
+    - **Observed features**: Mean Upcoming Video Sizes (0.320 to 0.139 Mb).
+3. **In the end, it exhibits**: consistent smaller video size pattern
+    - **Observed features**: Mean Upcoming Video Sizes (0.141 to 0.133 Mb).
+4. **Overall trend**: decreasing, indicating the presence of smaller video sizes.
+
+#### Upcoming Video Qualities:
+1. **Initially starts off with**: moderate video quality pattern
+    - **Observed features**: Mean Upcoming Video Qualities (14.331 dB).
+2. **In the middle, it exhibits**: decreasing video quality pattern
+    - **Observed features**: Mean Upcoming Video Qualities (12.245 to 13.195 dB).
+3. **In the end, it exhibits**: moderate quality with slight improvements pattern
+    - **Observed features**: Mean Upcoming Video Qualities (13.243 to 13.309 dB).
+4. **Overall trend**: relatively consistent, indicating the presence of moderate video qualities.
+
+### Summarized Patterns:
+- **Network**: Stable but low throughput.
+- **Client Video Player**: Stable buffer management with minor fluctuations.
+- **Video Stream**: Moderate to slightly decreasing quality and sizes.
+
+### Correlated Key Concepts:
+1. **Network Throughput Volatility**
+2. **Rapidly Depleting Buffer Health**
+3. **Moderate Network Throughput**
+4. **Data Usage Efficiency at Slightly Lower Quality**
+5. **Smooth Switching Strategy**

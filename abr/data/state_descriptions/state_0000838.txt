@@ -1,0 +1,14 @@
+    Explanation:
+        Network conditions: Initially starts off with **low throughput** pattern, as observed from the features **low network throughput values (0.141 - 0.185 Mbps)**. In the middle, it exhibits **low to moderate throughput** pattern, as evident from features **network throughput (0.176 - 0.127 Mbps)**. In the end, it exhibits **moderate to slightly higher throughput** pattern, based on features **network throughput increasing (0.115 - 0.265 Mbps)**. Overall, the trend is **improving**, indicating the presence of **volatile network** conditions.
+
+        Viewer's video buffer: Initially starts off with a **stable** pattern, as observed from the features **client buffer (8.554 - 10.140 seconds)**. In the middle, it exhibits a **decreasing** pattern, as evident from features **buffer dropping (9.885 - 6.931 seconds)**. In the end, it exhibits a **stabilizing** pattern, based on features **client buffer values (7.479 - 8.633 seconds)**. Overall, the trend is **variable**, indicating the presence of **slightly stressed conditions**.
+
+        Viewer's Quality of Experience (environment reward or stalling behavior): Initially starts off with a **stable** pattern, as observed from the features **QoE (2.272 - 2.303)**. In the middle, it exhibits a **slight drop to partially recovering** pattern, as evident from features **QoE fluctuates (2.528 - 2.246)**. In the end, it exhibits a **stabilizing** pattern, based on features **QoE recovering (2.415 - 2.320)**. Overall, the trend is **stable overall**, indicating the presence of **acceptable conditions**.
+
+        Upcoming video sizes: Initially starts off with a **moderate** pattern, as observed from the features **mean video sizes (0.467 - 0.406 Mb)**. In the middle, it exhibits a **moderate to slightly lower** pattern, as evident from features **video sizes slightly decreasing (0.384 - 0.349 Mb)**. Overall, the trend is **slightly decreasing**, indicating the presence of **adaptive conditions**.
+
+        Upcoming video qualities: Initially starts off with a **moderate** pattern, as observed from the features **mean video qualities (12.014 - 10.193 SSIM dB)**. In the middle, it exhibits a **moderate to stable** pattern, as evident from features **video qualities (10.177 - 10.157 SSIM dB)**. Overall, the trend is **slightly decreasing**, indicating the presence of **adaptive conditions**.
+
+        Altogether, the patterns in the features indicate **variable** network, **moderately stressed** client video player, and **adaptive** video stream patterns. 
+        
+        This correlates with the key concept of **Network Throughput Volatility**, **Rapidly Depleting Buffer Health**, **Moderate Network Throughput**, **Adaptive Strategy for Network Fluctuations**, and **Smooth Switching Strategy**.

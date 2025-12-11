@@ -1,0 +1,19 @@
+**Network Conditions:**
+Initially starts off with **stable but low throughput** pattern, as observed from the features **Network Throughput (Mbps) and Transmission Time of Chunk (seconds)**. In the middle, it exhibits **gradual degradation** to **congested** pattern, as evident from features **Network Throughput (Mbps) and Transmission Time of Chunk (seconds)**. In the end, it exhibits **worsening** to **very poor** pattern, based on features **Network Throughput (Mbps) and Transmission Time of Chunk (seconds)**. Overall, the trend is **negative**, indicating the presence of **worsening network throughput** conditions.
+
+**Viewer's Video Buffer:**
+Initially starts off with a **stable** pattern, as observed from the features **Client Buffer (seconds)**. In the middle, it exhibits a **steady decline** to a **critically low** pattern, as evident from features **Client Buffer (seconds)**. In the end, it exhibits a **depleted** to **minimal recovery** pattern, based on features **Client Buffer (seconds)**. Overall, the trend is **negative**, indicating the presence of **depleting buffer health**.
+
+**Viewer's Quality of Experience:**
+Initially starts off with a **moderate** pattern, as observed from the features **Quality of Experience**. In the middle, it exhibits a **slight decrease** to **some recovery**, as evident from features **Quality of Experience**. In the end, it exhibits a **marginal improvement** to **steady state** pattern, based on features **Quality of Experience**. Overall, the trend is **marginally negative**, indicating the presence of **struggling to maintain consistent quality** conditions.
+
+**Upcoming Video Sizes:**
+Initially starts off with a **moderate** pattern, as observed from the features **Mean Upcoming Video Sizes (Mb)**. In the middle, it exhibits a **slight decrease** to **low**, as evident from features **Mean Upcoming Video Sizes (Mb)**. In the end, it exhibits a **sharp drop** to **minimal**, based on features **Mean Upcoming Video Sizes (Mb)**. Overall, the trend is **negative**, indicating the presence of **aggressive bandwidth saving** conditions.
+
+**Upcoming Video Qualities:**
+Initially starts off with a **moderate** pattern, as observed from the features **Mean Upcoming Video Qualities (SSIM dB)**. In the middle, it exhibits a **slight increase** to **high**, as evident from features **Mean Upcoming Video Qualities (SSIM dB)**. In the end, it exhibits a **peak** to **moderate**, based on features **Mean Upcoming Video Qualities (SSIM dB)**. Overall, the trend is **positive**, indicating the presence of **temporary high quality due to network fluctuation predictions** conditions.
+
+**Altogether:**
+The patterns in the features indicate **degrading network**, **buffer-struggling client video player**, and **adaptive video stream patterns**.
+
+This correlates with the key concepts of **Network Throughput Volatility**, **Rapidly Depleting Buffer Health**, **Short-term Network Improvement**, **Adaptive Strategy for Network Fluctuations**, and **Emergency Fallback**.

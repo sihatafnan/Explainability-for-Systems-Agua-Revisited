@@ -1,0 +1,13 @@
+digraph Tree {
+node [shape=box, style="filled, rounded", color="black", fontname="helvetica"] ;
+edge [fontname="helvetica"] ;
+0 [label=<Timestamp, with a max of 10__t-7 &le; 0.0<br/>gini = 0.5<br/>samples = 132<br/>value = [68, 64]<br/>class = benign>, fillcolor="#fdf8f3"] ;
+1 [label=<gini = 0.0<br/>samples = 59<br/>value = [0, 59]<br/>class = DDOS>, fillcolor="#399de5"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label=<UDP connection length, with a max of 2^16__t-9 &le; 0.003<br/>gini = 0.128<br/>samples = 73<br/>value = [68, 5]<br/>class = benign>, fillcolor="#e78a48"] ;
+0 -> 2 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+3 [label=<gini = 0.0<br/>samples = 68<br/>value = [68, 0]<br/>class = benign>, fillcolor="#e58139"] ;
+2 -> 3 ;
+4 [label=<gini = 0.0<br/>samples = 5<br/>value = [0, 5]<br/>class = DDOS>, fillcolor="#399de5"] ;
+2 -> 4 ;
+}

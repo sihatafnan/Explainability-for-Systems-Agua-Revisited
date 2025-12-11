@@ -1,0 +1,27 @@
+**Explanation:**
+
+- **Loss ratio (bytes lost / bytes sent):** 
+  - Initially starts off with a constant pattern, with a high mean and zero variance, as observed from the values at index 0 through index 9. 
+  - Then, in the middle, it exhibits a constant to constant pattern, with a high mean and zero variance, as observed from the values at index 4 through index 5. 
+  - Finally, in the end, it exhibits a constant to constant pattern, with a high mean and zero variance, as observed from the values at index 8 through index 9. 
+  - Overall, the trend of this feature is stable, indicating the presence of extremely high and persistent network congestion.
+
+- **Latency ratio (average latency / minimum latency):** 
+  - Initially starts off with a constant pattern, with a high mean and zero variance, as observed from the values at index 0 through index 9. 
+  - Then, in the middle, it exhibits a constant to constant pattern, with a high mean and zero variance, as observed from the values at index 4 through index 5. 
+  - Finally, in the end, it exhibits a constant to constant pattern, with a high mean and zero variance, as observed from the values at index 8 through index 9. 
+  - Overall, the trend of this feature is stable, indicating the presence of prolonged latency impacting network conditions.
+
+- **Send ratio (sending rate / receiving rate):**
+  - Initially starts off with a constant pattern, with a high mean and low variance, as observed from the values at index 0 through index 9. 
+  - Then, in the middle, it exhibits a constant to constant pattern, with a high mean and low variance, as observed from the values at index 4 through index 5. 
+  - Finally, in the end, it exhibits a constant to constant pattern, with a high mean and low variance, as observed from the values at index 8 through index 9. 
+  - Overall, the trend of this feature is stable, indicating the presence of high network congestion.
+
+- **Sent Latency Increase ((latency of later half - latency of first half) / sending duration):** 
+  - Initially starts off with a fluctuating pattern, with a low mean and low variance, as observed from the values at index 0 through index 9. 
+  - Then, in the middle, it exhibits a fluctuating to fluctuating pattern, with a low mean and low variance, as observed from the values at index 4 through index 5. 
+  - Finally, in the end, it exhibits a fluctuating to fluctuating pattern, with a low mean and low variance, as observed from the values at index 8 through index 9. 
+  - Overall, the trend of this feature is inconsistent, indicating the presence of variable latency changes.
+
+**Combined Analysis:** Altogether, the patterns in the features indicate highly congested network conditions. This correlates with the key concepts of increasing packet loss and stable high latency, as evidenced by persistent high values in loss ratio, latency ratio, and send ratio alongside fluctuating sent latency increase.

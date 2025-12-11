@@ -1,0 +1,12 @@
+Explanation:
+Traffic Volume: Initially starts off with a normal pattern, as observed from the features Timestamp and Packet Length. In the middle, it exhibits a decrease to no pattern, as evident from features Packet Length and Higher Layer of Network dropping to zero. In the end, it exhibits a no to no pattern, based on features remaining at zero. Overall, the trend is decreasing, indicating the presence of abnormal conditions. 
+
+Types of requests: Initially starts off with a consistent pattern, as observed from the features IP Flags of the request and Which protocol the connection is using. In the middle, it exhibits a shift to no pattern, as evident from features dropping to zero. In the end, it exhibits a no to no pattern, based on features staying at zero. Overall, the trend is transitioning, indicating the presence of potentially suspicious conditions.
+
+Resource and rate of connection: Initially starts off with active patterns, as observed from the features Length of TCP Connection and Bytes Acknowledged by TCP. In the middle, it exhibits a cessation to inactive patterns, as evident from these features dropping to zero. In the end, it exhibits an inactive to inactive pattern, based on features remaining at zero. Overall, the trend is sharply declining, indicating the presence of abnormal conditions.
+
+IP or request patterns: Initially starts off with a standard pattern, as observed from the features TCP Flags used by the connection and TCP Window size. In the middle, it exhibits a decline to no activity, as evident from all features dropping to zero. In the end, it exhibits a no to no activity pattern, based on features staying at zero. Overall, the trend is becoming inactive, indicating the presence of abnormal conditions.
+
+Overall, this state exhibits declining patterns and has signs of attack or system failure. 
+
+This correlates with the key concept of Behavioral Analysis, Anomalous Traffic Volume, High Request Rates, Resource Exhaustion Symptoms, and Machine Learning and AI Detection.

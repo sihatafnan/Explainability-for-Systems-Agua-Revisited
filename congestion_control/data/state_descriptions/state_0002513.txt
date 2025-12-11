@@ -1,0 +1,29 @@
+### Explanation:
+
+1. **Loss ratio (bytes lost / bytes sent):**
+   - **Initially:** stable pattern, with a high mean and low variance, as observed from the values at index 0 through index 2.
+   - **Middle:** stable to stable pattern, with a high mean and low variance, as observed from the values at index 3 through index 6.
+   - **End:** stable to stable pattern, with a high mean and low variance, as observed from the values at index 7 through index 9.
+   - **Overall:** stable, indicating the presence of stable network conditions.
+
+2. **Latency ratio (average latency / minimum latency):**
+   - **Initially:** stable pattern, with a low mean and zero variance, as observed from the values at index 0 through index 2.
+   - **Middle:** stable to stable pattern, with a low mean and zero variance, as observed from the values at index 3 through index 6.
+   - **End:** stable to stable pattern, with a low mean and zero variance, as observed from the values at index 7 through index 9.
+   - **Overall:** stable, indicating the presence of stable network conditions.
+
+3. **Send ratio (sending rate / receiving rate):**
+   - **Initially:** stable pattern, with a high mean and low variance, as observed from the values at index 0 through index 2.
+   - **Middle:** stable to stable pattern, with a high mean and low variance, as observed from the values at index 3 through index 6.
+   - **End:** stable to stable pattern, with a high mean and low variance, as observed from the values at index 7 through index 9.
+   - **Overall:** stable, indicating the presence of high network utilization conditions.
+
+4. **Sent Latency Increase ((latency of later half - latency of first half) / sending duration):**
+   - **Initially:** decreasing pattern, with a negative mean and low variance, as observed from the values at index 0 through index 2.
+   - **Middle:** stable to increasing pattern, with a slightly lower but near-zero mean and low variance, as observed from the values at index 3 through index 6.
+   - **End:** decreasing to decreasing pattern, with a negative mean and low variance, as observed from the values at index 7 through index 9.
+   - **Overall:** slightly volatile, indicating the presence of volatile network conditions.
+
+### Combined Analysis:
+- **Overall Network Conditions:** Stable with occasional volatility.
+- **Correlated Key Concepts:** Stable network conditions with periods of volatile conditions, evidenced by consistent ratios in loss and latency offset by fluctuations in latency increase.

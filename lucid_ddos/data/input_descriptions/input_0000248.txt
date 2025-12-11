@@ -1,0 +1,12 @@
+Explanation:
+Traffic Volume: Initially starts off with a consistent pattern, as observed from the features Packet Length and Higher Layer of Network. In the middle, it exhibits a decrease to zero pattern, as evident from features Packet Length and Higher Layer of Network decreasing to zero. In the end, it exhibits a zero to zero pattern, based on features Packet Length and Higher Layer of Network remaining at zero. Overall, the trend is decreasing, indicating the presence of anomalous conditions.
+
+Types of requests: Initially starts off with a uniform pattern, as observed from the features IP Flags of the request and Which protocol the connection is using. In the middle, it exhibits a uniform to nonexistent pattern, as evident from features remaining constant then dropping entries to zero. In the end, it exhibits a nonexistent to nonexistent pattern, based on features maintaining zeroes. Overall, the trend is uniform shifting towards inconsistency, indicating the presence of unusual traffic conditions.
+
+Resource and rate of connection: Initially starts off with active pattern, as observed from the features UDP connection length. In the middle, it exhibits a declining to zero pattern, as evident from features showing activity then dropping to zero. In the end, it exhibits a zero to zero pattern, based on features showing no activity. Overall, the trend is decreasing, indicating the presence of potential DDoS conditions.
+
+IP or request patterns: Initially starts off with a consistent pattern, as observed from the features TCP Flags used by the connection and TCP Window size (packets). In the middle, it exhibits a consistent to nonexistent pattern, as evident from features showing no change then remaining at zero. In the end, it exhibits a nonexistent to nonexistent pattern, based on features staying at zero. Overall, the trend is consistent to nonexistent, indicating the presence of potential attack conditions.
+
+Overall, this state exhibits consistent to decreasing patterns and has signs of anomalous or DDoS attack conditions.
+
+This correlates with the key concept of Anomalous Traffic Volume, Unusual Traffic Patterns, Machine Learning and AI Detection, Behavioral Analysis, and Protocol Compliance.

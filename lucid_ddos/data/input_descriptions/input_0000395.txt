@@ -1,0 +1,12 @@
+Explanation:
+Traffic Volume: Initially starts off with a uniform pattern, as observed from the timestamps and packet lengths. In the middle, it exhibits a spike to abnormal pattern, as evident from a significant increase in packet length (557 kB). In the end, it exhibits a return to uniform pattern, based on packet lengths returning to original size. Overall, the trend is fluctuating, indicating the presence of anomalous conditions. 
+
+Types of requests: Initially starts off with a consistent pattern, as observed from the protocol and higher layer of network values. In the middle, it exhibits a deviation to unusual pattern, as evident from the change in the higher layer of network value. In the end, it exhibits a return to consistent pattern, based on the restoration of the higher layer of network values. Overall, the trend is consistent with brief deviation, indicating the presence of potentially malicious conditions.
+
+Resource and rate of connection: Initially starts off with a non-existent pattern, as observed from the length of TCP connection and bytes acknowledged by TCP. In the middle, it exhibits a spike to established connection pattern, as evident from an increase in both the length of TCP connection and bytes acknowledged. In the end, it exhibits a return to non-existent pattern, based on features. Overall, the trend is abnormal, indicating the presence of anomalous conditions.
+
+IP or request patterns: Initially starts off with a consistent pattern, as observed from the IP flags and TCP flags used. In the middle, it exhibits a maintained consistent to slightly varied pattern, as evident from the change in the TCP window size. In the end, it exhibits a continued consistent pattern, based on features. Overall, the trend is mostly consistent with some variability, indicating the presence of unusual conditions.
+
+Overall, this state exhibits fluctuating patterns and has signs of a potential DDoS attack. 
+
+This correlates with the key concept of Anomalous Traffic Volume, Behavioral Anomalies, Machine Learning and AI Detection, Protocol Anomalies, and Resource Exhaustion Symptoms.

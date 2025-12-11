@@ -1,0 +1,12 @@
+Explanation:
+Traffic Volume: Initially starts off with a **consistent** pattern, as observed from the features **"Packet Length" and "Higher Layer of Network."** In the middle, it exhibits **a drop to a zero** pattern, as evident from features **"Packet Length," "Higher Layer of Network," "TCP Window size,"** and **"Which protocol the connection is using."** In the end, it exhibits **a zero to zero** pattern, based on features **remaining constant at zero.** Overall, the trend is **decreasing**, indicating the presence of **anomalous** conditions.
+
+Types of requests: Initially starts off with **consistent** pattern, as observed from the features **"TCP Flags used by the connection" and "TCP Window size."** In the middle, it exhibits **a drop to zero** pattern, as evident from features **"TCP Window size"** and **"Which protocol the connection is using."** In the end, it exhibits **a zero to zero** pattern, based on features **remaining constant at zero.** Overall, the trend is **decreasing**, indicating the presence of **anomalous** conditions.
+
+Resource and rate of connection: Initially starts off with a **present** pattern, as observed from the features **"TCP Flags used by the connection" and "TCP Window size."** In the middle, it exhibits **a fall to zero** pattern, as evident from features **all related to TCP and protocol use dropping to zero.** In the end, it exhibits **a zero to zero** pattern, based on features **remaining constant at zero.** Overall, the trend is **decreasing**, indicating the presence of **resource exhaustion or cessation of legitimate use** conditions.
+
+IP or request patterns: Initially starts off with **valid** pattern, as observed from the features **"Packet Length," "Higher Layer of Network,"** and **"TCP Flags used by the connection."** In the middle, it exhibits **a sudden decline to** a **non-existent** pattern, as evident from features **all dropping to zero.** In the end, it exhibits **a zero to zero** pattern, based on features **remaining consistent at zero.** Overall, the trend is **sharp decline**, indicating the presence of **an attack or system failure** conditions.
+
+Overall, this state exhibits **anomalous** patterns and has signs of **DDoS or other disruptive activities.**
+
+This correlates with the key concept of **Anomalous Traffic Volume, High Request Rates, Rate Limiting and Thresholds, Behavioral Analysis,** and **Resource Exhaustion Symptoms.**

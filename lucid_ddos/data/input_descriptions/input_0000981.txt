@@ -1,0 +1,12 @@
+Explanation:
+Traffic Volume: Initially starts off with a uniform pattern, as observed from the features [Timestamp, Packet Length, Higher Layer of Network]. In the middle, it exhibits a decrease to minimal pattern, as evident from features [Timestamp transitioning to constant zeros]. In the end, it exhibits a minimal to nonexistent pattern, based on features [consistent zeros in Packet Length, Higher Layer of Network]. Overall, the trend is diminishing, indicating the presence of non-volumetric attack conditions.
+
+Types of requests: Initially starts off with a valid pattern, as observed from the features [TCP Flags, TCP Window size]. In the middle, it exhibits a transition to non-existent pattern, as evident from features [all subsequent features dropping to zero]. In the end, it exhibits a non-existent to inactive pattern, based on features [consistent zeros in Length of TCP Connection, Bytes Acknowledged by TCP]. Overall, the trend is a transition to inactivity, indicating the presence of interrupted or blocked conditions.
+
+Resource and rate of connection: Initially starts off with a stable pattern, as observed from the features [TCP Window size, Bytes Acknowledged by TCP]. In the middle, it exhibits a stability to inactivity pattern, as evident from features [all subsequent zeros for Length of TCP Connection]. In the end, it exhibits an inactive to constant pattern, based on features [steady zeros across resource and rate connection features]. Overall, the trend is stabilization to complete inactivity, indicating the presence of potential resource exhaustion or connection blocking conditions.
+
+IP or request patterns: Initially starts off with a regular pattern, as observed from the features [IP Flags of the request, Which protocol the connection is using]. In the middle, it exhibits a standard to anomalous pattern, as evident from features [zero values in IP Flags and Protocol, indicating a halt in usual traffic]. In the end, it exhibits an anomalous to non-identifiable pattern, based on features [consistent zeros, denoting lack of identifiable IP or request patterns]. Overall, the trend is from regular to non-existent, indicating the presence of disrupted conditions.
+
+Overall, this state exhibits diminishing and transitioning patterns and has signs of a targeted disruption or non-volumetric attack.
+
+This correlates with the key concept of Behavioral Anomalies, Anomalous Traffic Volume, Protocol Anomalies, Resource Exhaustion Symptoms, and Rate of New Connections.

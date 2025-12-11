@@ -1,0 +1,12 @@
+Explanation:
+Traffic Volume: Initially starts off with a consistent pattern, as observed from the features Timestamp and Packet Length. In the middle, it exhibits a growth to stable pattern, as evident from features Higher Layer of Network and IP Flags of the request. In the end, it exhibits a decline to non-existent pattern, based on features Length of TCP Connection and Bytes Acknowledged by TCP. Overall, the trend is fluctuating, indicating the presence of possible DDoS conditions.
+
+Types of requests: Initially starts off with a consistent pattern, as observed from the features Which protocol the connection is using and TCP Flags used by the connection. In the middle, it exhibits a growth to stable pattern, as evident from features UDP connection length. In the end, it exhibits a decline to non-existent pattern, based on features Type of ICMP. Overall, the trend is increasing then dropping, indicating the presence of atypical conditions.
+
+Resource and rate of connection: Initially starts off with a normal pattern, as observed from the features Packet Length and UDP connection length. In the middle, it exhibits a growing to stabilized pattern, as evident from features Higher Layer of Network. In the end, it exhibits a decline to non-existent pattern, based on features TCP Window size (packets). Overall, the trend is variable, indicating the presence of potential DDoS conditions.
+
+IP or request patterns: Initially starts off with a uniform pattern, as observed from the features IP Flags of the request. In the middle, it exhibits a uniform to consistent pattern, as evident from features Higher Layer of Network and Which protocol the connection is using. In the end, it exhibits a decline to non-existent pattern, based on features Length of TCP Connection and Bytes Acknowledged by TCP. Overall, the trend is consistent then drops, indicating the presence of unusual conditions.
+
+Overall, this state exhibits fluctuating patterns and has signs of DDoS attack conditions.
+
+This correlates with the key concept of Anomalous Traffic Volume, Unusual Traffic Patterns, High Request Rates, Machine Learning and AI Detection, and Protocol Anomalies.

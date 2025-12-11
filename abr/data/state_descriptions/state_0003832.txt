@@ -1,0 +1,35 @@
+Explanation:
+
+1. **Network conditions**:
+    - Initially starts off with a **poor** pattern, as observed from the features **Network Throughput (Mbps)** and **Transmission Time of Chunk (seconds)**.
+    - In the middle, it exhibits a **moderate** to **improving** pattern, as evident from features **Network Throughput (Mbps)** and **Transmission Time of Chunk (seconds)**.
+    - In the end, it exhibits a **moderate** to **good** pattern, based on features **Network Throughput (Mbps)** and **Transmission Time of Chunk (seconds)**.
+    - Overall, the trend is **improving**, indicating the presence of **volatile yet gradually improving** network conditions.
+
+2. **Viewer's video buffer**:
+    - Initially starts off with a **stable** pattern, as observed from the features **Client Buffer (seconds)**.
+    - In the middle, it exhibits a **stable** to **slightly increasing** pattern, as evident from features **Client Buffer (seconds)**.
+    - In the end, it exhibits a **slightly increasing** to **stable** pattern, based on features **Client Buffer (seconds)**.
+    - Overall, the trend is **stable**, indicating the presence of **consistent** buffer conditions.
+
+3. **Viewer's Quality of Experience (environment reward or stalling behavior)**:
+    - Initially starts off with a **good** pattern, as observed from the features **Quality of Experience** and **Stalling (seconds)**.
+    - In the middle, it exhibits a **good** to **slightly improving** pattern, as evident from features **Quality of Experience** and **Stalling (seconds)**.
+    - In the end, it exhibits a **slightly improving** to **good** pattern, based on features **Quality of Experience** and **Stalling (seconds)**.
+    - Overall, the trend is **improving**, indicating the presence of **enhancing user experience** conditions.
+
+4. **Upcoming video sizes**:
+    - Initially starts off with a **variable** pattern, as observed from the features **Mean Upcoming Video Sizes (Mb)**.
+    - In the middle, it exhibits a **slightly increasing** to **variable** pattern, as evident from features **Mean Upcoming Video Sizes (Mb)**.
+    - In the end, it exhibits a **variable** to **slightly increasing** pattern, based on features **Mean Upcoming Video Sizes (Mb)**.
+    - Overall, the trend is **variable**, indicating the presence of **intermittent** conditions.
+
+5. **Upcoming video qualities**:
+    - Initially starts off with a **variable** pattern, as observed from the features **Mean Upcoming Video Qualities (SSIM dB)**.
+    - In the middle, it exhibits a **variable** to **moderate** pattern, as evident from features **Mean Upcoming Video Qualities (SSIM dB)**.
+    - In the end, it exhibits a **moderate** to **slightly increasing** pattern, based on features **Mean Upcoming Video Qualities (SSIM dB)**.
+    - Overall, the trend is **moderate**, indicating the presence of **improving** conditions.
+
+Altogether, the patterns in the features indicate **a volatile but improving** network, **a stable** client video player, and **variable but improving** video stream patterns.
+
+This correlates with the key concept of **Network Throughput Volatility**, **Buffer Stability with Moderate Occupancy**, **Adaptive Strategy for Network Fluctuations**, **Initial Playback Start**, and **Smooth Switching Strategy**.

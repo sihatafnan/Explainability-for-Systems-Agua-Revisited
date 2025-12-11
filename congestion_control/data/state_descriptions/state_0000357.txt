@@ -1,0 +1,11 @@
+Explanation:
+- Loss ratio (bytes lost / bytes sent): Initially starts off with a stable pattern, with a high mean and zero variance, as observed from the values at index 0 through index 9. Thereafter, it remains consistent with no observable change, maintaining a constant pattern throughout, with the same mean and variance. Overall, the trend of this feature is stable, indicating the presence of volatile network conditions with consistently high congestion.
+
+- Latency ratio (average latency / minimum latency): Initially starts off with a stable pattern, with a moderate mean and zero variance, as observed from the values at index 0 through index 9. Thereafter, it remains consistent with no observable change, maintaining a constant pattern throughout, with the same mean and variance. Overall, the trend of this feature is stable, indicating the presence of constant network conditions.
+
+- Send ratio (sending rate / receiving rate): Initially starts off with a stable pattern, with a very high mean and zero variance, as observed from the values at index 0 through index 9. Thereafter, it remains consistent with no observable change, maintaining a constant pattern throughout, with the same mean and variance. Overall, the trend of this feature is stable, indicating the presence of excessively high network utilization and congestion.
+
+- Sent Latency Increase ((latency of later half - latency of first half) / sending duration): Initially starts off with a volatile pattern, with a low mean and low variance, as observed from the values at index 0 through index 9. Then, in the middle, it continues a volatile to volatile pattern, with a slightly higher mean and increased variance from index 0 through index 9. Finally, in the end, it remains volatile to volatile, with a similar mean and variance as the middle segment. Overall, the trend of this feature is volatile, indicating the presence of unstable network congestion.
+
+Combined Analysis: Altogether, the patterns in the features indicate volatile and congested network conditions.
+This correlates with the key concepts of increasing packet loss, high network utilization, and volatile network conditions, as evidenced by the stable and high loss ratio, high send ratio, and variable sent latency increase.

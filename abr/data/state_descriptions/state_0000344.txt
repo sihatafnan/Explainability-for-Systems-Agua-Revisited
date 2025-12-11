@@ -1,0 +1,15 @@
+Explanation:
+
+- **Network conditions**: Initially starts off with a **stable** pattern, as observed from the features **high network throughput and lower transmission time of chunks**. In the middle, it exhibits **volatile** to **recovering** pattern, as evident from features **fluctuating network throughput and chunk sizes**. In the end, it exhibits a **recovering** to **stabilized** pattern based on features **rising throughput and lower transmission times**. Overall, the trend is **fluctuating with recovery**, indicating the presence of **improving network conditions**.
+  
+- **Viewer's video buffer**: Initially starts off with a **stable** pattern, as observed from the features **near maximum buffer levels**. In the middle, it exhibits a **consistent** to **steady** pattern, as evident from features **maintained maximum buffer levels**. In the end, it exhibits a **steady** to **unchanged** pattern, based on features **continuous maximum buffer levels**. Overall, the trend is **highly stable**, indicating the presence of **good buffering conditions**.
+  
+- **Viewer's Quality of Experience (environment reward or stalling behavior)**: Initially starts off with a **high** pattern, as observed from the features **higher QoE measurements**. In the middle, it exhibits a **declining** to **moderate** pattern, as evident from features **gradually lowering QoE scores**. In the end, it exhibits a **moderate** to **slightly improving** pattern, based on features **QoE scores rising**. Overall, the trend is **moderate to declining**, indicating the presence of **fluctuating but recovering experience**.
+
+- **Upcoming video sizes**: Initially starts off with a **small** pattern, as observed from the features **lower upcoming video sizes**. In the middle, it exhibits a **small** to **slightly larger** pattern, as evident from features **small gradual increments in video sizes**. In the end, it exhibits a **slightly decreasing** pattern, based on features **small decrements in video sizes towards the last values**. Overall, the trend is **small and slightly variable**, indicating the presence of **relatively consistent content sizes**.
+  
+- **Upcoming video qualities**: Initially starts off with a **moderate** pattern, as observed from the features **moderate SSIM dB values**. In the middle, it exhibits a **decreasing** to **stable** pattern, as evident from features **decline and then stabilization of SSIM dB**. In the end, it exhibits a **stable low** pattern, based on features **steady lower SSIM dB values toward the end**. Overall, the trend is **declining**, indicating the presence of **perceived lower-quality upcoming content**.
+
+Altogether, the patterns in the features indicate **a recovering network**, **a stable client video player**, and **consistent but lower-end video stream patterns**.
+
+This correlates with the key concept of **network throughput volatility**, **rapidly depleting buffer health**, **initial playback start**, **adaptive strategy for network fluctuations**, and **smooth switching strategy**.

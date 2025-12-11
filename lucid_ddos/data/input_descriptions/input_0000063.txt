@@ -1,0 +1,12 @@
+Explanation:
+Traffic Volume: Initially starts off with a uniform pattern, as observed from the features "Packet Length" and "Higher Layer of Network". In the middle, it exhibits a decline to zero pattern, as evident from features "Packet Length" and "Higher Layer of Network". In the end, it exhibits a consistent to zero pattern, based on features "Packet Length" and "Higher Layer of Network". Overall, the trend is declining, indicating the presence of abnormal conditions.
+
+Types of requests: Initially starts off with a consistent pattern, as observed from the features "Which protocol the connection is using" and "TCP Flags used by the connection". In the middle, it exhibits a significant change to a different consistent pattern, as evident from features "TCP Flags used by the connection" (changing from 2 to 20) and "Bytes Acknowledged by TCP". In the end, it exhibits a consistent to zero pattern, based on features "Which protocol the connection is using" and "TCP Flags used by the connection". Overall, the trend is initially consistent then drops, indicating the presence of abnormal conditions.
+
+Resource and rate of connection: Initially starts off with an engaged pattern, as observed from the features "TCP Window size (packets)". In the middle, it exhibits a drop to nonexistent pattern, as evident from features "TCP Window size (packets)" going to zero. In the end, it exhibits a nonexistent pattern, based on features "TCP Window size (packets)". Overall, the trend is sharply declining, indicating the presence of abnormal resource and connection rate conditions.
+
+IP or request patterns: Initially starts off with a consistent pattern, as observed from the features "IP Flags of the request". In the middle, it exhibits a shift to a different pattern, as evident from features "IP Flags of the request" changing values. In the end, it exhibits a consistent zero pattern, based on features "IP Flags of the request". Overall, the trend is changing then consistent, indicating the presence of abnormal conditions.
+
+Overall, this state exhibits unusual and declining patterns and has signs of potential DDoS attack conditions.
+
+This correlates with the key concept of Anomalous Traffic Volume, Unusual Traffic Patterns, Protocol Anomalies, Machine Learning and AI Detection, and Rate Limiting and Thresholds.

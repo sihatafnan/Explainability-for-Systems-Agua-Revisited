@@ -1,0 +1,29 @@
+**Explanation:**
+
+**Loss ratio (bytes lost / bytes sent):**  
+Initially starts off with a stable pattern, with a high mean and zero variance, as observed from the values at index 0 through index 9.  
+Then, in the middle, it exhibits a stable to stable pattern, with a high mean and zero variance, as observed from the values at index 0 through index 9.  
+Finally, in the end, it exhibits a stable to stable pattern, with a high mean and zero variance, as observed from the values at index 0 through index 9.  
+Overall, the trend of this feature is stable, indicating the presence of highly congested network conditions.
+
+**Latency ratio (average latency / minimum latency):**  
+Initially starts off with a stable pattern, with a very high mean and zero variance, as observed from the values at index 0 through index 9.  
+Then, in the middle, it exhibits a stable to stable pattern, with a very high mean and zero variance, as observed from the values at index 0 through index 9.  
+Finally, in the end, it exhibits a stable to stable pattern, with a very high mean and zero variance, as observed from the values at index 0 through index 9.  
+Overall, the trend of this feature is stable, indicating the presence of consistently high latency due to network congestion.
+
+**Send ratio (sending rate / receiving rate):**  
+Initially starts off with a stable pattern, with a high mean and zero variance, as observed from the values at index 0 through index 9.  
+Then, in the middle, it exhibits a stable to stable pattern, with a high mean and zero variance, as observed from the values at index 0 through index 9.  
+Finally, in the end, it exhibits a stable to stable pattern, with a high mean and zero variance, as observed from the values at index 0 through index 9.  
+Overall, the trend of this feature is stable, indicating the presence of persistent packet loss due to network congestion.
+
+**Sent Latency Increase ((latency of later half - latency of first half) / sending duration):**  
+Initially starts off with a volatile pattern, with a low mean and low variance, as observed from the values at index 0 through index 3.  
+Then, in the middle, it exhibits a volatile to volatile pattern, with a low mean and low variance, as observed from the values at index 4 through index 6.  
+Finally, in the end, it exhibits a volatile to volatile pattern, with a low mean and moderate variance, as observed from the values at index 7 through index 9.  
+Overall, the trend of this feature is volatile, indicating the presence of fluctuating network conditions.
+
+**Combined Analysis:**  
+Altogether, the patterns in the features indicate consistently poor network conditions characterized by high packet loss, significant latency, and fluctuating latency increase.  
+This correlates with the key concepts of increasing packet loss and highly congested network conditions, as evidenced by consistently high loss ratio and latency ratio across all data points.

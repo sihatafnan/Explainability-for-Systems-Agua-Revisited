@@ -1,0 +1,33 @@
+Network conditions:
+- Initially starts off with **low** pattern, as observed from the features **Network Throughput (0.000 Mbps)**.
+- In the middle, it exhibits a **stable** to **slightly increasing** pattern, as evident from features **Network Throughput (2.091 to 2.150 Mbps)**.
+- In the end, it exhibits a **high** to **higher** pattern, based on features **Network Throughput (2.346 to 2.594 Mbps)**.
+- Overall, the trend is **increasing**, indicating the presence of **improving network** conditions.
+
+Viewer's video buffer:
+- Initially starts off with a **filling** pattern, as observed from the features **Client Buffer (2.002 seconds)**.
+- In the middle, it exhibits a **stable** to **increasing** pattern, as evident from features **Client Buffer (3.674 to 12.462 seconds)**.
+- In the end, it exhibits a **nearly full** to **full** pattern, based on features **Client Buffer (14.203 to 14.900 seconds)**.
+- Overall, the trend is **increasing**, indicating the presence of **well-buffered** conditions.
+
+Viewer's Quality of Experience (environment reward or stalling behavior):
+- Initially starts off with a **recovery** pattern, as observed from the features **Quality of Experience (3.421)**.
+- In the middle, it exhibits a **stable** to **slightly increasing** pattern, as evident from features **Quality of Experience (3.107 to 3.303)**.
+- In the end, it exhibits a **stable** to **slight increase** pattern, based on features **Quality of Experience (3.249 to 3.276)**.
+- Overall, the trend is **stable with slight improvement**, indicating the presence of **good viewing** conditions.
+
+Upcoming video sizes:
+- Initially starts off with a **low** pattern, as observed from the features **Mean Upcoming Video Sizes (Mb, 0.100)**.
+- In the middle, it exhibits a **stable** to **slightly fluctuating** pattern, as evident from features **Mean Upcoming Video Sizes (Mb, 0.099 to 0.104)**.
+- In the end, it exhibits a **slight fluctuation** to **stable** pattern, based on features **Mean Upcoming Video Sizes (Mb 0.104 to 0.098)**.
+- Overall, the trend is **stable with minor fluctuations**, indicating the presence of **consistent video size** conditions.
+
+Upcoming video qualities:
+- Initially starts off with a **moderate** pattern, as observed from the features **Mean Upcoming Video Qualities (SSIM, 13.276)**.
+- In the middle, it exhibits a **stable** to **slightly improving** pattern, as evident from features **Mean Upcoming Video Qualities (SSIM, 12.715 to 12.951)**.
+- In the end, it exhibits a **slightly improving** to **stable** pattern, based on features **Mean Upcoming Video Qualities (SSIM, 12.951 to 12.951)**.
+- Overall, the trend is **stable with minor improvements**, indicating the presence of **consistent quality** conditions.
+
+Altogether, the patterns in the features indicate **improving network**, **stable client video player**, and **consistent video stream** patterns. 
+
+This correlates with the key concept of **Network Throughput Volatility**, **Rapidly Depleting Buffer Health**, **Moderate Network Throughput**, **Buffer Stability with Moderate Occupancy**, and **High Content Complexity**.

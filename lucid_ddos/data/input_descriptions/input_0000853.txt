@@ -1,0 +1,12 @@
+Explanation:
+Traffic Volume: Initially starts off with a consistent pattern, as observed from the features Packet Length and Higher Layer of Network. In the middle, it exhibits a drop to zero pattern, as evident from features Packet Length, Higher Layer of Network, and All subsequent features showing zeros. In the end, it exhibits a consistent to zero pattern, based on features showing all zeros after the initial consistent values. Overall, the trend is from initial consistency to complete drop-off, indicating the presence of unusual conditions.
+
+Types of requests: Initially starts off with a standardized pattern, as observed from the features TCP Flags used by the connection and TCP Window size. In the middle, it exhibits a drop to non-existent pattern, as evident from features Length of TCP Connection and Bytes Acknowledged by TCP showing zeros. In the end, it exhibits a non-existent pattern, based on features showing all zeros for these metrics. Overall, the trend is from initial standard request types to no requests, indicating the presence of disrupted conditions.
+
+Resource and rate of connection: Initially starts off with an established pattern, as observed from the features Which protocol the connection is using and TCP Window size. In the middle, it exhibits an abrupt cessation to non-existent pattern, as evident from features Length of TCP Connection and Bytes Acknowledged by TCP showing zeros. In the end, it exhibits a non-existent pattern, based on features Length of TCP Connection and Bytes Acknowledged by TCP remaining at zeros. Overall, the trend is from established connections to no connections, indicating the presence of cut-off conditions.
+
+IP or request patterns: Initially starts off with a legitimate pattern, as observed from the features Higher Layer of Network and TCP Flags used. In the middle, it exhibits a deviation to abnormal pattern, as evident from features all turning to zeros indicating no traffic. In the end, it exhibits an abnormal to persistent zero pattern, based on features remaining at zero. Overall, the trend is from legitimate activity to complete halt, indicating the presence of intervened conditions.
+
+Overall, this state exhibits abnormal patterns and has signs of a potential DDoS attack phase transition. 
+
+This correlates with the key concept of Baseline of Normal Traffic, Anomalous Traffic Volume, Behavioral Analysis, Multi-vector Analysis, and Machine Learning and AI Detection.

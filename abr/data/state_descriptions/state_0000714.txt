@@ -1,0 +1,15 @@
+Explanation:
+
+Network conditions: Initially starts off with a **low-stable** pattern, as observed from the features **[0.398, 0.325] Mbps Network Throughput**. In the middle, it exhibits a **volatile to slightly improved** pattern, as evident from features **[0.258, 0.456, 0.482] Mbps Network Throughput**. In the end, it exhibits a **declining to fluctuating** pattern, based on features **[0.233, 0.188, 0.276, 0.506, 0.252] Mbps Network Throughput**. Overall, the trend is **volatile**, indicating the presence of **unstable** conditions.
+
+Viewer's video buffer: Initially starts off with a **full-stable** pattern, as observed from the features **[15.000, 15.000 seconds] Buffer**. In the middle, it exhibits a **slightly decreasing** pattern, as evident from features **[13.392, 13.526, 14.025, 13.103, 13.945, 13.338, 13.049 seconds] Buffer**. In the end, it exhibits a **decreasing** pattern, based on features **[13.049, 11.538 seconds] Buffer**. Overall, the trend is **declining**, indicating the presence of **buffer depletion** conditions.
+
+Viewer's Quality of Experience (environment reward or stalling behavior): Initially starts off with a **moderate quality** pattern, as observed from the features **[3.424, 3.469] QoE**. In the middle, it exhibits a **slight degradation** pattern, as evident from features **[3.283, 3.377, 3.338, 3.363, 3.421, 3.128] QoE**. In the end, it exhibits a **fluctuating lower quality** pattern, based on features **[3.128, 3.227] QoE**. Overall, the trend is **slightly declining**, indicating the presence of **generally consistent but fluctuating** conditions.
+
+Upcoming video sizes: Initially starts off with a **low** pattern, as observed from the features **[0.317] Mb**. In the middle, it exhibits a **variation** pattern, as evident from features **[0.476, 0.258] Mb**. In the end, it exhibits a **low** pattern, based on features **[0.135, 0.151] Mb**. Overall, the trend is **low**, indicating the presence of **minimal upcoming bitrate** conditions.
+
+Upcoming video qualities: Initially starts off with a **moderate-low** pattern, as observed from the features **[14.212, 14.390] SSIM dB**. In the middle, it exhibits a **slightly higher** pattern, as evident from features **[14.285, 14.970] SSIM dB**. In the end, it exhibits a **consistent moderate** pattern, based on features **[14.982] SSIM dB**. Overall, the trend is **moderately consistent**, indicating the presence of **slightly improving quality** conditions.
+
+Altogether, the patterns in the features indicate **unstable network**, **depleting client video player buffer**, and **consistent but slightly fluctuating video stream patterns**. 
+
+This correlates with the key concept of **Network Throughput Volatility**, **Rapidly Depleting Buffer Health**, **Data Usage Efficiency at Slightly Lower Quality**, **Initial Playback Start**, and **Emergency Fallback**.

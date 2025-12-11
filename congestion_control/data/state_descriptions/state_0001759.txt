@@ -1,0 +1,29 @@
+**Explanation:**
+
+**Loss ratio (bytes lost / bytes sent):**
+- Initially starts off with a stable pattern, with a high mean of 0.928 and zero variance, as observed from the values at index 0 through index 5.
+- Then, it in the middle, it exhibits a stable to stable pattern, with a high mean of 0.928 and zero variance, as observed from the values at index 6 through index 8.
+- Finally, in the end, it exhibits a stable to stable pattern, with a high mean of 0.928 and zero variance, as observed from the values at index 9 through index 9.
+- Overall, the trend of this feature is constant high, indicating the presence of highly congested network conditions.
+
+**Latency ratio (average latency / minimum latency):**
+- Initially starts off with a stable pattern, with a low mean of 1.03 and zero variance, as observed from the values at index 0 through index 5.
+- Then, it in the middle, it exhibits a stable to stable pattern, with a low mean of 1.03 and zero variance, as observed from the values at index 6 through index 8.
+- Finally, in the end, it exhibits a stable to stable pattern, with a low mean of 1.03 and zero variance, as observed from the values at index 9 through index 9.
+- Overall, the trend of this feature is constant low, indicating the presence of stable network conditions in terms of latency variability.
+
+**Send ratio (sending rate / receiving rate):**
+- Initially starts off with a stable pattern, with a high mean of 14.9 and low variance of 0, as observed from the values at index 0 through index 3.
+- Then, it in the middle, it exhibits a spike pattern, with a slightly higher mean of 15.27 and high variance, as observed from the values at index 4 through index 4.
+- Finally, in the end, it exhibits a stable to stable pattern, with a high mean of 14.9 and low variance, as observed from the values at index 5 through index 9.
+- Overall, the trend of this feature is stable with a brief spike, indicating the presence of high network utilization with occasional perturbations.
+
+**Sent Latency Increase ((latency of later half - latency of first half) / sending duration):**
+- Initially starts off with a mixed pattern, with a mean slightly above zero, and moderate variance, as observed from the values at index 0 through index 2.
+- Then, it in the middle, it exhibits a fluctuating pattern, with a near-zero mean and moderate variance, as observed from the values at index 3 through index 5.
+- Finally, in the end, it exhibits a stable to stable pattern, with a near-zero mean and moderate variance, as observed from the values at index 6 through index 9.
+- Overall, the trend of this feature is fluctuating around zero, indicating changing network conditions.
+
+**Combined Analysis:**
+- Altogether, the patterns in the features indicate volatile network conditions.
+- This correlates with the key concepts of volatile network conditions and high network utilization, as evidenced by consistently high packet loss, stable latency ratio, occasionally spiking send ratio, and fluctuating sent latency increase.

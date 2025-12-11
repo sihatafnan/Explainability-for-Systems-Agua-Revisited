@@ -1,0 +1,13 @@
+Explanation: 
+
+Traffic Volume: Initially starts off with a consistent pattern, as observed from the features Timestamp, Packet Length. In the middle, it exhibits a drop to zero pattern, as evident from features Packet Length, Higher Layer of Network. In the end, it exhibits a zero to zero pattern, based on features Packet Length, Higher Layer of Network. Overall, the trend is decreasing, indicating the presence of interruptive conditions. 
+
+Types of requests: Initially starts off with a consistent pattern, as observed from the features Protocol, UDP connection length. In the middle, it exhibits a consistent to zero pattern, as evident from features UDP connection length. In the end, it exhibits a zero to zero pattern, based on features UDP connection length. Overall, the trend is decreasing, indicating the presence of non-standard request behavior.
+
+Resource and rate of connection: Initially starts off with a non-applicable pattern, as observed from the features Length of TCP Connection, Bytes Acknowledged by TCP, TCP Flags used by the connection, TCP Window size. Throughout, it remains non-applicable, indicating no TCP-based connections are occurring in this state.
+
+IP or request patterns: Initially starts off with a consistent pattern, as observed from the features IP Flags of the request, Which protocol the connection is using. In the middle, it exhibits a change to consistent pattern, as evident from features IP Flags of the request indicating a protocol-specific action. In the end, it exhibits a consistent to consistent pattern, based on features IP Flags of the request, indicating sustained protocol behavior. Overall, the trend is stable, indicating the presence of protocol adherence.
+
+Overall, this state exhibits irregular patterns and has signs of a potential disruption or attack scenario, specifically a drop observed in traffic volume and types of requests indicating a deviation from normal behavior.
+
+This correlates with the key concept of **Baseline of Normal Traffic**, **Behavioral Analysis**, **Rate Limiting and Thresholds**, **Protocol Compliance**, and **Anomalous Traffic Volume**.
