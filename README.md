@@ -1,5 +1,4 @@
-# Agua: Concept-Based Explanations for Learning-Enabled Systems (SIGCOMM'25)
-
+# Extension of Agua; CS256 Course Project UCI
 This is public repository of Agua, a framework for generating human-understandable, concept-based explanations of learned-enabled systems controllers. It supports three application domains:
 
 1. Adaptive Bitrate (ABR) video streaming (`abr/`)
